@@ -254,3 +254,39 @@
 [31m      at 120363418928626579@g.us::557799313439::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
 [31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
 [31m}[39m
+2025-07-12 04:49:51:4951 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 04:50:02:502 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 04:50:14:5014 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 04:50:25:5025 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 04:50:37:5037 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 04:50:48:5048 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 04:51:00:510 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 04:51:12:5112 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 04:51:23:5123 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 04:51:35:5135 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 04:51:46:5146 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 04:51:58:5158 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 13:57:17:5717 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-12 13:58:01:581 [31merror[39m: [31m{[39m
+[31m  err: Error: Timed Out[39m
+[31m      at C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\lib\Utils\generics.js:151:32 {[39m
+[31m    data: {[39m
+[31m      stack: 'Error\n' +[39m
+[31m        '    at promiseTimeout (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Utils\\generics.js:146:19)\n' +[39m
+[31m        '    at awaitNextMessage (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:94:51)\n' +[39m
+[31m        '    at validateConnection (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:160:30)\n' +[39m
+[31m        '    at WebSocketClient.<anonymous> (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:451:19)\n' +[39m
+[31m        '    at WebSocketClient.emit (node:events:518:28)\n' +[39m
+[31m        '    at WebSocket.<anonymous> (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\Client\\websocket.js:46:100)\n' +[39m
+[31m        '    at WebSocket.emit (node:events:518:28)\n' +[39m
+[31m        '    at WebSocket.setSocket (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\ws\\lib\\websocket.js:251:10)\n' +[39m
+[31m        '    at ClientRequest.<anonymous> (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\ws\\lib\\websocket.js:1012:15)\n' +[39m
+[31m        '    at ClientRequest.emit (node:events:518:28)'[39m
+[31m    },[39m
+[31m    isBoom: true,[39m
+[31m    isServer: false,[39m
+[31m    output: { statusCode: 408, payload: [Object], headers: {} }[39m
+[31m  }[39m
+[31m}[39m
