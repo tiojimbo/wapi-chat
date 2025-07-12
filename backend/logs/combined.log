@@ -15089,3 +15089,1467 @@
 2025-07-11 22:00:03:03 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
 2025-07-11 22:00:08:08 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
 2025-07-11 22:01:11:111 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:02:11:211 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:03:11:311 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:04:11:411 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:05:11:511 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:06:11:611 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:07:11:711 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:08:11:811 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:09:11:911 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:10:11:1011 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:11:11:1111 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:12:02:122 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:12:07:127 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:12:12:1212 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:12:17:1217 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:12:18:1218 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:12:23:1223 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:12:28:1228 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:12:33:1233 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:12:38:1238 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:12:43:1243 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:12:48:1248 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:12:53:1253 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:12:58:1258 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:13:03:133 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:13:08:138 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:13:13:1313 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:14:11:1411 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:15:11:1511 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:15:57:1557 [32minfo[39m: [32m{ jid: '553173571627@s.whatsapp.net' }[39m
+2025-07-11 22:16:11:1611 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:17:11:1711 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:18:11:1811 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:19:11:1911 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:20:11:2011 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:20:58:2058 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:21:02:212 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:21:07:217 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:21:09:219 [32minfo[39m: [32mNova mensagem recebida na sessão teste_1752275360494:[39m
+2025-07-11 22:21:12:2112 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:21:17:2117 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:21:22:2122 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:21:23:2123 [32minfo[39m: [32mNova mensagem recebida na sessão teste_1752275360494:[39m
+2025-07-11 22:21:27:2127 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:21:32:2132 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:21:38:2138 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:21:43:2143 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:21:48:2148 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:21:53:2153 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:21:58:2158 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:22:03:223 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:22:08:228 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:22:13:2213 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:22:18:2218 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:22:23:2223 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:22:28:2228 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:22:33:2233 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:22:38:2238 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:23:11:2311 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-11 22:24:11:2411 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 00:42:28:4228 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: Connection was lost\n' +[39m
+[32m    '    at Timeout._onTimeout (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:308:17)\n' +[39m
+[32m    '    at listOnTimeout (node:internal/timers:588:17)\n' +[39m
+[32m    '    at process.processTimers (node:internal/timers:523:7)'[39m
+[32m}[39m
+2025-07-12 00:42:28:4228 [32minfo[39m: [32mConexão fechada para sessão teste_1752275360494, reconectando: true[39m
+2025-07-12 00:42:34:4234 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 00:42:34:4234 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: WebSocket Error ()\n' +[39m
+[32m    '    at WebSocketClient.<anonymous> (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:622:17)\n' +[39m
+[32m    '    at WebSocketClient.emit (node:events:518:28)\n' +[39m
+[32m    '    at WebSocket.<anonymous> (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\Client\\websocket.js:46:100)\n' +[39m
+[32m    '    at WebSocket.emit (node:events:518:28)\n' +[39m
+[32m    '    at emitErrorAndClose (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\ws\\lib\\websocket.js:1041:13)\n' +[39m
+[32m    '    at ClientRequest.<anonymous> (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\ws\\lib\\websocket.js:881:5)\n' +[39m
+[32m    '    at ClientRequest.emit (node:events:518:28)\n' +[39m
+[32m    '    at emitErrorEvent (node:_http_client:104:11)\n' +[39m
+[32m    '    at TLSSocket.socketErrorListener (node:_http_client:518:5)\n' +[39m
+[32m    '    at TLSSocket.emit (node:events:518:28)'[39m
+[32m}[39m
+2025-07-12 00:42:34:4234 [32minfo[39m: [32mConexão fechada para sessão teste_1752275360494, reconectando: true[39m
+2025-07-12 00:42:39:4239 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 00:42:39:4239 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 72 ac 89 0e 79 c5 d7 fe b5 80 6c 85 a9 48 d3 94 ba 7d 56 a9 a1 88 63 f8 5d 63 d1 03 fa 88 f1 0e>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 00:42:39:4239 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 00:42:40:4240 [32minfo[39m: [32m12 pre-keys found on server[39m
+2025-07-12 00:42:40:4240 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 00:42:40:4240 [32minfo[39m: [32mopened connection to WA[39m
+2025-07-12 00:42:40:4240 [32minfo[39m: [32mSessão teste_1752275360494 conectada com sucesso[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mhandled 96 offline messages/notifications[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32m{ jid: '553173571627@s.whatsapp.net' }[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32m{ jid: '5514991385240@s.whatsapp.net' }[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:41:4241 [32minfo[39m: [32m{ jid: '5514991385240@s.whatsapp.net' }[39m
+2025-07-12 00:42:51:4251 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:51:4251 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:51:4251 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:51:4251 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:51:4251 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:51:4251 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:51:4251 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:51:4251 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:51:4251 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:51:4251 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:51:4251 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:51:4251 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:51:4251 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 00:42:51:4251 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:41:03:413 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:03:413 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:03:413 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:03:413 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:03:413 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:03:413 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 5d 38 dc ec 68 34 9e f0 b0 ca de e5 2b 0f d2 e9 ed f7 6b 68 b8 32 49 f8 15 f9 4c f6 5c 4e 3a 0f>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:03:413 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:04:414 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:41:04:414 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:05:415 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:05:415 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:05:415 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:05:415 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:05:415 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:05:415 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 4e 80 77 73 d2 32 61 d3 b0 ad 21 ea 97 ee 37 a3 30 50 dd ab 12 6b 14 5a be 07 37 07 b4 1f de 24>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:05:415 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:07:417 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:07:417 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:07:417 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:07:417 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:07:417 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:07:417 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer ab 55 fb 02 61 fd e3 e7 0a 32 85 dd 9e 1e b7 23 30 32 af 7f 56 13 76 bc de 5b e1 5d ed d7 7e 7d>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:07:417 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:08:418 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:41:08:418 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:08:418 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:08:418 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:08:418 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:08:418 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:09:419 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer f4 d3 59 e8 b8 9c fd 5f 37 61 13 cb 27 0e 67 4b 06 01 fe ad 0e ea 61 5e 95 28 81 90 16 6d b5 00>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:09:419 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:10:4110 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:10:4110 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:10:4110 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:10:4110 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:10:4110 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:11:4111 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 3f d4 70 8e e4 d1 45 3f 45 ff 21 30 6f b2 60 c2 c2 fd 89 0d 88 78 5f bf b9 a2 20 9b 9b 96 fe 5b>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:11:4111 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:11:4111 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:41:11:4111 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:12:4112 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:12:4112 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:12:4112 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:12:4112 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:12:4112 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:12:4112 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer f2 b9 bc e0 a9 4b 21 79 d4 60 d8 ba 23 f2 65 2d b6 59 ab 34 33 f6 a2 1f 8c dc 00 06 fa 30 be 40>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:13:4113 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:13:4113 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:41:13:4113 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:13:4113 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A73472AD15FF2A32305-1',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: MessageCounterError: Key used already or never filled[39m
+[31m      at SessionCipher.doDecryptWhisperMessage (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:236:19)[39m
+[31m      at 557788793031.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:207:42)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-12 03:41:14:4114 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:14:4114 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:14:4114 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:14:4114 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:14:4114 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:14:4114 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 78 53 3d 06 c2 58 f3 1c f3 3c af 7b 04 6b a5 f7 cc 4c 10 22 25 ad 2e 40 d3 ce fe 6e f5 af d4 78>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:14:4114 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:15:4115 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:15:4115 [32minfo[39m: [32m{ jid: '553173571627@s.whatsapp.net' }[39m
+2025-07-12 03:41:15:4115 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:41:16:4116 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:16:4116 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:16:4116 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:16:4116 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:16:4116 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:16:4116 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer c4 39 83 bf db cf 60 e7 87 d9 d6 17 28 39 e6 bf bd 07 97 64 3a 1e f6 3b 3e b4 25 05 8a 9e 78 13>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:16:4116 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:17:4117 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:18:4118 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:18:4118 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:18:4118 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:18:4118 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:18:4118 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:18:4118 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 04 79 87 c9 d3 1b 49 58 33 87 9c 82 7a d8 6e e2 b1 36 05 10 3e 20 dd a3 89 5b 2a e0 35 32 d9 4b>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:18:4118 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:18:4118 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:41:18:4118 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:19:4119 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:19:4119 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:19:4119 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:19:4119 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:19:4119 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:20:4120 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 0f 2d e9 49 4d 92 5f 53 a4 2b 9e 27 8b 67 39 63 e5 e2 b6 f5 27 7c a0 18 3f 4a 3d 3e 91 f6 67 09>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:20:4120 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:21:4121 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:21:4121 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:21:4121 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:21:4121 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:21:4121 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:22:4122 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 64 b1 18 16 e2 8f 5f f5 a6 4d fd 7d a4 bc 7e aa 86 e7 04 c1 da 01 5c de 90 37 c1 e5 15 cf a9 78>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:22:4122 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:22:4122 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:41:22:4122 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:23:4123 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:23:4123 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:23:4123 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:23:4123 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:23:4123 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:24:4124 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 48 e2 77 89 7c 8c 6b be 49 e2 1e 14 42 04 96 5c 59 db 52 0c a3 e3 ea dd 58 7c 74 d1 91 e5 49 02>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:24:4124 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:24:4124 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:25:4125 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:25:4125 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:25:4125 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:25:4125 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:25:4125 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:26:4126 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 69 b3 c3 ce a1 5a aa db 2d e3 3e 99 76 63 1c 63 fe 7f f0 f3 9b 77 9a ff a9 8f ae 22 ec 40 ee 76>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:26:4126 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:27:4127 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:27:4127 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:27:4127 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:27:4127 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:27:4127 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:41:27:4127 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:41:27:4127 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:28:4128 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:41:28:4128 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:41:28:4128 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:41:28:4128 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:41:28:4128 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 42 e0 cb a5 eb 37 ee f1 ee 84 36 6d b5 72 22 e3 78 56 96 d9 d8 5e c0 7e b5 a7 b2 43 6a 66 e4 57>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:28:4128 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:30:4130 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:30:4130 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:30:4130 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:30:4130 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:30:4130 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:30:4130 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 8f a9 b1 7d 60 60 6d e7 c9 ff eb cf 78 d3 df ab e6 ea ff ea 97 e2 c9 55 f6 ea 9b a1 67 52 41 0e>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:30:4130 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:30:4130 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:41:30:4130 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:31:4131 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:31:4131 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:31:4131 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:31:4131 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:31:4131 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:32:4132 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 18 52 7c 73 9e 24 84 70 08 fa 1a 73 fe f7 ad da 8e e9 62 23 1b db bd 84 ac 6a 96 74 dc 5b bd 45>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:32:4132 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:32:4132 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:41:32:4132 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:33:4133 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:33:4133 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:33:4133 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:33:4133 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:33:4133 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:33:4133 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer f6 a6 eb 78 16 06 79 7e 82 ef 4d b0 56 15 4f 3b 8b 8a 96 7e 40 82 f6 54 03 f0 e0 7e a0 c5 cf 47>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:34:4134 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:34:4134 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:41:34:4134 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:35:4135 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:35:4135 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:35:4135 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:35:4135 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:35:4135 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:35:4135 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 6b 27 b1 a9 33 04 8e cc cf 89 4a 1d 66 2a 5a b2 e8 fc 41 c6 eb c0 c8 db 75 bf 1d ee 15 d0 14 43>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:35:4135 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:35:4135 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:41:36:4136 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:36:4136 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:41:37:4137 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:37:4137 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:37:4137 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:37:4137 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:37:4137 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:37:4137 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:41:37:4137 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:41:37:4137 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer c8 09 8d 4b d0 42 2c 2f 20 b7 ff ca 14 e9 48 af a1 2c 32 32 49 00 b3 a8 b5 7a a0 d9 c6 b9 99 0d>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:38:4138 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:39:4139 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:39:4139 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:39:4139 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:39:4139 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:39:4139 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:39:4139 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 3d aa 5c b1 77 68 9f a9 2f ed 12 64 e2 25 03 27 a1 84 2c e6 3b c8 9f 80 b3 e7 46 4e bb 0b d3 4e>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:39:4139 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:40:4140 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:41:40:4140 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:40:4140 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AAB7F6091E52C423F44',[39m
+[31m    participant: '557799313439@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: MessageCounterError: Key used already or never filled[39m
+[31m      at SessionCipher.doDecryptWhisperMessage (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:236:19)[39m
+[31m      at 557799313439.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:207:42)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-12 03:41:40:4140 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AAB7F6091E52C423F44',[39m
+[31m    participant: '557799313439@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799313439::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-12 03:41:40:4140 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:40:4140 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:40:4140 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:40:4140 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:41:4141 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:41:4141 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 2a 8e 94 a0 89 53 82 d6 2a 39 61 7c 2c b2 ae 07 6b f5 7b ac 6f 47 c7 76 6d bb 18 1e 37 d1 ca 31>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:41:4141 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:42:4142 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:42:4142 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:41:42:4142 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:42:4142 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:42:4142 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:42:4142 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:42:4142 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:43:4143 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 04 89 b4 8c 3f b8 b2 66 e8 2b de 98 27 19 96 97 97 d8 55 f9 15 c9 d2 3a b7 e3 6a fd 55 22 f5 17>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:43:4143 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:44:4144 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:44:4144 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:44:4144 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:44:4144 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:44:4144 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:45:4145 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 6e 62 29 8d 1c 21 8b 31 1a 2c ad 4e a3 b4 f7 92 0d 44 5d 10 6c 54 64 07 db 74 33 bb 98 07 62 5d>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:45:4145 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:45:4145 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:41:45:4145 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:41:45:4145 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:41:45:4145 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:41:46:4146 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:46:4146 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:46:4146 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:46:4146 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:46:4146 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:47:4147 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer c9 64 10 72 d1 a1 cc 77 c9 d7 08 c7 db 73 57 66 68 90 31 62 02 7f 48 50 ca f8 44 1c 04 d3 a2 32>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:47:4147 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:47:4147 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:41:47:4147 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:48:4148 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:48:4148 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:48:4148 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:48:4148 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:48:4148 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:48:4148 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 15 f1 9d 12 35 83 27 a3 4a 83 12 9c df d1 c8 92 67 f1 78 4a ee 84 c5 f9 5b 80 5d b5 68 1c ed 58>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:48:4148 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:49:4149 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:41:49:4149 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:41:50:4150 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:41:50:4150 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:41:50:4150 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:41:50:4150 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:41:50:4150 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:41:50:4150 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 94 90 bf 22 af 17 b7 75 7b 57 d6 e8 fa d4 64 cb 39 c1 15 43 85 a9 4d 1b ac 66 40 bf cf 00 96 21>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:41:50:4150 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:42:16:4216 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-12 03:42:16:4216 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-12 03:42:16:4216 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-12 03:42:16:4216 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-12 03:42:16:4216 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-12 03:42:16:4216 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer a5 29 be 17 dc ad ae 91 d4 6d 80 2a 77 03 32 ad ab 43 a4 aa 75 3d 02 82 68 30 26 2b 82 93 b0 52>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:42:16:4216 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 66,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-12 03:42:17:4217 [32minfo[39m: [32m7 pre-keys found on server[39m
+2025-07-12 03:42:17:4217 [32minfo[39m: [32moffline preview received[39m
+2025-07-12 03:42:17:4217 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A301AF99702410E5642',[39m
+[31m    participant: '557799313439@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799313439::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-12 03:42:17:4217 [32minfo[39m: [32mopened connection to WA[39m
+2025-07-12 03:42:17:4217 [32minfo[39m: [32mSessão teste_1752275360494 conectada com sucesso[39m
+2025-07-12 03:42:21:4221 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:42:22:4222 [32minfo[39m: [32m{[39m
+[32m  msgAttrs: {[39m
+[32m    from: '120363418928626579@g.us',[39m
+[32m    type: 'media',[39m
+[32m    id: '3A301AF99702410E5642',[39m
+[32m    participant: '557799313439@s.whatsapp.net',[39m
+[32m    offline: '8',[39m
+[32m    participant_lid: '135133042602101@lid',[39m
+[32m    notify: 'Ycaro Guimarães',[39m
+[32m    addressing_mode: 'pn',[39m
+[32m    t: '1752295270'[39m
+[32m  },[39m
+[32m  retryCount: 1[39m
+[32m}[39m
+2025-07-12 03:42:22:4222 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A20D953539CCE4DBB2B',[39m
+[31m    participant: '557799313439@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799313439::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-12 03:42:22:4222 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AA1A5DC7316DBEBB846',[39m
+[31m    participant: '557799313439@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799313439::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-12 03:42:24:4224 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:42:24:4224 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mhandled 181 offline messages/notifications[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:25:4225 [32minfo[39m: [32m{ count: 30 }[39m
+2025-07-12 03:42:26:4226 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:42:26:4226 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:42:26:4226 [32minfo[39m: [32m{ count: 30 }[39m
+2025-07-12 03:42:26:4226 [32minfo[39m: [32mNova mensagem recebida na sessão teste_1752275360494:[39m
+2025-07-12 03:42:27:4227 [32minfo[39m: [32mNova mensagem recebida na sessão teste_1752275360494:[39m
+2025-07-12 03:42:27:4227 [32minfo[39m: [32m{[39m
+[32m  msgAttrs: {[39m
+[32m    from: '120363418928626579@g.us',[39m
+[32m    type: 'media',[39m
+[32m    id: '3A20D953539CCE4DBB2B',[39m
+[32m    participant: '557799313439@s.whatsapp.net',[39m
+[32m    offline: '7',[39m
+[32m    participant_lid: '135133042602101@lid',[39m
+[32m    notify: 'Ycaro Guimarães',[39m
+[32m    addressing_mode: 'pn',[39m
+[32m    t: '1752296384'[39m
+[32m  },[39m
+[32m  retryCount: 1[39m
+[32m}[39m
+2025-07-12 03:42:28:4228 [32minfo[39m: [32mNova mensagem recebida na sessão teste_1752275360494:[39m
+2025-07-12 03:42:29:4229 [32minfo[39m: [32mNova mensagem recebida na sessão teste_1752275360494:[39m
+2025-07-12 03:42:30:4230 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:42:32:4232 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:42:32:4232 [32minfo[39m: [32m{[39m
+[32m  msgAttrs: {[39m
+[32m    from: '120363418928626579@g.us',[39m
+[32m    type: 'text',[39m
+[32m    id: '3AA1A5DC7316DBEBB846',[39m
+[32m    participant: '557799313439@s.whatsapp.net',[39m
+[32m    offline: '7',[39m
+[32m    participant_lid: '135133042602101@lid',[39m
+[32m    notify: 'Ycaro Guimarães',[39m
+[32m    addressing_mode: 'pn',[39m
+[32m    t: '1752299941'[39m
+[32m  },[39m
+[32m  retryCount: 1[39m
+[32m}[39m
+2025-07-12 03:42:33:4233 [32minfo[39m: [32mNova mensagem recebida na sessão teste_1752275360494:[39m
+2025-07-12 03:42:34:4234 [32minfo[39m: [32mNova mensagem recebida na sessão teste_1752275360494:[39m
+2025-07-12 03:42:37:4237 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:42:42:4242 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:42:44:4244 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:44:4244 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:47:4247 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:42:48:4248 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:48:4248 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:42:52:4252 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:42:57:4257 [32minfo[39m: [32mNova mensagem recebida na sessão teste_1752275360494:[39m
+2025-07-12 03:42:57:4257 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:43:00:430 [32minfo[39m: [32mStatus da mensagem atualizado na sessão teste_1752275360494:[39m
+2025-07-12 03:43:02:432 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:43:07:437 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:43:08:438 [32minfo[39m: [32mNova mensagem recebida na sessão teste_1752275360494:[39m
+2025-07-12 03:43:12:4312 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:43:17:4317 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:43:22:4322 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:43:26:4326 [32minfo[39m: [32mNova mensagem recebida na sessão teste_1752275360494:[39m
+2025-07-12 03:43:27:4327 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:43:37:4337 [32minfo[39m: [32mNova mensagem recebida na sessão teste_1752275360494:[39m
+2025-07-12 03:43:49:4349 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:44:09:449 [32minfo[39m: [32mNova mensagem recebida na sessão teste_1752275360494:[39m
+2025-07-12 03:44:12:4412 [32minfo[39m: [32mNova mensagem recebida na sessão teste_1752275360494:[39m
+2025-07-12 03:44:49:4449 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:45:49:4549 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:46:49:4649 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:47:49:4749 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:48:49:4849 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:49:49:4949 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:50:49:5049 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:51:49:5149 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:52:49:5249 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:53:49:5349 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:54:49:5449 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:55:49:5549 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:56:49:5649 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:57:49:5749 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:58:49:5849 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 03:59:49:5949 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:00:49:049 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:01:49:149 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:02:49:249 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:03:49:349 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:04:49:449 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:05:49:549 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:06:49:649 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:07:49:749 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:08:49:849 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:09:49:949 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:10:26:1026 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:10:32:1032 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:10:37:1037 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:10:42:1042 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:10:47:1047 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:10:52:1052 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:10:57:1057 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:11:02:112 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:11:07:117 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:11:12:1112 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:11:17:1117 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:11:22:1122 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:11:27:1127 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:11:49:1149 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:12:49:1249 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:13:49:1349 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:14:49:1449 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:15:49:1549 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:16:49:1649 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:17:49:1749 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:18:49:1849 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:19:49:1949 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:20:49:2049 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:21:49:2149 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:22:49:2249 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:23:49:2349 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:24:49:2449 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:25:49:2549 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:26:49:2649 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:27:49:2749 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:28:49:2849 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:29:49:2949 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:30:49:3049 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:30:52:3052 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:30:56:3056 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:31:01:311 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:31:06:316 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:31:12:3112 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:31:17:3117 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:31:22:3122 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:31:27:3127 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:31:32:3132 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-12 04:31:37:3137 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
