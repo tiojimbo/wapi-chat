@@ -194,31 +194,6 @@ wapi-chat/
 2. Configure as variáveis de ambiente
 3. Deploy automático
 
-## 📊 Funcionalidades
-
-### ✅ Implementadas (Fase 1)
-- [x] Setup base do projeto
-- [x] Configuração do Baileys 6.7.18
-- [x] Sistema de sessões múltiplas
-- [x] API REST para WhatsApp
-- [x] Schema do banco de dados
-- [x] Sistema de logging
-- [x] Configuração de segurança
-
-### 🚧 Em Desenvolvimento (Fase 2)
-- [ ] Processamento de mensagens
-- [ ] Interface de conversas
-- [ ] Sistema de envio
-- [ ] Gestão de contatos
-- [ ] Upload de mídias
-
-### 📋 Planejadas (Fases 3-4)
-- [ ] Integração com OpenAI
-- [ ] Análise de sentimento
-- [ ] Templates de mensagem
-- [ ] Dashboard de analytics
-- [ ] Sistema de alertas
-- [ ] Integração com ClickUp
 
 ## 🤝 Contribuição
 
