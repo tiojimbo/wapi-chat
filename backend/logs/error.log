@@ -1,0 +1,188 @@
+2025-07-08 23:20:59:2059 [31merror[39m: [31mErro ao testar conexão Supabase: relation "public.information_schema.tables" does not exist[39m
+2025-07-08 23:20:59:2059 [31merror[39m: [31mErro ao listar tabelas: relation "public.information_schema.tables" does not exist[39m
+2025-07-08 23:25:24:2524 [31merror[39m: [31mErro ao testar conexão Supabase: relation "public.information_schema.tables" does not exist[39m
+2025-07-08 23:25:24:2524 [31merror[39m: [31mErro ao listar tabelas: relation "public.information_schema.tables" does not exist[39m
+2025-07-08 23:45:06:456 [31merror[39m: [31mErro não tratado: Unexpected token ''', "'{sessionId:teste}'" is not valid JSON[39m
+2025-07-08 23:45:11:4511 [31merror[39m: [31mErro não tratado: Unexpected token ''', "'{sessionId:teste}'" is not valid JSON[39m
+2025-07-10 03:08:00:80 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 03:14:36:1436 [31merror[39m: [31m{[39m
+[31m  node: {[39m
+[31m    tag: 'stream:error',[39m
+[31m    attrs: { code: '401' },[39m
+[31m    content: [ [Object] ][39m
+[31m  }[39m
+[31m}[39m
+2025-07-10 03:15:36:1536 [31merror[39m: [31m{[39m
+[31m  err: Error: Connection Closed[39m
+[31m      at sendRawMessage (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\lib\Socket\socket.js:60:19)[39m
+[31m      at sendNode (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\lib\Socket\socket.js:79:16)[39m
+[31m      at sendMessageAck (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\lib\Socket\messages-recv.js:62:15)[39m
+[31m      at handleNotification (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\lib\Socket\messages-recv.js:598:19)[39m
+[31m      at async processNodeWithBuffer (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\lib\Socket\messages-recv.js:815:9) {[39m
+[31m    data: null,[39m
+[31m    isBoom: true,[39m
+[31m    isServer: false,[39m
+[31m    output: { statusCode: 428, payload: [Object], headers: {} }[39m
+[31m  }[39m
+[31m}[39m
+2025-07-10 16:57:59:5759 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 16:58:05:585 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '45599125CB08833A0B986AF9746F50DC',[39m
+[31m    participant: '553187947495@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363037378266315@g.us::553187947495::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-10 17:06:08:68 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 17:12:22:1222 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 17:17:58:1758 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 17:22:38:2238 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 17:25:32:2532 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 17:29:27:2927 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 17:32:47:3247 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 17:33:26:3326 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 17:34:51:3451 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 17:41:03:413 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 17:58:43:5843 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 17:59:55:5955 [31merror[39m: [31m{[39m
+[31m  error: Error: Timed Out[39m
+[31m      at C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\lib\Utils\generics.js:151:32 {[39m
+[31m    data: {[39m
+[31m      stack: 'Error\n' +[39m
+[31m        '    at promiseTimeout (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Utils\\generics.js:146:19)\n' +[39m
+[31m        '    at waitForMessage (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:120:61)\n' +[39m
+[31m        '    at query (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:144:13)\n' +[39m
+[31m        '    at C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\chats.js:393:38\n' +[39m
+[31m        '    at async Object.transaction (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Utils\\auth-utils.js:135:26)\n' +[39m
+[31m        '    at async C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\chats.js:359:9\n' +[39m
+[31m        '    at async C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Utils\\event-buffer.js:105:36\n' +[39m
+[31m        '    at async doAppStateSync (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\chats.js:787:17)\n' +[39m
+[31m        '    at async C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\chats.js:766:21\n' +[39m
+[31m        '    at async Promise.all (index 0)'[39m
+[31m    },[39m
+[31m    isBoom: true,[39m
+[31m    isServer: false,[39m
+[31m    output: { statusCode: 408, payload: [Object], headers: {} }[39m
+[31m  },[39m
+[31m  node: {[39m
+[31m    tag: 'message',[39m
+[31m    attrs: {[39m
+[31m      from: '556198278919@s.whatsapp.net',[39m
+[31m      type: 'text',[39m
+[31m      id: '3A5AB5DA6C37FBB01974',[39m
+[31m      category: 'peer',[39m
+[31m      t: '1752181076'[39m
+[31m    },[39m
+[31m    content: [ [Object], [Object] ][39m
+[31m  }[39m
+[31m}[39m
+2025-07-10 18:02:32:232 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 18:06:31:631 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 18:07:38:738 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 18:13:55:1355 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 18:17:16:1716 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 18:20:03:203 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 18:24:52:2452 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-10 18:39:01:391 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-11 18:34:18:3418 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-11 18:45:58:4558 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-11 18:46:12:4612 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A0FA51FA1E907F98970',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-11 19:48:19:4819 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-11 19:48:26:4826 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A76F5CEA679BD14135B',[39m
+[31m    participant: '557798787917@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798787917::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-11 19:48:51:4851 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A4C6AB749D3FA1A5E08',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-11 19:48:58:4858 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AACF9690FC28317EF23',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-11 20:09:37:937 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
