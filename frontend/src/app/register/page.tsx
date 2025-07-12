@@ -1,0 +1,1 @@
+// Página movida para /public/register 

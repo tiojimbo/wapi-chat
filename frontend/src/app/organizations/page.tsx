@@ -1,0 +1,1 @@
+// Página movida para /dashboard/organizations 
