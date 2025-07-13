@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 const WhatsAppManager = require('../services/baileys/WhatsAppManager');
 const logger = require('../utils/logger');
+const SupabaseService = require('../services/supabase/SupabaseService');
 
 // Rota para criar uma sessão e exibir o QR Code no terminal
 router.post('/session', async (req, res) => {
@@ -144,6 +145,69 @@ router.post('/sessions/:sessionId/reconnect', async (req, res) => {
   } catch (error) {
     logger.error('Erro ao reconectar sessão:', error);
     res.status(500).json({ error: 'Erro ao reconectar sessão' });
+  }
+});
+
+// Listar conversas do usuário logado (com filtro de busca)
+router.get('/conversations', async (req, res) => {
+  try {
+    const { sessionId, q } = req.query;
+    if (!sessionId) {
+      return res.status(400).json({ error: 'sessionId é obrigatório' });
+    }
+    // Obter número conectado (JID) da sessão
+    const session = WhatsAppManager.getSession(sessionId);
+    const phone_jid = session?.phone || null;
+    if (!phone_jid) {
+      return res.status(400).json({ error: 'Sessão não conectada' });
+    }
+    // Extrair apenas o número do telefone do JID (formato: 556198278919:70@s.whatsapp.net -> 556198278919)
+    const phone_number = phone_jid.split(':')[0];
+    // Buscar o UUID do número no Supabase
+    let { data: phoneData, error: phoneError } = await SupabaseService.getClient()
+      .from('whatsapp_phone_numbers')
+      .select('id')
+      .eq('phone_number_id', phone_number)
+      .single();
+    
+    // Se o número não existe, criar um novo registro
+    if (!phoneData || !phoneData.id) {
+      const { data: newPhoneData, error: createError } = await SupabaseService.getClient()
+        .from('whatsapp_phone_numbers')
+        .insert({
+          phone_number_id: phone_number,
+          display_phone_number: phone_number,
+          verified_name: 'WhatsApp Business'
+        })
+        .select('id')
+        .single();
+      
+      if (createError || !newPhoneData) {
+        logger.error('Erro ao criar número no banco:', createError);
+        return res.status(500).json({ error: 'Erro ao criar número no banco' });
+      }
+      phoneData = newPhoneData;
+    }
+    const phone_number_id = phoneData.id;
+    // Buscar conversas no Supabase
+    let query = SupabaseService.getClient()
+      .from('whatsapp_conversations')
+      .select(`id, last_message_preview, last_message_at, unread_count, whatsapp_contacts:contact_id (profile_name, wa_id)`)
+      .eq('phone_number_id', phone_number_id)
+      .order('last_message_at', { ascending: false })
+      .limit(50);
+    if (q) {
+      query = query.ilike('whatsapp_contacts.profile_name', `%${q}%`);
+    }
+    const { data, error } = await query;
+    if (error) {
+      logger.error('Erro ao buscar conversas:', error);
+      return res.status(500).json({ error: 'Erro ao buscar conversas' });
+    }
+    res.json({ conversations: data });
+  } catch (error) {
+    logger.error('Erro ao listar conversas:', error);
+    res.status(500).json({ error: 'Erro ao listar conversas' });
   }
 });
 

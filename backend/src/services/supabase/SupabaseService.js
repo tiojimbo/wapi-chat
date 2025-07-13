@@ -78,6 +78,129 @@ class SupabaseService {
   getAdminClient() {
     return this.adminClient;
   }
+
+  /**
+   * Faz upload de um arquivo para o Supabase Storage
+   * @param {string} bucket - Nome do bucket
+   * @param {string} path - Caminho do arquivo no bucket
+   * @param {Buffer} fileBuffer - Conteúdo do arquivo
+   * @param {string} contentType - Tipo MIME do arquivo
+   * @returns {Promise<{publicUrl: string|null, error: string|null}>}
+   */
+  async uploadFileToStorage(bucket, path, fileBuffer, contentType) {
+    try {
+      const { data, error } = await this.client.storage.from(bucket).upload(path, fileBuffer, {
+        contentType,
+        upsert: true
+      });
+      if (error) {
+        logger.error('Erro ao fazer upload para Supabase Storage:', error);
+        return { publicUrl: null, error: error.message };
+      }
+      // Gerar URL pública
+      const { publicUrl } = this.client.storage.from(bucket).getPublicUrl(path).data;
+      logger.info(`Arquivo salvo no Storage: ${publicUrl}`);
+      return { publicUrl, error: null };
+    } catch (err) {
+      logger.error('Erro inesperado no upload para Storage:', err);
+      return { publicUrl: null, error: err.message };
+    }
+  }
+
+  /**
+   * Cria ou atualiza um contato do WhatsApp na tabela whatsapp_contacts
+   * @param {string} wa_id - Número do WhatsApp (jid)
+   * @param {string} profile_name - Nome do perfil (se disponível)
+   * @returns {Promise<{id: string|null, error: string|null}>}
+   */
+  async upsertWhatsappContact(wa_id, profile_name) {
+    try {
+      const { data, error } = await this.client
+        .from('whatsapp_contacts')
+        .upsert([
+          {
+            wa_id,
+            profile_name,
+            updated_at: new Date().toISOString()
+          }
+        ], { onConflict: 'wa_id' })
+        .select('id')
+        .single();
+      if (error) {
+        logger.error('Erro ao criar/atualizar contato:', error);
+        return { id: null, error: error.message };
+      }
+      logger.info(`Contato upserted: ${wa_id}`);
+      return { id: data?.id || null, error: null };
+    } catch (err) {
+      logger.error('Erro inesperado no upsert de contato:', err);
+      return { id: null, error: err.message };
+    }
+  }
+
+  /**
+   * Cria ou atualiza uma conversa do WhatsApp na tabela whatsapp_conversations
+   * @param {string} phone_number_id - ID do número conectado (remetente local)
+   * @param {string} contact_id - ID do contato (remetente remoto)
+   * @param {string} last_message_preview - Preview da última mensagem
+   * @param {string} last_message_at - Timestamp da última mensagem
+   * @returns {Promise<{id: string|null, error: string|null}>}
+   */
+  async upsertWhatsappConversation(phone_number_id, contact_id, last_message_preview, last_message_at) {
+    try {
+      // First, try to find existing conversation
+      const { data: existingConv, error: findError } = await this.client
+        .from('whatsapp_conversations')
+        .select('id')
+        .eq('phone_number_id', phone_number_id)
+        .eq('contact_id', contact_id)
+        .single();
+      
+      if (existingConv) {
+        // Update existing conversation
+        const { data, error } = await this.client
+          .from('whatsapp_conversations')
+          .update({
+            last_message_preview,
+            last_message_at,
+            updated_at: new Date().toISOString()
+          })
+          .eq('id', existingConv.id)
+          .select('id')
+          .single();
+          
+        if (error) {
+          logger.error('Erro ao atualizar conversa:', error);
+          return { id: null, error: error.message };
+        }
+        logger.info(`Conversa atualizada: ${phone_number_id} <-> ${contact_id}`);
+        return { id: data?.id || null, error: null };
+      } else {
+        // Create new conversation
+        const { data, error } = await this.client
+          .from('whatsapp_conversations')
+          .insert({
+            phone_number_id,
+            contact_id,
+            last_message_preview,
+            last_message_at,
+            updated_at: new Date().toISOString()
+          })
+          .select('id')
+          .single();
+          
+        if (error) {
+          logger.error('Erro ao criar conversa:', error);
+          return { id: null, error: error.message };
+        }
+        logger.info(`Conversa criada: ${phone_number_id} <-> ${contact_id}`);
+        return { id: data?.id || null, error: null };
+      }
+    } catch (err) {
+      logger.error('Erro inesperado no upsert de conversa:', err);
+      return { id: null, error: err.message };
+    }
+  }
 }
 
 module.exports = new SupabaseService(); 

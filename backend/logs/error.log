@@ -290,3 +290,568 @@
 [31m    output: { statusCode: 408, payload: [Object], headers: {} }[39m
 [31m  }[39m
 [31m}[39m
+2025-07-12 19:44:34:4434 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:44:46:4446 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:44:57:4457 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:45:09:459 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:45:20:4520 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:45:31:4531 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:45:44:4544 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:45:55:4555 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:46:06:466 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:46:18:4618 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:46:29:4629 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:46:41:4641 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:46:52:4652 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:47:04:474 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:47:16:4716 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:47:27:4727 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:47:39:4739 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:47:50:4750 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:48:02:482 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:48:13:4813 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:48:25:4825 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:48:37:4837 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:48:49:4849 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:49:00:490 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:49:12:4912 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:49:23:4923 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:49:35:4935 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:49:46:4946 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:49:58:4958 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:50:10:5010 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:50:21:5021 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:50:32:5032 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:50:44:5044 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:50:56:5056 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:51:07:517 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:51:18:5118 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:51:30:5130 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:51:42:5142 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:51:53:5153 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:52:04:524 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:52:16:5216 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:52:27:5227 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:52:39:5239 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:52:51:5251 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:53:03:533 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:53:14:5314 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:53:26:5326 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:53:37:5337 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:53:49:5349 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:54:00:540 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:54:12:5412 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:54:24:5424 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:54:35:5435 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:54:46:5446 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:54:58:5458 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:55:10:5510 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:55:22:5522 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:55:33:5533 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:55:44:5544 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:55:56:5556 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:56:07:567 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:56:19:5619 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:56:30:5630 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:56:42:5642 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:56:53:5653 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:57:04:574 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:57:16:5716 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:57:27:5727 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:57:39:5739 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:57:51:5751 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:58:03:583 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:58:14:5814 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:58:25:5825 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:58:36:5836 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:58:47:5847 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:58:59:5859 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:59:10:5910 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:59:22:5922 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:59:33:5933 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:59:45:5945 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 19:59:56:5956 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 20:00:08:08 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 20:00:19:019 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 20:00:31:031 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 21:44:59:4459 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-12 21:46:41:4641 [31merror[39m: [31mErro ao criar/atualizar contato: value too long for type character varying(20)[39m
+2025-07-12 21:46:41:4641 [31merror[39m: [31m[teste_1752367487028] Erro ao registrar contato: value too long for type character varying(20)[39m
+2025-07-12 22:10:52:1052 [31merror[39m: [31mErro ao deletar sessão teste_1752367487028: Connection Closed[39m
+2025-07-12 22:10:52:1052 [31merror[39m: [31mErro ao deletar sessão: Connection Closed[39m
+2025-07-12 22:11:19:1119 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-12 22:12:32:1232 [31merror[39m: [31mErro ao criar/atualizar contato: value too long for type character varying(20)[39m
+2025-07-12 22:12:32:1232 [31merror[39m: [31m[teste_1752369067280] Erro ao registrar contato: value too long for type character varying(20)[39m
+2025-07-12 22:12:34:1234 [31merror[39m: [31mErro ao criar/atualizar contato: value too long for type character varying(20)[39m
+2025-07-12 22:12:34:1234 [31merror[39m: [31m[teste_1752369067280] Erro ao registrar contato: value too long for type character varying(20)[39m
+2025-07-12 22:12:48:1248 [31merror[39m: [31mErro ao criar/atualizar contato: value too long for type character varying(20)[39m
+2025-07-12 22:12:48:1248 [31merror[39m: [31m[teste_1752369067280] Erro ao registrar contato: value too long for type character varying(20)[39m
+2025-07-12 22:13:36:1336 [31merror[39m: [31mErro ao criar/atualizar contato: value too long for type character varying(20)[39m
+2025-07-12 22:13:36:1336 [31merror[39m: [31m[teste_1752369067280] Erro ao registrar contato: value too long for type character varying(20)[39m
+2025-07-12 22:14:55:1455 [31merror[39m: [31mErro ao criar/atualizar contato: value too long for type character varying(20)[39m
+2025-07-12 22:14:55:1455 [31merror[39m: [31m[teste_1752369067280] Erro ao registrar contato: value too long for type character varying(20)[39m
+2025-07-12 22:15:26:1526 [31merror[39m: [31mErro ao criar/atualizar contato: value too long for type character varying(20)[39m
+2025-07-12 22:15:26:1526 [31merror[39m: [31m[teste_1752369067280] Erro ao registrar contato: value too long for type character varying(20)[39m
+2025-07-12 22:31:05:315 [31merror[39m: [31m[teste_1752369067280] Erro inesperado ao registrar conversa: Cannot access 'resumo' before initialization[39m
+2025-07-12 22:49:18:4918 [31merror[39m: [31m[teste_1752369067280] Erro inesperado ao registrar conversa: Cannot access 'resumo' before initialization[39m
+2025-07-12 22:49:19:4919 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-12 22:49:19:4919 [31merror[39m: [31m[teste_1752369067280] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-12 22:49:22:4922 [31merror[39m: [31m[teste_1752369067280] Erro inesperado ao registrar conversa: Cannot access 'resumo' before initialization[39m
+2025-07-12 22:50:20:5020 [31merror[39m: [31m[teste_1752369067280] Erro inesperado ao registrar conversa: Cannot access 'resumo' before initialization[39m
+2025-07-12 22:50:25:5025 [31merror[39m: [31m[teste_1752369067280] Erro inesperado ao registrar conversa: Cannot access 'resumo' before initialization[39m
+2025-07-12 22:50:36:5036 [31merror[39m: [31m[teste_1752369067280] Erro inesperado ao registrar conversa: Cannot access 'resumo' before initialization[39m
+2025-07-12 23:12:31:1231 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:17:13:1713 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:17:13:1713 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:17:16:1716 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:17:16:1716 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:17:28:1728 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:17:28:1728 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:17:29:1729 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:17:29:1729 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:17:33:1733 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:17:34:1734 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:24:19:2419 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:23:23:2323 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:24:31:2431 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:23:34:2334 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:24:42:2442 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:23:46:2346 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:24:54:2454 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:23:58:2358 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:25:06:256 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:24:10:2410 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:25:18:2518 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:24:21:2421 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:25:29:2529 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:24:33:2433 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:25:41:2541 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:24:44:2444 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:25:53:2553 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:24:56:2456 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:26:04:264 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:25:08:258 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:26:16:2616 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:25:20:2520 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:26:28:2628 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:25:31:2531 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:26:40:2640 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:25:43:2543 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:26:51:2651 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:25:55:2555 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:27:03:273 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:26:07:267 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:27:15:2715 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:26:18:2618 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:27:27:2727 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:26:31:2631 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:27:39:2739 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:26:42:2642 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:27:51:2751 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:27:56:2756 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:28:03:283 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:27:07:277 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:28:13:2813 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:29:22:2922 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:28:25:2825 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:29:34:2934 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:28:37:2837 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:28:37:2837 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:28:38:2838 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:28:40:2840 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:28:40:2840 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:29:46:2946 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:28:50:2850 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:28:53:2853 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:29:58:2958 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:29:01:291 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:30:10:3010 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:29:13:2913 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:30:21:3021 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:29:25:2925 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:30:33:3033 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:29:36:2936 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:30:44:3044 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:29:48:2948 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:30:56:3056 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:30:00:300 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:31:08:318 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:30:11:3011 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:31:19:3119 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:30:23:3023 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:31:31:3131 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:31:37:3137 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:31:43:3143 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:30:46:3046 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:31:54:3154 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:30:58:3058 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:32:07:327 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:31:10:3110 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:32:19:3219 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:31:22:3122 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:32:30:3230 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:31:34:3134 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:32:42:3242 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:31:45:3145 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:32:54:3254 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:31:58:3158 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:33:07:337 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:32:10:3210 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:33:19:3319 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:32:22:3222 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:33:31:3331 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:32:34:3234 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:33:42:3342 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:32:46:3246 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:33:54:3354 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:32:57:3257 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:34:05:345 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:33:08:338 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:34:17:3417 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:33:20:3320 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:34:29:3429 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:33:32:3332 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:34:41:3441 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:33:44:3344 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:34:52:3452 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:33:56:3356 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:35:04:354 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:34:08:348 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:34:11:3411 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:34:11:3411 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:35:16:3516 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:34:15:3415 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:34:15:3415 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:35:22:3522 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:35:28:3528 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:35:32:3532 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:34:30:3430 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:34:31:3431 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:34:32:3432 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:34:32:3432 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:35:40:3540 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:34:53:3453 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:36:01:361 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:36:07:367 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:36:13:3613 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:35:16:3516 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:36:24:3624 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:35:28:3528 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:36:36:3636 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:35:37:3537 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:35:37:3537 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:35:40:3540 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:36:48:3648 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:35:51:3551 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:37:00:370 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:36:04:364 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:37:12:3712 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:36:15:3615 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:37:24:3724 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:36:27:3627 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:37:35:3735 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:36:39:3639 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:37:47:3747 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:36:50:3650 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:37:59:3759 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:37:01:371 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:37:01:371 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:69@s.whatsapp.net"[39m
+2025-07-12 23:37:02:372 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:37:08:378 [31merror[39m: [31mErro ao deletar sessão teste_1752369067280: Connection Closed[39m
+2025-07-12 23:37:08:378 [31merror[39m: [31mErro ao deletar sessão: Connection Closed[39m
+2025-07-12 23:38:11:3811 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:37:37:3737 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-12 23:37:49:3749 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:70@s.whatsapp.net"[39m
+2025-07-12 23:37:49:3749 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:70@s.whatsapp.net"[39m
+2025-07-12 23:39:00:390 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:70@s.whatsapp.net"[39m
+2025-07-12 23:39:00:390 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:70@s.whatsapp.net"[39m
+2025-07-12 23:39:11:3911 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:70@s.whatsapp.net"[39m
+2025-07-12 23:39:11:3911 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:70@s.whatsapp.net"[39m
+2025-07-12 23:38:34:3834 [31merror[39m: [31m[teste_1752374303557] Não foi possível encontrar UUID do número para JID: 556198278919:70@s.whatsapp.net - erro: [object Object][39m
+2025-07-12 23:38:34:3834 [31merror[39m: [31m[teste_1752374303557] Erro inesperado ao registrar conversa: Cannot access 'resumo' before initialization[39m
+2025-07-12 23:38:37:3837 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:70@s.whatsapp.net"[39m
+2025-07-12 23:38:37:3837 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:70@s.whatsapp.net"[39m
+2025-07-12 23:41:45:4145 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:70@s.whatsapp.net"[39m
+2025-07-12 23:42:24:4224 [31merror[39m: [31mErro ao buscar conversas: invalid input syntax for type uuid: "556198278919:70@s.whatsapp.net"[39m
+2025-07-12 23:54:41:5441 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-12 23:56:51:5651 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:55:55:5555 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:57:04:574 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:56:07:567 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:57:15:5715 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:56:19:5619 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:57:27:5727 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:56:31:5631 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:57:39:5739 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:56:43:5643 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:57:52:5752 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:56:55:5655 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:58:03:583 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:57:07:577 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:58:15:5815 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:57:19:5719 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:58:27:5827 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:57:30:5730 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:58:38:5838 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:58:23:5823 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:59:31:5931 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:58:35:5835 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:59:43:5943 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:59:49:5949 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:59:55:5955 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-12 23:58:59:5859 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:00:07:07 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:00:43:043 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-13 00:04:33:433 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:05:42:542 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:04:45:445 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:05:53:553 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:04:57:457 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:06:05:65 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:05:09:59 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:06:17:617 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:05:20:520 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:06:28:628 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:05:32:532 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:06:40:640 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:05:44:544 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:06:52:652 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:05:56:556 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:07:04:74 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:06:08:68 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:07:16:716 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:06:19:619 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:07:28:728 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:06:31:631 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:07:40:740 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:06:43:643 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:07:52:752 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:06:55:655 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:08:04:84 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:07:07:77 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:08:15:815 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:07:19:719 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:08:27:827 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:07:31:731 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:08:39:839 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:08:45:845 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:08:51:851 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:07:55:755 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:09:03:93 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:08:07:87 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:09:15:915 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:08:19:819 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:09:27:927 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:08:30:830 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:09:39:939 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:08:42:842 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:09:50:950 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:08:54:854 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:10:02:102 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:09:05:95 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:10:13:1013 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:09:17:917 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:10:25:1025 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:09:28:928 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:10:37:1037 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:09:41:941 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:10:49:1049 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:09:53:953 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:11:01:111 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:10:04:104 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:11:12:1112 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:10:16:1016 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:11:22:1122 [31merror[39m: [31m[teste_1752375698803] Não foi possível encontrar UUID do número para JID: 556198278919:72@s.whatsapp.net - erro: [object Object][39m
+2025-07-13 00:11:22:1122 [31merror[39m: [31m[teste_1752375698803] Erro inesperado ao registrar conversa: Cannot access 'resumo' before initialization[39m
+2025-07-13 00:11:24:1124 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:10:23:1023 [31merror[39m: [31m[teste_1752375698803] Não foi possível encontrar UUID do número para JID: 556198278919:72@s.whatsapp.net - erro: [object Object][39m
+2025-07-13 00:10:23:1023 [31merror[39m: [31m[teste_1752375698803] Erro inesperado ao registrar conversa: Cannot access 'resumo' before initialization[39m
+2025-07-13 00:10:25:1025 [31merror[39m: [31m[teste_1752375698803] Não foi possível encontrar UUID do número para JID: 556198278919:72@s.whatsapp.net - erro: [object Object][39m
+2025-07-13 00:10:25:1025 [31merror[39m: [31m[teste_1752375698803] Erro inesperado ao registrar conversa: Cannot access 'resumo' before initialization[39m
+2025-07-13 00:10:25:1025 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 00:10:25:1025 [31merror[39m: [31m[teste_1752375698803] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 00:10:28:1028 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:11:34:1134 [31merror[39m: [31m[teste_1752375698803] Não foi possível encontrar UUID do número para JID: 556198278919:72@s.whatsapp.net - erro: [object Object][39m
+2025-07-13 00:11:34:1134 [31merror[39m: [31m[teste_1752375698803] Erro inesperado ao registrar conversa: Cannot access 'resumo' before initialization[39m
+2025-07-13 00:11:34:1134 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 00:11:34:1134 [31merror[39m: [31m[teste_1752375698803] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 00:11:35:1135 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:10:37:1037 [31merror[39m: [31m[teste_1752375698803] Não foi possível encontrar UUID do número para JID: 556198278919:72@s.whatsapp.net - erro: [object Object][39m
+2025-07-13 00:10:37:1037 [31merror[39m: [31m[teste_1752375698803] Erro inesperado ao registrar conversa: Cannot access 'resumo' before initialization[39m
+2025-07-13 00:10:39:1039 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:11:45:1145 [31merror[39m: [31m[teste_1752375698803] Não foi possível encontrar UUID do número para JID: 556198278919:72@s.whatsapp.net - erro: [object Object][39m
+2025-07-13 00:11:45:1145 [31merror[39m: [31m[teste_1752375698803] Erro inesperado ao registrar conversa: Cannot access 'resumo' before initialization[39m
+2025-07-13 00:11:47:1147 [31merror[39m: [31m[teste_1752375698803] Não foi possível encontrar UUID do número para JID: 556198278919:72@s.whatsapp.net - erro: [object Object][39m
+2025-07-13 00:11:47:1147 [31merror[39m: [31m[teste_1752375698803] Erro inesperado ao registrar conversa: Cannot access 'resumo' before initialization[39m
+2025-07-13 00:11:47:1147 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:10:45:1045 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '556184144547@s.whatsapp.net',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A5153185AE4CB0C0B1D',[39m
+[31m    participant: undefined[39m
+[31m  },[39m
+[31m  err: MessageCounterError: Key used already or never filled[39m
+[31m      at SessionCipher.doDecryptWhisperMessage (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/libsignal/src/session_cipher.js:236:19)[39m
+[31m      at 556184144547.0 [as awaitable] (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/libsignal/src/session_cipher.js:207:42)[39m
+[31m      at async _asyncQueueExecutor (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/libsignal/src/queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-13 00:11:48:1148 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 00:11:48:1148 [31merror[39m: [31m[teste_1752375698803] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 00:10:51:1051 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:11:59:1159 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:11:03:113 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:12:11:1211 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:11:15:1115 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:12:23:1223 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:11:26:1126 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:12:34:1234 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:11:38:1138 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:12:46:1246 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:11:50:1150 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:12:58:1258 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:12:01:121 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:13:10:1310 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:12:13:1213 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:13:22:1322 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:12:25:1225 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:13:34:1334 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:12:38:1238 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:13:46:1346 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:12:50:1250 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:13:58:1358 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:14:21:1421 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:13:24:1324 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:14:32:1432 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:13:36:1336 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:14:44:1444 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:13:48:1348 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:14:56:1456 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:14:00:140 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:14:04:144 [31merror[39m: [31mErro ao deletar sessão teste_1752375698803: Connection Closed[39m
+2025-07-13 00:14:04:144 [31merror[39m: [31mErro ao deletar sessão: Connection Closed[39m
+2025-07-13 00:15:08:158 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:14:34:1434 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-13 00:21:41:2141 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 00:21:41:2141 [31merror[39m: [31m[teste_3_1752376524866] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 00:30:30:3030 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:31:38:3138 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:30:42:3042 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:31:50:3150 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:30:54:3054 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:32:02:322 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:32:08:328 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:32:13:3213 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:31:17:3117 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:32:25:3225 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:31:28:3128 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:32:37:3237 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:31:40:3140 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:32:48:3248 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:31:52:3152 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:33:00:330 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:32:04:324 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:33:12:3312 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:32:16:3216 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:33:24:3324 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:32:28:3228 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:33:36:3336 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:32:40:3240 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:33:48:3348 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:32:51:3251 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:33:59:3359 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:33:03:333 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:34:11:3411 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:33:15:3315 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:34:23:3423 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:33:27:3327 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:34:35:3435 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:33:39:3339 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:34:43:3443 [31merror[39m: [31mErro ao criar/atualizar conversa: there is no unique or exclusion constraint matching the ON CONFLICT specification[39m
+2025-07-13 00:34:47:3447 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:33:49:3349 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 00:33:49:3349 [31merror[39m: [31m[teste_3_1752376524866] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 00:33:51:3351 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:34:59:3459 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:34:02:342 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:35:08:358 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 00:35:08:358 [31merror[39m: [31m[teste_3_1752376524866] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 00:35:08:358 [31merror[39m: [31mErro ao criar/atualizar conversa: there is no unique or exclusion constraint matching the ON CONFLICT specification[39m
+2025-07-13 00:35:10:3510 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:34:14:3414 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:34:17:3417 [31merror[39m: [31m{[39m
+[31m  err: Error: Connection Closed[39m
+[31m      at sendRawMessage (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:60:19)[39m
+[31m      at sendNode (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:79:16)[39m
+[31m      at /mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:469:19[39m
+[31m      at async Object.transaction (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Utils/auth-utils.js:135:26)[39m
+[31m      at async relayMessage (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:294:9)[39m
+[31m      at async sendPeerDataOperationMessage (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:218:23)[39m
+[31m      at async handleMessage (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/messages-recv.js:619:24)[39m
+[31m      at async processNodeWithBuffer (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/messages-recv.js:815:9) {[39m
+[31m    data: null,[39m
+[31m    isBoom: true,[39m
+[31m    isServer: false,[39m
+[31m    output: { statusCode: 428, payload: [Object], headers: {} }[39m
+[31m  }[39m
+[31m}[39m
+2025-07-13 00:35:22:3522 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:34:26:3426 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:35:34:3534 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:34:37:3437 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:35:40:3540 [31merror[39m: [31m{[39m
+[31m  node: {[39m
+[31m    tag: 'stream:error',[39m
+[31m    attrs: { code: '401' },[39m
+[31m    content: [ [Object] ][39m
+[31m  }[39m
+[31m}[39m
+2025-07-13 00:34:51:3451 [31merror[39m: [31mErro ao deletar sessão teste_3_1752376524866: Connection Closed[39m
+2025-07-13 00:34:51:3451 [31merror[39m: [31mErro ao deletar sessão: Connection Closed[39m
+2025-07-13 00:34:56:3456 [31merror[39m: [31mErro ao deletar sessão teste_3_1752376524866: Connection Closed[39m
+2025-07-13 00:34:56:3456 [31merror[39m: [31mErro ao deletar sessão: Connection Closed[39m
+2025-07-13 00:35:01:351 [31merror[39m: [31mErro ao deletar sessão teste_3_1752376524866: Connection Closed[39m
+2025-07-13 00:35:01:351 [31merror[39m: [31mErro ao deletar sessão: Connection Closed[39m
+2025-07-13 00:35:16:3516 [31merror[39m: [31mErro ao deletar sessão teste_3_1752376524866: Connection Closed[39m
+2025-07-13 00:35:16:3516 [31merror[39m: [31mErro ao deletar sessão: Connection Closed[39m
+2025-07-13 00:38:09:389 [31merror[39m: [31mErro ao deletar sessão teste_3_1752376524866: Connection Closed[39m
+2025-07-13 00:38:09:389 [31merror[39m: [31mErro ao deletar sessão: Connection Closed[39m
+2025-07-13 00:39:28:3928 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-13 00:38:44:3844 [31merror[39m: [31mErro ao deletar sessão teste_3_1752376524866: Connection Closed[39m
+2025-07-13 00:38:44:3844 [31merror[39m: [31mErro ao deletar sessão: Connection Closed[39m
+2025-07-13 00:40:02:402 [31merror[39m: [31mErro ao deletar sessão teste_3_1752376524866: Connection Closed[39m
+2025-07-13 00:40:02:402 [31merror[39m: [31mErro ao deletar sessão: Connection Closed[39m
+2025-07-13 00:45:37:4537 [31merror[39m: [31mErro ao deletar sessão teste_1752377957180: Connection Closed[39m
+2025-07-13 00:45:37:4537 [31merror[39m: [31mErro ao deletar sessão: Connection Closed[39m
+2025-07-13 00:45:50:4550 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-13 00:47:00:470 [31merror[39m: [31mErro ao deletar sessão teste_1752377957180: Connection Closed[39m
+2025-07-13 00:47:00:470 [31merror[39m: [31mErro ao deletar sessão: Connection Closed[39m
+2025-07-13 00:49:29:4929 [31merror[39m: [31mErro ao deletar sessão teste_1752377957180: Connection Closed[39m
+2025-07-13 00:49:29:4929 [31merror[39m: [31mErro ao deletar sessão: Connection Closed[39m
+2025-07-13 00:51:58:5158 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:53:07:537 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 00:53:07:537 [31merror[39m: [31m[teste_3_1752378404948] Conflito de sessão detectado (Stream Errored). Limpando sessão do disco e do Map.[39m
+2025-07-13 00:56:47:5647 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-13 01:02:57:257 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 01:02:57:257 [31merror[39m: [31m[teste_1752378987480] Conflito de sessão detectado (Stream Errored). Limpando sessão do disco e do Map.[39m
+2025-07-13 01:12:00:120 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m

@@ -9,6 +9,7 @@ const { Boom } = require('@hapi/boom');
 const fs = require('fs');
 const path = require('path');
 const logger = require('../../utils/logger');
+const { handleIncomingMessage } = require('./MessageHandler');
 
 class WhatsAppManager {
   constructor() {
@@ -121,10 +122,22 @@ class WhatsAppManager {
       }
 
       if (connection === 'close') {
+        // --- NOVO: Log e cleanup para conflito de sessão ---
+        if (lastDisconnect?.error?.message?.includes('conflict')) {
+          logger.error(`[${sessionId}] Conflito de sessão detectado (Stream Errored). Limpando sessão do disco e do Map.`);
+          this.sessions.delete(sessionId);
+          const sessionDir = path.join(this.sessionPath, sessionId);
+          if (fs.existsSync(sessionDir)) {
+            fs.rmSync(sessionDir, { recursive: true, force: true });
+            logger.info(`[${sessionId}] Pasta da sessão removida do disco.`);
+          }
+          // Forçar reconexão limpa
+          setTimeout(() => this.createSession(sessionId), 2000);
+          return;
+        }
+        // --- FIM NOVO ---
         const shouldReconnect = (lastDisconnect?.error instanceof Boom)?.output?.statusCode !== DisconnectReason.loggedOut;
-        
         logger.info(`Conexão fechada para sessão ${sessionId}, reconectando: ${shouldReconnect}`);
-        
         if (shouldReconnect) {
           session.state = 'reconnecting';
           setTimeout(() => this.reconnectSession(sessionId), 5000);
@@ -150,7 +163,7 @@ class WhatsAppManager {
       const msg = m.messages[0];
       if (!msg.key.fromMe && m.type === 'notify') {
         logger.info(`Nova mensagem recebida na sessão ${sessionId}:`, msg.key.remoteJid);
-        // Aqui será implementado o processamento de mensagens
+        await handleIncomingMessage(msg, sessionId);
       }
     });
 

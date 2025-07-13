@@ -91,7 +91,7 @@ Real-time Setup:
 
 Deploy Inicial:
 
- Deploy backend no Render.com
+ Deploy backend no Render.com :check:
  Deploy frontend no Vercel
  Configurar variáveis de ambiente em produção
  Testar conectividade entre serviços
@@ -100,19 +100,19 @@ Deploy Inicial:
 Fase 2: Core Messaging 
 Processamento de Mensagens:
 
- Implementar event handlers completos do Baileys
- Criar parser universal para tipos de mensagem
- Implementar download automático de mídias
- Configurar compressão de imagens com Sharp
- Implementar sistema de backup de arquivos
+ Implementar event handlers completos do Baileys :check:
+ Criar parser universal para tipos de mensagem :check:
+ Implementar download automático de mídias :check:
+ Configurar compressão de imagens com Sharp :check:
+ Implementar sistema de backup de arquivos :check:
 
 Gestão de Dados:
 
- Sistema de criação/atualização de contatos
- Gerenciamento automático de conversas
- Implementar cache com NodeCache para performance
- Sistema de cleanup automático de arquivos antigos
- Otimização de queries para Supabase
+ Sistema de criação/atualização de contatos :check:
+ Gerenciamento automático de conversas :check:
+ Implementar cache com NodeCache para performance :check:
+ Sistema de cleanup automático de arquivos antigos :check:
+ Otimização de queries para Supabase :check:
 
 Interface de Conversas:
 

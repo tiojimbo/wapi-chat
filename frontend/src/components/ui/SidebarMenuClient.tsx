@@ -36,7 +36,7 @@ export function SidebarMenuClient({ connectedNumbers }: SidebarMenuClientProps) 
             tooltip={num.number}
             className={""}
           >
-            <Link href={`/dashboard?number=${encodeURIComponent(num.number)}`}>
+            <Link href={`/dashboard?number=${encodeURIComponent(num.id)}`}>
               {state === "collapsed" ? (
                 <span className="inline-block w-2 h-2 rounded-full bg-green-500 ml-2" />
               ) : (

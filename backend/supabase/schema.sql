@@ -186,7 +186,7 @@ CREATE TABLE public.users (
 CREATE TABLE public.whatsapp_contacts (
   id uuid NOT NULL DEFAULT uuid_generate_v4(),
   organization_id uuid,
-  wa_id character varying NOT NULL UNIQUE,
+  wa_id character varying(128) NOT NULL UNIQUE,
   profile_name character varying,
   formatted_name character varying,
   first_name character varying,
@@ -345,3 +345,6 @@ CREATE TABLE public.whatsapp_webhook_events (
   CONSTRAINT whatsapp_webhook_events_pkey PRIMARY KEY (id),
   CONSTRAINT whatsapp_webhook_events_phone_number_id_fkey FOREIGN KEY (phone_number_id) REFERENCES public.whatsapp_phone_numbers(id)
 );
+-- Índices recomendados para performance
+CREATE INDEX IF NOT EXISTS idx_whatsapp_contacts_wa_id ON public.whatsapp_contacts (wa_id);
+CREATE INDEX IF NOT EXISTS idx_whatsapp_conversations_phone_contact ON public.whatsapp_conversations (phone_number_id, contact_id);
