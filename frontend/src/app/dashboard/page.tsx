@@ -4,6 +4,7 @@ import { useSession } from '@supabase/auth-helpers-react';
 import { ConversationList } from '@/components/ConversationList';
 import { useSearchParams } from "next/navigation";
 import { useRouter } from "next/navigation";
+import ChatWindow from '@/components/ChatWindow';
 
 export default function DashboardPage() {
   const session = useSession();
@@ -45,7 +46,7 @@ export default function DashboardPage() {
   }, [searchParams, connectedSessions, session, router]);
 
   return (
-    <div className="flex h-full min-h-[600px]">
+    <div className="flex h-full -mt-8 -ml-8 mr-0">
       {sessionId && (
         <ConversationList
           sessionId={sessionId}
@@ -53,18 +54,15 @@ export default function DashboardPage() {
           selectedConversationId={selectedConversation?.id}
         />
       )}
-      <div className="flex-1 min-w-0">
+      <div className="flex-1 min-w-0 h-full flex flex-col">
         {selectedConversation ? (
-          <div className="p-8">
-            <h2 className="text-xl font-bold mb-2">
-              {selectedConversation.whatsapp_contacts?.profile_name || selectedConversation.whatsapp_contacts?.wa_id}
-            </h2>
-            <div className="text-gray-500 mb-4">Última mensagem: {selectedConversation.last_message_preview}</div>
-            {/* Aqui pode exibir o histórico do chat, input de mensagem, etc. */}
-        </div>
+          <ChatWindow
+            conversationId={selectedConversation.id}
+            contactName={selectedConversation.whatsapp_contacts?.profile_name || selectedConversation.whatsapp_contacts?.wa_id}
+          />
         ) : (
           <div className="flex items-center justify-center h-full text-gray-400">Selecione uma conversa</div>
-      )}
+        )}
       </div>
     </div>
   );

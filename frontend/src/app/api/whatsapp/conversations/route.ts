@@ -12,7 +12,7 @@ export async function GET(req: NextRequest) {
   }
 
   // Monta a URL do backend
-  const backendUrl = new URL('/whatsapp/conversations', BACKEND_URL);
+  const backendUrl = new URL('/api/whatsapp/conversations', BACKEND_URL);
   backendUrl.searchParams.set('sessionId', sessionId);
   if (q) backendUrl.searchParams.set('q', q);
 

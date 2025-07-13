@@ -3,6 +3,7 @@
 import React from "react";
 import localFont from "next/font/local";
 import Link from "next/link";
+import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import * as SidebarModule from "@/components/ui/sidebar";
 import { Home, User, LogOut, Sun, Moon } from "lucide-react";
 import { SidebarMenuClient } from "@/components/ui/SidebarMenuClient";
@@ -95,7 +96,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
           <SidebarModule.SidebarRail />
           <SidebarModule.SidebarHeader className="h-50">
             {mounted && (
-              <div className="flex flex-row items-center justify-between px-5 h-20 w-full border-b border-gray-200 dark:border-[#2D2D30] bg-white bg-[#F6F6F6] dark:bg-[#232326]">
+              <div className="flex flex-row items-center justify-between px-5 h-20 w-full border-b border-gray-200 dark:border-[#2D2D30] bg-[#F6F6F6] dark:bg-[#232326]">
                 <span className={`text-2xl font-bold transition-all duration-200 overflow-hidden ${theme === 'dark' ? 'text-white' : 'text-[#59C29D]'}`}> 
                   WapiChat
                 </span>
@@ -105,12 +106,12 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
           <SidebarModule.SidebarContent>
             <SidebarMenuWithTrigger />
           </SidebarModule.SidebarContent>
-          <SidebarModule.SidebarFooter>
+          {/* <SidebarModule.SidebarFooter>
             <SidebarModule.SidebarMenuButton tooltip="Sair" className="text-red-600 hover:bg-red-50" onClick={() => setOpenLogoutModal(true)}>
               <LogOut className="w-5 h-5" />
               <span>Sair</span>
             </SidebarModule.SidebarMenuButton>
-          </SidebarModule.SidebarFooter>
+          </SidebarModule.SidebarFooter> */}
         </SidebarModule.Sidebar>
         <div className="flex-1 flex flex-col min-w-0 bg-background dark:bg-[#18181b]">
         <header className="h-20 bg-white dark:bg-[#18181B] border-b border-gray-200 dark:border-[#2D2D30] flex items-center px-6">
@@ -129,13 +130,36 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
                   {theme === 'dark' ? <Sun className="w-5 h-5 text-yellow-400" /> : <Moon className="w-5 h-5 text-gray-700" />}
                 </button>
               )}
-              <Link href="/dashboard/profile" className="outline-none focus:ring-2 focus:ring-[#59C29D] rounded-full">
-                <Avatar.Root className="w-10 h-10 rounded-full border border-gray-200 bg-gray-100 flex items-center justify-center overflow-hidden cursor-pointer hover:ring-2 hover:ring-[#59C29D] transition">
-                  <Avatar.Fallback className="text-gray-500 font-bold text-lg flex items-center justify-center w-full h-full uppercase">
-                    {userEmail ? userEmail[0] : "U"}
-                  </Avatar.Fallback>
-                </Avatar.Root>
-              </Link>
+              <Popover>
+                <PopoverTrigger asChild>
+                  <button className="outline-none focus:ring-2 focus:ring-[#59C29D] rounded-full">
+                    <Avatar.Root className="w-10 h-10 rounded-full border border-gray-200 bg-gray-100 flex items-center justify-center overflow-hidden cursor-pointer hover:ring-2 hover:ring-[#59C29D] transition">
+                      <Avatar.Fallback className="text-gray-500 font-bold text-lg flex items-center justify-center w-full h-full uppercase">
+                        {userEmail ? userEmail[0] : "U"}
+                      </Avatar.Fallback>
+                    </Avatar.Root>
+                  </button>
+                </PopoverTrigger>
+                <PopoverContent align="end" className="w-[230px] h-[140px] p-2 rounded-xl shadow-lg border bg-white dark:bg-[#232326] flex flex-col justify-between">
+                  <div className="mb-1">
+                    <div className="font-semibold text-base text-gray-900 dark:text-white leading-tight">Pedro Carlos</div>
+                    <div className="text-xs text-gray-500 dark:text-gray-300 break-all leading-tight">{userEmail}</div>
+                  </div>
+                  <div className="border-t my-1" />
+                  <Link href="/dashboard/profile" className="flex items-center gap-2 py-1 text-gray-700 dark:text-gray-200 hover:underline text-sm">
+                    <User className="w-4 h-4" />
+                    Perfil
+                  </Link>
+                  <div className="border-t my-1" />
+                  <button
+                    className="flex items-center gap-2 text-red-600 hover:bg-red-50 w-full py-1 rounded transition text-sm"
+                    onClick={() => setOpenLogoutModal(true)}
+                  >
+                    <LogOut className="w-4 h-4" />
+                    Sair
+                  </button>
+                </PopoverContent>
+              </Popover>
             </div>
           </header>
           <main className="flex-1 w-full min-w-0 p-8 bg-background dark:bg-[#18181b]">

@@ -211,4 +211,23 @@ router.get('/conversations', async (req, res) => {
   }
 });
 
+// Buscar histórico de mensagens de uma conversa
+router.get('/conversations/:conversationId/messages', async (req, res) => {
+  try {
+    const { conversationId } = req.params;
+    const { limit } = req.query;
+    if (!conversationId) {
+      return res.status(400).json({ error: 'conversationId é obrigatório' });
+    }
+    const { messages, error } = await SupabaseService.getMessagesByConversation(conversationId, limit ? parseInt(limit) : 50);
+    if (error) {
+      return res.status(500).json({ error });
+    }
+    res.json({ messages });
+  } catch (error) {
+    logger.error('Erro ao buscar histórico de mensagens:', error);
+    res.status(500).json({ error: 'Erro ao buscar histórico de mensagens' });
+  }
+});
+
 module.exports = router; 

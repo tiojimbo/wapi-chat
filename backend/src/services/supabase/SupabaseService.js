@@ -201,6 +201,55 @@ class SupabaseService {
       return { id: null, error: err.message };
     }
   }
+
+  /**
+   * Insere uma mensagem do WhatsApp na tabela whatsapp_messages
+   * @param {object} messageData - Dados da mensagem (deve conter conversation_id, sender_id, content, type, timestamp, etc)
+   * @returns {Promise<{id: string|null, error: string|null}>}
+   */
+  async insertWhatsappMessage(messageData) {
+    try {
+      const { data, error } = await this.client
+        .from('whatsapp_messages')
+        .insert(messageData)
+        .select('id')
+        .single();
+      if (error) {
+        logger.error('Erro ao inserir mensagem:', error);
+        return { id: null, error: error.message };
+      }
+      logger.info('Mensagem inserida:', data?.id);
+      return { id: data?.id || null, error: null };
+    } catch (err) {
+      logger.error('Erro inesperado ao inserir mensagem:', err);
+      return { id: null, error: err.message };
+    }
+  }
+
+  /**
+   * Busca o histórico de mensagens de uma conversa
+   * @param {string} conversationId - ID da conversa
+   * @param {number} [limit=50] - Limite de mensagens (default: 50)
+   * @returns {Promise<{messages: Array, error: string|null}>}
+   */
+  async getMessagesByConversation(conversationId, limit = 50) {
+    try {
+      const { data, error } = await this.client
+        .from('whatsapp_messages')
+        .select('*')
+        .eq('conversation_id', conversationId)
+        .order('timestamp', { ascending: true })
+        .limit(limit);
+      if (error) {
+        logger.error('Erro ao buscar mensagens:', error);
+        return { messages: [], error: error.message };
+      }
+      return { messages: data, error: null };
+    } catch (err) {
+      logger.error('Erro inesperado ao buscar mensagens:', err);
+      return { messages: [], error: err.message };
+    }
+  }
 }
 
 module.exports = new SupabaseService(); 

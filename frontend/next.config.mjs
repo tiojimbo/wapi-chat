@@ -1,13 +1,13 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
-
-export default {
+const nextConfig = {
   async rewrites() {
     return [
       {
-        source: '/api/whatsapp/:path*',
-        destination: 'http://localhost:3001/api/whatsapp/:path*', // ajuste a porta se necessário
+        source: '/api/:path*',
+        destination: 'http://localhost:3001/api/:path*',
       },
     ];
   },
 };
+
+export default nextConfig;

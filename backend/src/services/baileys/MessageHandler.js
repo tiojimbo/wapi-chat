@@ -162,12 +162,59 @@ async function handleIncomingMessage(msg, sessionId) {
         }
         if (phoneData && phoneData.id) {
           logger.info(`[${sessionId}] UUID do número encontrado: ${phoneData.id}`);
-          await SupabaseService.upsertWhatsappConversation(
+          // Upsert da conversa
+          const upsertConv = await SupabaseService.upsertWhatsappConversation(
             phoneData.id,
             contactId,
             resumo,
             new Date(Number(msg.messageTimestamp) * 1000).toISOString()
           );
+          // Buscar o conversation_id
+          let conversationId = null;
+          if (upsertConv && upsertConv.id) {
+            conversationId = upsertConv.id;
+          } else {
+            // Buscar manualmente se não retornou
+            const { data: convData } = await SupabaseService.getClient()
+              .from('whatsapp_conversations')
+              .select('id')
+              .eq('phone_number_id', phoneData.id)
+              .eq('contact_id', contactId)
+              .single();
+            conversationId = convData?.id || null;
+          }
+          // Salvar mensagem individual
+          if (conversationId) {
+            // Mapear mainType para tipo curto aceito pelo banco
+            const typeMap = {
+              conversation: 'text',
+              extendedTextMessage: 'text',
+              imageMessage: 'image',
+              videoMessage: 'video',
+              audioMessage: 'audio',
+              documentMessage: 'document',
+              stickerMessage: 'sticker'
+            };
+            const typeShort = typeMap[mainType] || mainType.slice(0, 20);
+            // Extrair apenas o número puro (sem JID, sufixos ou domínio)
+            const extractNumber = (jid) => (jid || '').split(':')[0].replace(/[^0-9]/g, '').slice(0, 20);
+            const fromNumber = extractNumber(msg.key.participant || msg.key.remoteJid);
+            const toNumber = extractNumber(msg.key.remoteJid);
+            const messageData = {
+              conversation_id: conversationId,
+              wamid: msg.key.id,
+              type: typeShort,
+              from_number: fromNumber,
+              to_number: toNumber,
+              timestamp: new Date(Number(msg.messageTimestamp) * 1000).toISOString(),
+              text_body: (mainType === 'conversation' || mainType === 'extendedTextMessage') ? (msg.message.conversation || msg.message.extendedTextMessage?.text || null) : null,
+              media_url: (isMedia && typeof publicUrl === 'string') ? publicUrl : null,
+              status: null // Pode ser ajustado depois
+            };
+            logger.info(`[${sessionId}] [DEBUG] Salvando mensagem no banco:`, messageData);
+            const result = await SupabaseService.insertWhatsappMessage(messageData);
+            logger.info(`[${sessionId}] [DEBUG] Resultado do insertWhatsappMessage:`, result);
+          }
         } else {
           logger.error(`[${sessionId}] Não foi possível encontrar UUID do número para JID: ${phone_jid} - erro: ${JSON.stringify(phoneError)}`);
         }
@@ -182,4 +229,4 @@ async function handleIncomingMessage(msg, sessionId) {
 
 module.exports = {
   handleIncomingMessage,
-}; 
+};

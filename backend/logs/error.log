@@ -855,3 +855,113 @@
 2025-07-13 01:12:00:120 [31merror[39m: [31m{[39m
 [31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
 [31m}[39m
+2025-07-13 16:17:25:1725 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 16:17:25:1725 [31merror[39m: [31m[teste_1_1752379967574] Conflito de sessão detectado (Stream Errored). Limpando sessão do disco e do Map.[39m
+2025-07-13 16:30:17:3017 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-13 16:46:05:465 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 16:46:05:465 [31merror[39m: [31m[teste_1752434993632] Conflito de sessão detectado (Stream Errored). Limpando sessão do disco e do Map.[39m
+2025-07-13 16:58:16:5816 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-13 17:16:21:1621 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 17:22:43:2243 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'E7ED48C143E489F9796F9DB10896D497',[39m
+[31m    participant: '5518996463926@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5518996463926.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-13 17:22:43:2243 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'E7ED48C143E489F9796F9DB10896D497',[39m
+[31m    participant: '5518996463926@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363037378266315@g.us::5518996463926::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-13 17:22:49:2249 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'E7ED48C143E489F9796F9DB10896D497',[39m
+[31m    participant: '5518996463926@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5518996463926.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-13 17:22:51:2251 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'E7ED48C143E489F9796F9DB10896D497',[39m
+[31m    participant: '5518996463926@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5518996463926.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-13 17:22:53:2253 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'E7ED48C143E489F9796F9DB10896D497',[39m
+[31m    participant: '5518996463926@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5518996463926.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-13 17:22:56:2256 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'E7ED48C143E489F9796F9DB10896D497',[39m
+[31m    participant: '5518996463926@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5518996463926.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-13 17:26:08:268 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-13 17:26:08:268 [31merror[39m: [31m[teste2_1752436751487] Conflito de sessão detectado (Stream Errored). Limpando sessão do disco e do Map.[39m
+2025-07-13 18:26:12:2612 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-13 18:49:45:4945 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 18:49:45:4945 [31merror[39m: [31m[teste_1752441949770] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 18:50:58:5058 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 18:50:58:5058 [31merror[39m: [31m[teste_1752441949770] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 18:53:23:5323 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 18:53:23:5323 [31merror[39m: [31m[teste_1752441949770] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 19:12:05:125 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 19:12:05:125 [31merror[39m: [31m[teste_1752441949770] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 19:20:59:2059 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 19:20:59:2059 [31merror[39m: [31m[teste_1752441949770] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 19:21:31:2131 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 19:21:31:2131 [31merror[39m: [31m[teste_1752441949770] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 19:21:50:2150 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 19:21:50:2150 [31merror[39m: [31m[teste_1752441949770] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 19:21:55:2155 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 19:21:55:2155 [31merror[39m: [31m[teste_1752441949770] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 19:22:23:2223 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 19:22:23:2223 [31merror[39m: [31m[teste_1752441949770] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 19:22:50:2250 [31merror[39m: [31mErro ao fazer upload para Supabase Storage: Bucket not found[39m
+2025-07-13 19:22:50:2250 [31merror[39m: [31m[teste_1752441949770] Falha no backup Supabase Storage: Bucket not found[39m
+2025-07-13 19:55:17:5517 [31merror[39m: [31mErro ao inserir mensagem: Could not find the 'content' column of 'whatsapp_messages' in the schema cache[39m
+2025-07-13 19:59:47:5947 [31merror[39m: [31mErro ao inserir mensagem: value too long for type character varying(20)[39m
+2025-07-13 20:02:53:253 [31merror[39m: [31mErro ao inserir mensagem: value too long for type character varying(20)[39m

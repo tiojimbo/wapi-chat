@@ -34,7 +34,11 @@ export function SidebarMenuClient({ connectedNumbers }: SidebarMenuClientProps) 
           <SidebarModule.SidebarMenuButton
             asChild
             tooltip={num.number}
-            className={""}
+            className={
+              selectedNumber === num.id
+                ? '!bg-[#E5F5F0] !text-[#47B790] dark:!bg-[#1E302D] dark:!text-[#47B790]'
+                : ''
+            }
           >
             <Link href={`/dashboard?number=${encodeURIComponent(num.id)}`}>
               {state === "collapsed" ? (
