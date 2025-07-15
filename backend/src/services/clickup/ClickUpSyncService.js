@@ -18,8 +18,9 @@ class ClickUpSyncService {
       headers: { Authorization: access_token }
     });
     const spaces = spacesRes.data.spaces || [];
+    console.log(`[ClickUpSync] Spaces encontrados: ${spaces.length}`);
     for (const space of spaces) {
-      await supabase.from('clickup_spaces').upsert({
+      const upsertSpace = {
         space_id: space.id,
         workspace_id: team_id,
         name: space.name,
@@ -32,15 +33,18 @@ class ClickUpSyncService {
         archived: space.archived,
         created_at: space.date_created ? new Date(Number(space.date_created)) : null,
         updated_at: new Date().toISOString()
-      }, { onConflict: ['space_id'] });
+      };
+      const { data: spaceData, error: spaceError } = await supabase.from('clickup_spaces').upsert(upsertSpace, { onConflict: ['space_id'] });
+      console.log(`[ClickUpSync] Upsert space:`, { upsertSpace, spaceData, spaceError });
 
       // 2. FOLDERS
       const foldersRes = await axios.get(`https://api.clickup.com/api/v2/space/${space.id}/folder`, {
         headers: { Authorization: access_token }
       });
       const folders = foldersRes.data.folders || [];
+      console.log(`[ClickUpSync] Folders encontrados para space ${space.id}: ${folders.length}`);
       for (const folder of folders) {
-        await supabase.from('clickup_folders').upsert({
+        const upsertFolder = {
           folder_id: folder.id,
           space_id: space.id,
           name: folder.name,
@@ -51,11 +55,14 @@ class ClickUpSyncService {
           lists: folder.lists,
           created_at: folder.date_created ? new Date(Number(folder.date_created)) : null,
           updated_at: new Date().toISOString()
-        }, { onConflict: ['folder_id'] });
+        };
+        const { data: folderData, error: folderError } = await supabase.from('clickup_folders').upsert(upsertFolder, { onConflict: ['folder_id'] });
+        console.log(`[ClickUpSync] Upsert folder:`, { upsertFolder, folderData, folderError });
 
         // 3. LISTS
+        console.log(`[ClickUpSync] Lists encontrados para folder ${folder.id}: ${(folder.lists || []).length}`);
         for (const list of folder.lists || []) {
-          await supabase.from('clickup_lists').upsert({
+          const upsertList = {
             list_id: list.id,
             folder_id: folder.id,
             space_id: space.id,
@@ -71,15 +78,18 @@ class ClickUpSyncService {
             permission_level: list.permission_level,
             created_at: list.date_created ? new Date(Number(list.date_created)) : null,
             updated_at: new Date().toISOString()
-          }, { onConflict: ['list_id'] });
+          };
+          const { data: listData, error: listError } = await supabase.from('clickup_lists').upsert(upsertList, { onConflict: ['list_id'] });
+          console.log(`[ClickUpSync] Upsert list:`, { upsertList, listData, listError });
 
           // 4. TASKS
           const tasksRes = await axios.get(`https://api.clickup.com/api/v2/list/${list.id}/task`, {
             headers: { Authorization: access_token }
           });
           const tasks = tasksRes.data.tasks || [];
+          console.log(`[ClickUpSync] Tasks encontrados para list ${list.id}: ${tasks.length}`);
           for (const task of tasks) {
-            await supabase.from('clickup_tasks').upsert({
+            const upsertTask = {
               task_id: task.id,
               list_id: list.id,
               custom_id: task.custom_id,
@@ -114,7 +124,9 @@ class ClickUpSyncService {
               attachments: task.attachments,
               created_at: new Date().toISOString(),
               updated_at: new Date().toISOString()
-            }, { onConflict: ['task_id'] });
+            };
+            const { data: taskData, error: taskError } = await supabase.from('clickup_tasks').upsert(upsertTask, { onConflict: ['task_id'] });
+            console.log(`[ClickUpSync] Upsert task:`, { upsertTask, taskData, taskError });
           }
         }
       }
