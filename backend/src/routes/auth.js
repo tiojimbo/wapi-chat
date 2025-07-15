@@ -3,6 +3,7 @@ const router = express.Router();
 const logger = require('../utils/logger');
 const ClickUpService = require('../services/clickup/ClickUpService');
 const SupabaseService = require('../services/supabase/SupabaseService');
+const ClickUpSyncService = require('../services/clickup/ClickUpSyncService');
 
 // Login (placeholder - será implementado com Supabase Auth)
 router.post('/login', async (req, res) => {
@@ -132,6 +133,26 @@ router.get('/clickup/callback', async (req, res) => {
     res.json({ token: tokenData, user: userData, workspace: team, state });
   } catch (err) {
     res.status(500).json({ error: 'Erro ao autenticar com ClickUp', details: err.message });
+  }
+});
+
+// Sincronizar dados do ClickUp (spaces, folders, lists, tasks)
+router.get('/clickup/sync', async (req, res) => {
+  try {
+    // Buscar o primeiro workspace salvo (ajuste para múltiplos workspaces se necessário)
+    const supabase = require('../services/supabase/SupabaseService').getClient();
+    const { data: workspace, error } = await supabase
+      .from('clickup_workspaces')
+      .select('team_id')
+      .limit(1)
+      .single();
+    if (error || !workspace) {
+      return res.status(404).json({ error: 'Workspace do ClickUp não encontrado' });
+    }
+    await ClickUpSyncService.syncAllFromWorkspace(workspace.team_id);
+    res.json({ success: true, message: 'Sincronização concluída!' });
+  } catch (err) {
+    res.status(500).json({ error: 'Erro ao sincronizar dados do ClickUp', details: err.message });
   }
 });
 

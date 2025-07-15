@@ -47644,3 +47644,538 @@
 [32m  }[39m
 [32m}[39m
 2025-07-14 23:44:54:4454 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:45:54:4554 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:46:14:4614 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:46:34:4634 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:46:54:4654 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:47:14:4714 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:47:34:4734 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: QR refs attempts ended\n' +[39m
+[32m    '    at Timeout.genPairQR [as _onTimeout] (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:485:21)\n' +[39m
+[32m    '    at listOnTimeout (node:internal/timers:588:17)\n' +[39m
+[32m    '    at process.processTimers (node:internal/timers:523:7)'[39m
+[32m}[39m
+2025-07-14 23:47:34:4734 [32minfo[39m: [32mConexão fechada para sessão teste_1752543744842, reconectando: true[39m
+2025-07-14 23:47:39:4739 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-14 23:47:39:4739 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 28 1c b9 e2 6e 0b c8 73 c2 08 88 e1 d5 62 0b 2c a3 67 49 99 b8 e2 3d d1 6e 72 5b 5f 9d 1f a6 04>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-14 23:47:39:4739 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    devicePairingData: DevicePairingRegistrationData {[39m
+[32m      eRegid: [Uint8Array],[39m
+[32m      eKeytype: <Buffer 05>,[39m
+[32m      eIdent: <Buffer 28 3a 8a a2 96 51 8d ed d1 8b e3 01 70 a2 09 98 7e 80 77 62 9b a4 77 bc c1 7b 16 47 be 96 3c 10>,[39m
+[32m      eSkeyId: [Uint8Array],[39m
+[32m      eSkeyVal: <Buffer 38 e5 41 a9 35 cd 10 5c 44 43 0e 42 3e f9 91 ca 05 61 92 25 dd 0b eb 69 00 3c 59 2f f9 c9 45 5c>,[39m
+[32m      eSkeySig: <Buffer d6 05 61 56 ff 9d 87 6f 98 f4 54 6f 4a 2f 38 50 7a d8 18 23 4f b9 c2 7f 2d c9 81 ae 59 bf 66 87 e4 dc 1b c3 78 53 13 fd 58 24 90 5e 1c 44 3e a9 6f 39 ... 14 more bytes>,[39m
+[32m      buildHash: <Buffer 73 d9 50 79 43 25 4d da cc ac 88 bf f9 87 0f 88>,[39m
+[32m      deviceProps: <Buffer 0a 08 57 61 70 69 43 68 61 74 18 01 20 00>[39m
+[32m    },[39m
+[32m    pull: false[39m
+[32m  }[39m
+[32m}[39m
+2025-07-14 23:47:40:4740 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:48:40:4840 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:49:00:490 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:49:20:4920 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:49:40:4940 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:50:00:500 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:50:20:5020 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: QR refs attempts ended\n' +[39m
+[32m    '    at Timeout.genPairQR [as _onTimeout] (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:485:21)\n' +[39m
+[32m    '    at listOnTimeout (node:internal/timers:588:17)\n' +[39m
+[32m    '    at process.processTimers (node:internal/timers:523:7)'[39m
+[32m}[39m
+2025-07-14 23:50:20:5020 [32minfo[39m: [32mConexão fechada para sessão teste_1752543744842, reconectando: true[39m
+2025-07-14 23:50:25:5025 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-14 23:50:25:5025 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 44 25 94 b9 b3 3c db 9c 34 a1 ec 1c 67 cb 1a 54 80 31 25 44 ce bc a1 33 99 7c ac c9 68 f3 dc 7f>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-14 23:50:25:5025 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    devicePairingData: DevicePairingRegistrationData {[39m
+[32m      eRegid: [Uint8Array],[39m
+[32m      eKeytype: <Buffer 05>,[39m
+[32m      eIdent: <Buffer 18 ee 38 d4 a5 3d 5e 06 5c b2 17 e5 93 19 d2 85 ef e8 a4 92 5e 34 ad 04 f9 6a 5f 11 0c 72 57 44>,[39m
+[32m      eSkeyId: [Uint8Array],[39m
+[32m      eSkeyVal: <Buffer c8 28 b4 e9 99 96 a3 4a b4 80 99 d8 a5 1c 2d 14 d2 00 ba 52 46 53 cf 27 7e 5d f9 57 07 aa 3b 5b>,[39m
+[32m      eSkeySig: <Buffer a5 a4 69 be 3e 3d ce 65 20 92 ae d2 ac 9c 26 e9 ab a5 42 97 fb bf a6 13 f6 f5 ad e1 1a 12 72 29 c1 8a b4 12 ba 04 e5 59 7c ff 6a 91 67 69 c9 61 1a c9 ... 14 more bytes>,[39m
+[32m      buildHash: <Buffer 73 d9 50 79 43 25 4d da cc ac 88 bf f9 87 0f 88>,[39m
+[32m      deviceProps: <Buffer 0a 08 57 61 70 69 43 68 61 74 18 01 20 00>[39m
+[32m    },[39m
+[32m    pull: false[39m
+[32m  }[39m
+[32m}[39m
+2025-07-14 23:50:26:5026 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:51:26:5126 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:51:46:5146 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:52:06:526 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:52:26:5226 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:52:46:5246 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:53:06:536 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: QR refs attempts ended\n' +[39m
+[32m    '    at Timeout.genPairQR [as _onTimeout] (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:485:21)\n' +[39m
+[32m    '    at listOnTimeout (node:internal/timers:588:17)\n' +[39m
+[32m    '    at process.processTimers (node:internal/timers:523:7)'[39m
+[32m}[39m
+2025-07-14 23:53:06:536 [32minfo[39m: [32mConexão fechada para sessão teste_1752543744842, reconectando: true[39m
+2025-07-14 23:53:11:5311 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-14 23:53:11:5311 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer c9 19 fe 85 9e 8f f7 6e c6 e3 61 35 fc 31 24 74 35 62 f7 dd e8 95 c7 96 a6 42 59 df c1 c4 0b 3a>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-14 23:53:11:5311 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    devicePairingData: DevicePairingRegistrationData {[39m
+[32m      eRegid: [Uint8Array],[39m
+[32m      eKeytype: <Buffer 05>,[39m
+[32m      eIdent: <Buffer 6a ae 80 50 44 c5 41 3f 81 46 61 80 54 fd f9 c8 c9 e4 73 ba 07 e3 d2 a1 91 e3 28 5c 50 b0 97 28>,[39m
+[32m      eSkeyId: [Uint8Array],[39m
+[32m      eSkeyVal: <Buffer f1 a5 f8 57 ed a2 c9 27 69 59 ad a4 b0 46 ca 6f 55 24 5e 18 31 3d d5 91 0f c6 b8 7d b9 c3 17 0c>,[39m
+[32m      eSkeySig: <Buffer 21 1a b5 9d 65 72 69 53 c3 dd 7d 00 09 ff 45 7a 91 aa 3d 90 14 a9 71 a4 80 ea df 5f 7c e6 7d 66 74 52 96 85 72 ae e1 92 e9 27 a5 65 12 87 fa 13 4e c4 ... 14 more bytes>,[39m
+[32m      buildHash: <Buffer 73 d9 50 79 43 25 4d da cc ac 88 bf f9 87 0f 88>,[39m
+[32m      deviceProps: <Buffer 0a 08 57 61 70 69 43 68 61 74 18 01 20 00>[39m
+[32m    },[39m
+[32m    pull: false[39m
+[32m  }[39m
+[32m}[39m
+2025-07-14 23:53:12:5312 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:54:12:5412 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:54:32:5432 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:54:52:5452 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:55:12:5512 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:55:32:5532 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:55:52:5552 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: QR refs attempts ended\n' +[39m
+[32m    '    at Timeout.genPairQR [as _onTimeout] (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:485:21)\n' +[39m
+[32m    '    at listOnTimeout (node:internal/timers:588:17)\n' +[39m
+[32m    '    at process.processTimers (node:internal/timers:523:7)'[39m
+[32m}[39m
+2025-07-14 23:55:52:5552 [32minfo[39m: [32mConexão fechada para sessão teste_1752543744842, reconectando: true[39m
+2025-07-14 23:55:57:5557 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-14 23:55:57:5557 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 47 06 6a 9b e1 34 20 0a 30 05 ce 5d cd 1e 95 2c b0 88 31 cb 20 c0 40 45 2e 84 9e bd 80 2a 05 46>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-14 23:55:57:5557 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    devicePairingData: DevicePairingRegistrationData {[39m
+[32m      eRegid: [Uint8Array],[39m
+[32m      eKeytype: <Buffer 05>,[39m
+[32m      eIdent: <Buffer f9 03 61 8e b8 9e d0 45 19 a1 c3 f8 c7 87 0c 5b 2c 44 26 36 df 96 be 04 50 dc df 26 e2 7d 3c 42>,[39m
+[32m      eSkeyId: [Uint8Array],[39m
+[32m      eSkeyVal: <Buffer 55 b8 d7 85 60 66 e4 22 c6 21 5c 85 31 1a ac e4 9f b9 5a ab 80 4d 26 0d 1e 00 46 89 da cc f9 3f>,[39m
+[32m      eSkeySig: <Buffer cb fc 49 1c 71 e7 fc ca b7 aa d0 30 81 a4 60 c6 19 69 b9 09 fa 24 22 e9 d8 ac 2e 16 f5 02 a2 05 f7 0a fa 94 0b f9 9c c6 6a ae 13 36 1a ee 76 04 c7 1a ... 14 more bytes>,[39m
+[32m      buildHash: <Buffer 73 d9 50 79 43 25 4d da cc ac 88 bf f9 87 0f 88>,[39m
+[32m      deviceProps: <Buffer 0a 08 57 61 70 69 43 68 61 74 18 01 20 00>[39m
+[32m    },[39m
+[32m    pull: false[39m
+[32m  }[39m
+[32m}[39m
+2025-07-14 23:55:57:5557 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:56:57:5657 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:57:17:5717 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:57:37:5737 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:57:57:5757 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:58:17:5817 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:58:37:5837 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: QR refs attempts ended\n' +[39m
+[32m    '    at Timeout.genPairQR [as _onTimeout] (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:485:21)\n' +[39m
+[32m    '    at listOnTimeout (node:internal/timers:588:17)\n' +[39m
+[32m    '    at process.processTimers (node:internal/timers:523:7)'[39m
+[32m}[39m
+2025-07-14 23:58:37:5837 [32minfo[39m: [32mConexão fechada para sessão teste_1752543744842, reconectando: true[39m
+2025-07-14 23:58:43:5843 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-14 23:58:43:5843 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer a9 d2 26 f2 90 56 fe 8f ab 4e 9d 07 06 01 30 a4 de a4 31 26 39 a4 7c 68 62 34 ba 41 26 a8 a4 72>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-14 23:58:43:5843 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    devicePairingData: DevicePairingRegistrationData {[39m
+[32m      eRegid: [Uint8Array],[39m
+[32m      eKeytype: <Buffer 05>,[39m
+[32m      eIdent: <Buffer 62 7b 2a 9b 6b 44 cf fb 95 c0 5d 96 14 a7 eb f2 20 89 37 e1 96 93 26 8b 4d 12 4b 59 1d e1 6d 64>,[39m
+[32m      eSkeyId: [Uint8Array],[39m
+[32m      eSkeyVal: <Buffer 15 64 85 9e 5a 57 71 46 f0 e9 40 df 2d 8a 71 42 c4 54 9a 72 a7 44 2f 09 e2 70 38 26 1a 87 e9 61>,[39m
+[32m      eSkeySig: <Buffer ee 13 87 b4 11 fe 9d d5 9f 23 b4 fc ed d2 07 83 27 92 82 21 6e 50 71 3f 50 b1 24 fa 20 d9 bb a7 26 06 7a c0 a9 67 3c 55 aa ca 4d 42 82 fc bc c8 63 27 ... 14 more bytes>,[39m
+[32m      buildHash: <Buffer 73 d9 50 79 43 25 4d da cc ac 88 bf f9 87 0f 88>,[39m
+[32m      deviceProps: <Buffer 0a 08 57 61 70 69 43 68 61 74 18 01 20 00>[39m
+[32m    },[39m
+[32m    pull: false[39m
+[32m  }[39m
+[32m}[39m
+2025-07-14 23:58:43:5843 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-14 23:59:43:5943 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:00:03:03 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:00:23:023 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:00:43:043 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:01:03:13 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:01:23:123 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: QR refs attempts ended\n' +[39m
+[32m    '    at Timeout.genPairQR [as _onTimeout] (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:485:21)\n' +[39m
+[32m    '    at listOnTimeout (node:internal/timers:588:17)\n' +[39m
+[32m    '    at process.processTimers (node:internal/timers:523:7)'[39m
+[32m}[39m
+2025-07-15 00:01:23:123 [32minfo[39m: [32mConexão fechada para sessão teste_1752543744842, reconectando: true[39m
+2025-07-15 00:01:29:129 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-15 00:01:29:129 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer e5 6f 76 5e fd cc 65 d7 1e 41 ca 20 eb 20 f9 b3 d8 35 33 11 84 10 63 9a bd 85 f1 ae f3 21 14 04>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-15 00:01:29:129 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    devicePairingData: DevicePairingRegistrationData {[39m
+[32m      eRegid: [Uint8Array],[39m
+[32m      eKeytype: <Buffer 05>,[39m
+[32m      eIdent: <Buffer 16 63 72 74 aa ee 13 86 a3 6e 5b e6 b5 b8 1d 2e c9 f7 b7 2c 97 cc 1f 2e 29 ea f8 98 4f 7e af 47>,[39m
+[32m      eSkeyId: [Uint8Array],[39m
+[32m      eSkeyVal: <Buffer 0f 91 41 2d b3 be 4d 1a 80 3c 1e 4f bd 3e e9 69 81 a2 de 45 22 96 c8 8c 29 8d 0a 35 83 cd 70 21>,[39m
+[32m      eSkeySig: <Buffer 4f 03 c7 94 3a 53 6e 33 90 6b db 53 a0 f8 c3 2c 70 16 20 bd 47 fc 7f 6d a1 8c ad 47 7b ee ce 56 2b 64 9c b6 15 29 9c af 9a dd 1c fc ee 7d 9b 71 b8 b7 ... 14 more bytes>,[39m
+[32m      buildHash: <Buffer 73 d9 50 79 43 25 4d da cc ac 88 bf f9 87 0f 88>,[39m
+[32m      deviceProps: <Buffer 0a 08 57 61 70 69 43 68 61 74 18 01 20 00>[39m
+[32m    },[39m
+[32m    pull: false[39m
+[32m  }[39m
+[32m}[39m
+2025-07-15 00:01:29:129 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:02:29:229 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:02:49:249 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:03:09:39 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:03:29:329 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:03:49:349 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:04:09:49 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: QR refs attempts ended\n' +[39m
+[32m    '    at Timeout.genPairQR [as _onTimeout] (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:485:21)\n' +[39m
+[32m    '    at listOnTimeout (node:internal/timers:588:17)\n' +[39m
+[32m    '    at process.processTimers (node:internal/timers:523:7)'[39m
+[32m}[39m
+2025-07-15 00:04:09:49 [32minfo[39m: [32mConexão fechada para sessão teste_1752543744842, reconectando: true[39m
+2025-07-15 00:04:14:414 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-15 00:04:15:415 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 7d 20 bb 08 ea af 1a c2 40 09 f6 79 5b 6b 37 cb 69 c3 a4 a8 f5 e4 9d 02 f7 d5 1b a3 e4 e5 45 69>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-15 00:04:15:415 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    devicePairingData: DevicePairingRegistrationData {[39m
+[32m      eRegid: [Uint8Array],[39m
+[32m      eKeytype: <Buffer 05>,[39m
+[32m      eIdent: <Buffer 7a 53 e9 7b ab 0f 6e 44 5f bc cb b9 90 4f 35 b9 ce 20 ac 55 5d f6 83 cd 79 5b d7 85 9f 69 52 59>,[39m
+[32m      eSkeyId: [Uint8Array],[39m
+[32m      eSkeyVal: <Buffer 99 95 2d 3c 6d 51 f3 c2 5b 46 93 67 4c fc ab e0 33 46 f4 af 7b 20 6c 31 4d a0 ba 9c 54 2d ce 70>,[39m
+[32m      eSkeySig: <Buffer 27 65 fc 8a 17 c2 87 5b d6 87 63 73 83 bf 9a 13 e2 d5 2f b2 23 95 8c 2f 91 e6 3c 9b 03 31 d7 b6 b6 fd da dd 46 8e 7f 97 37 13 e6 4d 9a 66 3c 16 ae 2a ... 14 more bytes>,[39m
+[32m      buildHash: <Buffer 73 d9 50 79 43 25 4d da cc ac 88 bf f9 87 0f 88>,[39m
+[32m      deviceProps: <Buffer 0a 08 57 61 70 69 43 68 61 74 18 01 20 00>[39m
+[32m    },[39m
+[32m    pull: false[39m
+[32m  }[39m
+[32m}[39m
+2025-07-15 00:04:15:415 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:05:15:515 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:05:35:535 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:05:38:538 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:05:39:539 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:05:42:542 [32minfo[39m: [32mGET /api/whatsapp/conversations/b9379d53-04de-4b7a-aa9a-4a975e53d942/messages - ::1[39m
+2025-07-15 00:05:42:542 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: b9379d53-04de-4b7a-aa9a-4a975e53d942, limit: 50[39m
+2025-07-15 00:05:42:542 [32minfo[39m: [32mGET /api/whatsapp/conversations/b9379d53-04de-4b7a-aa9a-4a975e53d942 - ::1[39m
+2025-07-15 00:05:42:542 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752543744842 - ::1[39m
+2025-07-15 00:05:43:543 [32minfo[39m: [32m[MESSAGES] Encontradas 0 mensagens para conversa b9379d53-04de-4b7a-aa9a-4a975e53d942[39m
+2025-07-15 00:05:43:543 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-15 00:05:43:543 [32minfo[39m: [32mGET /api/whatsapp/conversations/e400bd55-5f8a-469a-98c6-911dceb4fc71/messages - ::1[39m
+2025-07-15 00:05:43:543 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: e400bd55-5f8a-469a-98c6-911dceb4fc71, limit: 50[39m
+2025-07-15 00:05:43:543 [32minfo[39m: [32mGET /api/whatsapp/conversations/e400bd55-5f8a-469a-98c6-911dceb4fc71 - ::1[39m
+2025-07-15 00:05:43:543 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752543744842 - ::1[39m
+2025-07-15 00:05:43:543 [32minfo[39m: [32m[MESSAGES] Encontradas 10 mensagens para conversa e400bd55-5f8a-469a-98c6-911dceb4fc71[39m
+2025-07-15 00:05:43:543 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-15 00:05:44:544 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:05:45:545 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:05:45:545 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-15 00:05:45:545 [32minfo[39m: [32m[CONVERSATIONS] Sessão teste_1752543744842 não conectada ainda - retornando lista vazia[39m
+2025-07-15 00:05:45:545 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:05:45:545 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-15 00:05:45:545 [32minfo[39m: [32m[CONVERSATIONS] Sessão teste_1752543744842 não conectada ainda - retornando lista vazia[39m
+2025-07-15 00:05:45:545 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:05:45:545 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:05:45:545 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:05:45:545 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:05:45:545 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:05:45:545 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:05:49:549 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:05:50:550 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:05:51:551 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:05:55:555 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:05:56:556 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:06:01:61 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:06:06:66 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:06:11:611 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:06:15:615 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:06:16:616 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:06:21:621 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:06:26:626 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:06:31:631 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:06:35:635 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:06:36:636 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:06:41:641 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:06:46:646 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:06:55:655 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: QR refs attempts ended\n' +[39m
+[32m    '    at Timeout.genPairQR [as _onTimeout] (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:485:21)\n' +[39m
+[32m    '    at listOnTimeout (node:internal/timers:588:17)\n' +[39m
+[32m    '    at process.processTimers (node:internal/timers:523:7)'[39m
+[32m}[39m
+2025-07-15 00:06:55:655 [32minfo[39m: [32mConexão fechada para sessão teste_1752543744842, reconectando: true[39m
+2025-07-15 00:07:00:70 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-15 00:07:01:71 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer a5 7a 5d a0 bd a4 9e aa fa cc 64 cc 91 df 14 90 23 58 8e e4 58 f8 e1 aa 51 b1 b9 19 35 ba eb 49>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-15 00:07:01:71 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    devicePairingData: DevicePairingRegistrationData {[39m
+[32m      eRegid: [Uint8Array],[39m
+[32m      eKeytype: <Buffer 05>,[39m
+[32m      eIdent: <Buffer 7e 52 fe 97 1c 84 cc 61 a6 cb 1e 81 f8 41 85 99 d7 15 b6 ec 73 74 2e 0e 94 53 b9 9b 49 09 4d 1d>,[39m
+[32m      eSkeyId: [Uint8Array],[39m
+[32m      eSkeyVal: <Buffer 12 df a4 88 da fa 6d a0 b0 47 0a 0c 66 eb 2f b8 da 51 99 a9 e1 d4 62 d2 3f e6 81 40 33 08 8f 01>,[39m
+[32m      eSkeySig: <Buffer 05 26 c7 5b 65 4a 81 bc 42 76 4d f6 65 2c 12 dd ab ae cf 2e 29 68 b2 25 03 27 da 14 46 26 91 2b ad 05 35 e4 e7 aa c1 8d 9e 3a de 19 db 69 bb 37 5a 93 ... 14 more bytes>,[39m
+[32m      buildHash: <Buffer 73 d9 50 79 43 25 4d da cc ac 88 bf f9 87 0f 88>,[39m
+[32m      deviceProps: <Buffer 0a 08 57 61 70 69 43 68 61 74 18 01 20 00>[39m
+[32m    },[39m
+[32m    pull: false[39m
+[32m  }[39m
+[32m}[39m
+2025-07-15 00:07:01:71 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:07:10:710 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:08:01:81 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:08:10:810 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:08:21:821 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:08:41:841 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:09:01:91 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:09:10:910 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:09:21:921 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:09:41:941 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: QR refs attempts ended\n' +[39m
+[32m    '    at Timeout.genPairQR [as _onTimeout] (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:485:21)\n' +[39m
+[32m    '    at listOnTimeout (node:internal/timers:588:17)\n' +[39m
+[32m    '    at process.processTimers (node:internal/timers:523:7)'[39m
+[32m}[39m
+2025-07-15 00:09:41:941 [32minfo[39m: [32mConexão fechada para sessão teste_1752543744842, reconectando: true[39m
+2025-07-15 00:09:46:946 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+2025-07-15 00:09:47:947 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 9c a7 74 6f 0b 5c 6f 4f 10 1e 08 36 b6 95 9a 14 93 98 36 49 6b 2a 8f 11 a2 b7 bd d2 0f dd 01 25>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-15 00:09:47:947 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    devicePairingData: DevicePairingRegistrationData {[39m
+[32m      eRegid: [Uint8Array],[39m
+[32m      eKeytype: <Buffer 05>,[39m
+[32m      eIdent: <Buffer 1f 19 4f 8b 52 39 c1 de 26 00 16 8d 0d 35 0b 8b 2a 0e 04 dc 8b 43 b7 48 8d 6b de 33 b6 33 18 61>,[39m
+[32m      eSkeyId: [Uint8Array],[39m
+[32m      eSkeyVal: <Buffer f4 9a 37 82 33 00 e9 1d 27 6b 6d e6 eb 41 a7 96 12 fb ae 03 35 39 40 8a d0 31 cf 26 dd 6b 14 42>,[39m
+[32m      eSkeySig: <Buffer 15 61 c1 36 45 b7 7a e6 f2 ec 5c d5 70 56 83 18 ee 56 93 25 13 00 77 f7 31 79 a1 87 20 1b fd 87 a0 79 e9 2d 37 19 4d e2 aa 66 bd 48 24 17 4b d8 3c cf ... 14 more bytes>,[39m
+[32m      buildHash: <Buffer 73 d9 50 79 43 25 4d da cc ac 88 bf f9 87 0f 88>,[39m
+[32m      deviceProps: <Buffer 0a 08 57 61 70 69 43 68 61 74 18 01 20 00>[39m
+[32m    },[39m
+[32m    pull: false[39m
+[32m  }[39m
+[32m}[39m
+2025-07-15 00:09:47:947 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:10:10:1010 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:10:47:1047 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:11:07:117 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:11:10:1110 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:11:27:1127 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
