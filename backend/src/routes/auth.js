@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 const logger = require('../utils/logger');
 const ClickUpService = require('../services/clickup/ClickUpService');
+const SupabaseService = require('../services/supabase/SupabaseService');
 
 // Login (placeholder - será implementado com Supabase Auth)
 router.post('/login', async (req, res) => {
@@ -89,8 +90,46 @@ router.get('/clickup/callback', async (req, res) => {
   try {
     const tokenData = await ClickUpService.getToken(code);
     const userData = await ClickUpService.getUser(tokenData.access_token);
-    // Aqui você pode salvar o token no banco, sessão, etc.
-    res.json({ token: tokenData, user: userData, state });
+
+    // Buscar os workspaces (teams) do usuário autenticado
+    const teamsResponse = await require('axios').get('https://api.clickup.com/api/v2/team', {
+      headers: { Authorization: tokenData.access_token }
+    });
+    const team = teamsResponse.data.teams[0]; // Seleciona o primeiro workspace (ajuste conforme sua lógica)
+
+    // Upsert no Supabase
+    const supabase = SupabaseService.getClient();
+    // Log do payload antes do upsert
+    console.log('Payload para upsert:', {
+      team_id: team.id,
+      name: team.name,
+      color: team.color,
+      avatar: team.avatar,
+      members: team.members,
+      access_token: tokenData.access_token,
+      updated_at: new Date().toISOString()
+    });
+
+    const { data, error } = await supabase
+      .from('clickup_workspaces')
+      .upsert({
+        team_id: team.id,
+        name: team.name,
+        color: team.color,
+        avatar: team.avatar,
+        members: team.members,
+        access_token: tokenData.access_token,
+        updated_at: new Date().toISOString()
+      }, { onConflict: ['team_id'] });
+
+    // Log do resultado do upsert
+    console.log('Resultado do upsert:', { data, error });
+
+    if (error) {
+      return res.status(500).json({ error: 'Erro ao salvar workspace no banco', details: error.message });
+    }
+
+    res.json({ token: tokenData, user: userData, workspace: team, state });
   } catch (err) {
     res.status(500).json({ error: 'Erro ao autenticar com ClickUp', details: err.message });
   }
