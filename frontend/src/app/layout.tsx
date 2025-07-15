@@ -48,8 +48,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className="antialiased bg-background">
+    <html lang="en" className="h-full min-h-0">
+      <body className="antialiased bg-background h-full min-h-0">
         <ThemeInitScript />
         {children}
       </body>

@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const logger = require('../utils/logger');
+const ClickUpService = require('../services/clickup/ClickUpService');
 
 // Login (placeholder - será implementado com Supabase Auth)
 router.post('/login', async (req, res) => {
@@ -69,6 +70,29 @@ router.get('/me', (req, res) => {
   } catch (error) {
     logger.error('Erro ao verificar autenticação:', error);
     res.status(500).json({ error: 'Erro ao verificar autenticação' });
+  }
+});
+
+// Rota para iniciar OAuth2 com ClickUp
+router.get('/clickup/login', (req, res) => {
+  const state = req.query.state || '';
+  const url = ClickUpService.getAuthUrl(state);
+  res.redirect(url);
+});
+
+// Callback do ClickUp OAuth2
+router.get('/clickup/callback', async (req, res) => {
+  const { code, state } = req.query;
+  if (!code) {
+    return res.status(400).json({ error: 'Código não informado pelo ClickUp.' });
+  }
+  try {
+    const tokenData = await ClickUpService.getToken(code);
+    const userData = await ClickUpService.getUser(tokenData.access_token);
+    // Aqui você pode salvar o token no banco, sessão, etc.
+    res.json({ token: tokenData, user: userData, state });
+  } catch (err) {
+    res.status(500).json({ error: 'Erro ao autenticar com ClickUp', details: err.message });
   }
 });
 

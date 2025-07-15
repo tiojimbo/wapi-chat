@@ -10,6 +10,7 @@ const logger = require('./utils/logger');
 const whatsappRoutes = require('./routes/whatsapp');
 const authRoutes = require('./routes/auth');
 const setupRoutes = require('./routes/setup');
+const mediaRoutes = require('./routes/media');
 
 const app = express();
 const server = http.createServer(app);
@@ -23,9 +24,14 @@ const io = socketIo(server, {
 // Middleware de segurança e otimização
 app.use(helmet());
 app.use(compression());
+// Configuração de CORS
+const allowedOrigins = [
+  'http://localhost:3000', // Next.js local
+  'https://wapi-chat.vercel.app', // Exemplo de domínio Vercel
+];
 app.use(cors({
-  origin: process.env.FRONTEND_URL || "http://localhost:3000",
-  credentials: true
+  origin: allowedOrigins,
+  credentials: true,
 }));
 app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true, limit: '10mb' }));
@@ -40,6 +46,7 @@ app.use((req, res, next) => {
 app.use('/api/whatsapp', whatsappRoutes);
 app.use('/api/auth', authRoutes);
 app.use('/api/setup', setupRoutes);
+app.use('/api/media', mediaRoutes);
 
 // Rota de teste para emitir notificações via Socket.io
 app.post('/api/notify', (req, res) => {

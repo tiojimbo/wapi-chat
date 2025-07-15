@@ -148,6 +148,30 @@ class SupabaseService {
    */
   async upsertWhatsappConversation(phone_number_id, contact_id, last_message_preview, last_message_at) {
     try {
+      // Verificar se o contato realmente existe antes de tentar criar/atualizar a conversa
+      const { data: contactExists, error: contactError } = await this.client
+        .from('whatsapp_contacts')
+        .select('id')
+        .eq('id', contact_id)
+        .single();
+      
+      if (contactError || !contactExists) {
+        logger.error(`Contato ${contact_id} não existe para criar conversa:`, contactError);
+        return { id: null, error: `Contato ${contact_id} não encontrado` };
+      }
+      
+      // Verificar se o phone_number existe antes de tentar criar/atualizar a conversa
+      const { data: phoneExists, error: phoneError } = await this.client
+        .from('whatsapp_phone_numbers')
+        .select('id')
+        .eq('id', phone_number_id)
+        .single();
+      
+      if (phoneError || !phoneExists) {
+        logger.error(`Número ${phone_number_id} não existe para criar conversa:`, phoneError);
+        return { id: null, error: `Número ${phone_number_id} não encontrado` };
+      }
+      
       // First, try to find existing conversation
       const { data: existingConv, error: findError } = await this.client
         .from('whatsapp_conversations')
@@ -227,6 +251,30 @@ class SupabaseService {
   }
 
   /**
+   * Atualiza o status de uma mensagem do WhatsApp na tabela whatsapp_messages
+   * @param {string} wamid - ID único da mensagem (wamid)
+   * @param {string} status - Novo status (ex: sent, delivered, read, error)
+   * @returns {Promise<{success: boolean, error: string|null}>}
+   */
+  async updateMessageStatus(wamid, status) {
+    try {
+      const { error } = await this.client
+        .from('whatsapp_messages')
+        .update({ status })
+        .eq('wamid', wamid);
+      if (error) {
+        logger.error('Erro ao atualizar status da mensagem:', error);
+        return { success: false, error: error.message };
+      }
+      logger.info(`Status da mensagem ${wamid} atualizado para: ${status}`);
+      return { success: true, error: null };
+    } catch (err) {
+      logger.error('Erro inesperado ao atualizar status da mensagem:', err);
+      return { success: false, error: err.message };
+    }
+  }
+
+  /**
    * Busca o histórico de mensagens de uma conversa
    * @param {string} conversationId - ID da conversa
    * @param {number} [limit=50] - Limite de mensagens (default: 50)
@@ -234,6 +282,7 @@ class SupabaseService {
    */
   async getMessagesByConversation(conversationId, limit = 50) {
     try {
+      logger.info(`[MESSAGES] Buscando mensagens para conversa: ${conversationId}, limit: ${limit}`);
       const { data, error } = await this.client
         .from('whatsapp_messages')
         .select('*')
@@ -244,6 +293,8 @@ class SupabaseService {
         logger.error('Erro ao buscar mensagens:', error);
         return { messages: [], error: error.message };
       }
+      logger.info(`[MESSAGES] Encontradas ${data.length} mensagens para conversa ${conversationId}`);
+      logger.info(`[MESSAGES] Detalhes das mensagens:`, data.map(m => ({ id: m.id, wamid: m.wamid, type: m.type, from_number: m.from_number, to_number: m.to_number, text_body: m.text_body, status: m.status })));
       return { messages: data, error: null };
     } catch (err) {
       logger.error('Erro inesperado ao buscar mensagens:', err);
