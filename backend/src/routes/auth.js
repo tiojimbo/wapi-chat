@@ -139,6 +139,7 @@ router.get('/clickup/callback', async (req, res) => {
 // Sincronizar dados do ClickUp (spaces, folders, lists, tasks)
 router.get('/clickup/sync', async (req, res) => {
   try {
+    logger.info('[SYNC] Iniciando sincronização do ClickUp...');
     // Buscar o primeiro workspace salvo (ajuste para múltiplos workspaces se necessário)
     const supabase = require('../services/supabase/SupabaseService').getClient();
     const { data: workspace, error } = await supabase
@@ -146,12 +147,21 @@ router.get('/clickup/sync', async (req, res) => {
       .select('team_id')
       .limit(1)
       .single();
+    
+    logger.info('[SYNC] Workspace query result:', { workspace, error });
+    
     if (error || !workspace) {
+      logger.error('[SYNC] Workspace não encontrado:', error);
       return res.status(404).json({ error: 'Workspace do ClickUp não encontrado' });
     }
-    await ClickUpSyncService.syncAllFromWorkspace(workspace.team_id);
+    
+    logger.info(`[SYNC] Iniciando sincronização para team_id: ${workspace.team_id}`);
+    const result = await ClickUpSyncService.syncAllFromWorkspace(workspace.team_id);
+    logger.info('[SYNC] Resultado da sincronização:', result);
+    
     res.json({ success: true, message: 'Sincronização concluída!' });
   } catch (err) {
+    logger.error('[SYNC] Erro ao sincronizar dados do ClickUp:', err);
     res.status(500).json({ error: 'Erro ao sincronizar dados do ClickUp', details: err.message });
   }
 });

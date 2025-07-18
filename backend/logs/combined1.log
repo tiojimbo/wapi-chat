@@ -48403,3 +48403,857 @@
 2025-07-15 00:20:51:2051 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
 2025-07-15 00:21:10:2110 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
 2025-07-15 00:21:51:2151 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:22:10:2210 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:22:11:2211 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:22:31:2231 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:22:51:2251 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:23:10:2310 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:23:11:2311 [32minfo[39m: [32mQR Code gerado para sessão teste_1752543744842 (state: qr_ready)[39m
+2025-07-15 00:23:24:2324 [32minfo[39m: [32mDELETE /api/whatsapp/sessions/teste_1752543744842 - ::1[39m
+2025-07-15 00:23:24:2324 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: Intentional Logout\n' +[39m
+[32m    '    at Object.logout (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:366:13)\n' +[39m
+[32m    '    at WhatsAppManager.deleteSession (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\src\\services\\baileys\\WhatsAppManager.js:307:28)\n' +[39m
+[32m    '    at C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\src\\routes\\whatsapp.js:78:43\n' +[39m
+[32m    '    at Layer.handle [as handle_request] (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +[39m
+[32m    '    at next (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +[39m
+[32m    '    at Route.dispatch (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n' +[39m
+[32m    '    at Layer.handle [as handle_request] (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +[39m
+[32m    '    at C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n' +[39m
+[32m    '    at param (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\express\\lib\\router\\index.js:365:14)\n' +[39m
+[32m    '    at param (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\express\\lib\\router\\index.js:376:14)'[39m
+[32m}[39m
+2025-07-15 00:23:24:2324 [32minfo[39m: [32mConexão fechada para sessão teste_1752543744842, reconectando: true[39m
+2025-07-15 00:23:24:2324 [32minfo[39m: [32mSessão teste_1752543744842 removida com sucesso[39m
+2025-07-15 00:23:24:2324 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:23:25:2325 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:23:25:2325 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:23:30:2330 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:23:35:2335 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:23:40:2340 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:23:45:2345 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:23:50:2350 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:23:55:2355 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:24:00:240 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:24:05:245 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:24:10:2410 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:24:15:2415 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:24:21:2421 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:24:26:2426 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:24:31:2431 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:24:36:2436 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:24:41:2441 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:24:46:2446 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:24:51:2451 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:24:56:2456 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:25:01:251 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:25:06:256 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:25:11:2511 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:25:16:2516 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:26:10:2610 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:27:10:2710 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:28:10:2810 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:29:10:2910 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:30:10:3010 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:31:10:3110 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:31:53:3153 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:31:56:3156 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:32:01:321 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:32:06:326 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:32:11:3211 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:32:16:3216 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:32:21:3221 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:32:26:3226 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:32:31:3231 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:32:36:3236 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:32:41:3241 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:32:46:3246 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:32:51:3251 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:33:10:3310 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:34:10:3410 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:35:10:3510 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:36:10:3610 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:37:10:3710 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:38:10:3810 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:39:10:3910 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:40:10:4010 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:41:10:4110 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:42:10:4210 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:43:10:4310 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:44:10:4410 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:45:10:4510 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:46:10:4610 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:47:10:4710 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:48:10:4810 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:49:10:4910 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:50:10:5010 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:51:10:5110 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:52:10:5210 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:53:10:5310 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:54:10:5410 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:55:10:5510 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:56:10:5610 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:57:10:5710 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:58:10:5810 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 00:59:10:5910 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 01:00:10:010 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 01:01:10:110 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 01:02:10:210 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 01:03:10:310 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-15 01:09:27:927 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-15 01:09:27:927 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-15 01:09:27:927 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-15 01:09:27:927 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-15 01:11:26:1126 [32minfo[39m: [32mGET /api/auth/clickup/sync - ::1[39m
+2025-07-15 01:14:54:1454 [32minfo[39m: [32mGET /api/auth/clickup/sync - ::1[39m
+2025-07-15 01:17:22:1722 [32minfo[39m: [32mGET /api/auth/clickup/sync - ::1[39m
+2025-07-15 01:18:45:1845 [32minfo[39m: [32mSIGTERM recebido, fechando servidor...[39m
+2025-07-15 01:20:10:2010 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-15 01:20:10:2010 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-15 01:20:10:2010 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-15 01:20:10:2010 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-15 01:22:03:223 [32minfo[39m: [32mGET /api/auth/clickup/sync - ::1[39m
+2025-07-15 01:22:03:223 [32minfo[39m: [32m[SYNC] Iniciando sincronização do ClickUp...[39m
+2025-07-15 01:22:04:224 [32minfo[39m: [32m[SYNC] Workspace query result:[39m
+2025-07-15 01:22:04:224 [32minfo[39m: [32m[SYNC] Iniciando sincronização para team_id: 9017133982[39m
+2025-07-15 01:22:04:224 [32minfo[39m: [32m[ClickUpSync] Iniciando sincronização para team_id: 9017133982[39m
+2025-07-15 01:22:04:224 [32minfo[39m: [32m[ClickUpSync] Workspace encontrado: UUID=5fb9a79e-3179-4787-8f17-d1a9cdaea298, team_id=9017133982[39m
+2025-07-15 01:22:04:224 [32minfo[39m: [32m[ClickUpSync] Spaces encontrados: 6[39m
+2025-07-15 01:22:04:224 [32minfo[39m: [32m[ClickUpSync] Upsert space:[39m
+2025-07-15 01:22:05:225 [32minfo[39m: [32m[ClickUpSync] Folders encontrados para space 90170688120: 6[39m
+2025-07-15 01:22:05:225 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:05:225 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916871: 1[39m
+2025-07-15 01:22:05:225 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:06:226 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476058: 5[39m
+2025-07-15 01:22:06:226 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:06:226 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pf8q: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:06:226 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:06:226 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pf8g: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:06:226 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:06:226 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pf89: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:06:226 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:06:226 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pf7z: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:06:226 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:06:226 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pf7t: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:06:226 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:06:226 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916865: 2[39m
+2025-07-15 01:22:06:226 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:14:2314 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476028: 2[39m
+2025-07-15 01:23:14:2314 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:14:2314 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pcp9: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:14:2314 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:14:2314 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pcgq: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:14:2314 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:08:228 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476031: 5[39m
+2025-07-15 01:22:08:228 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:08:228 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pd86: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:08:228 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:08:228 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pd7q: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:08:228 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:08:228 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pd0q: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:08:228 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:08:228 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pczc: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:08:228 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:08:228 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pcyn: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:08:228 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:08:228 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916867: 4[39m
+2025-07-15 01:22:08:228 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:09:229 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476035: 5[39m
+2025-07-15 01:22:09:229 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:09:229 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pdj8: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:09:229 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:09:229 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pdhg: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:09:229 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:09:229 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pdg9: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:09:229 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:09:229 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pddw: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:09:229 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:09:229 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pdcr: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:09:229 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:11:2211 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476038: 8[39m
+2025-07-15 01:22:11:2211 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:11:2211 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du9vf7h: invalid input value for enum clickup_task_status: "{"status":"para receber","id":"subcat901701476038_subcat901301196563_sc901301076123_O2f13qrw","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:11:2211 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:11:2211 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du1wx4g: invalid input value for enum clickup_task_status: "{"status":"para receber","id":"subcat901701476038_subcat901301196563_sc901301076123_O2f13qrw","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:11:2211 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:11:2211 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du1wx1x: invalid input value for enum clickup_task_status: "{"status":"para receber","id":"subcat901701476038_subcat901301196563_sc901301076123_O2f13qrw","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:11:2211 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:11:2211 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pduc: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:11:2211 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:11:2211 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pdu8: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:11:2211 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:11:2211 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pdu4: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:11:2211 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:11:2211 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pdta: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:11:2211 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:11:2211 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pdt4: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:11:2211 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:12:2212 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476041: 5[39m
+2025-07-15 01:22:12:2212 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:12:2212 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pe54: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:19:2319 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:19:2319 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pe4n: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:19:2319 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:19:2319 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pe45: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:19:2319 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:19:2319 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pe34: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:19:2319 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:19:2319 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pdzh: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:12:2212 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:13:2213 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476045: 5[39m
+2025-07-15 01:22:13:2213 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:13:2213 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pegz: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:13:2213 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:13:2213 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pegx: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:13:2213 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:13:2213 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pegt: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:13:2213 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:13:2213 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pegk: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:13:2213 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:13:2213 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pegc: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:13:2213 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:13:2213 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90172308215: 3[39m
+2025-07-15 01:22:13:2213 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:14:2214 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901704448331: 5[39m
+2025-07-15 01:22:14:2214 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:14:2214 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du4ra8r: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"sc901704448331_S0NNLm8c","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:14:2214 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:14:2214 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du4ra85: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"sc901704448331_S0NNLm8c","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:14:2214 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:14:2214 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du4ra7a: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"sc901704448331_S0NNLm8c","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:14:2214 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:14:2214 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du4ra6d: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"sc901704448331_S0NNLm8c","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:14:2214 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:14:2214 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du4r9kb: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"sc901704448331_S0NNLm8c","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:14:2214 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:15:2215 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901704448349: 0[39m
+2025-07-15 01:22:15:2215 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:15:2215 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901704459047: 0[39m
+2025-07-15 01:22:15:2215 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:15:2215 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916848: 2[39m
+2025-07-15 01:22:15:2215 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:16:2216 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476011: 50[39m
+2025-07-15 01:22:16:2216 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:16:2216 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dx55r2g: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:16:2216 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:16:2216 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dwyeq21: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:16:2216 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:16:2216 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvu7z62: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:16:2216 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:16:2216 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvbttmn: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:16:2216 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:16:2216 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvbttky: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:16:2216 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:16:2216 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvbepb9: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvbepb5: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvbepac: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvbep7r: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvbep3u: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvbencu: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dut75yz: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duqcbdz: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duqcbdy: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duqcbcg: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dupc94t: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duhgczg: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duhgct9: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:24:2324 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duhg9zt: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:24:2324 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:24:2324 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dugpqgu: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:23:24:2324 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:24:2324 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duanqhg: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:24:2324 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:24:2324 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah9tp: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:24:2324 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:24:2324 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah8hx: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah8h9: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah8g2: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah8fy: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah8fj: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:17:2217 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:17:2217 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah8ez: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah8bw: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah82h: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah80e: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah7wa: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah7ve: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah7u1: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah73b: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah730: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah6y7: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah6x9: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah6vy: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du9uyvq: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du7hgvm: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du7hguq: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du7hgtn: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du7hgta: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du7hgrg: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du7hgmw: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du7hf2r: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du7hdxv: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du1w3gb: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:18:2218 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:18:2218 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du1w3f0: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:19:2219 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:19:2219 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476021: 38[39m
+2025-07-15 01:22:19:2219 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:19:2219 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dwufj4k: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:19:2219 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:19:2219 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dwu3uah: invalid input value for enum clickup_task_status: "{"status":"em andamento","id":"c90170916848_c90130559766_c90070768101_FntAYNpD","color":"#0077b6","type":"custom","orderindex":1}"[39m
+2025-07-15 01:22:19:2219 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:19:2219 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvj067y: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvj067x: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvj067t: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvj0652: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvj0651: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvj062h: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvj04g4: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvj04fy: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvgt8v8: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvgt8v7: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvee245: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvee21k: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dvc8ea6: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duzz3mm: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duzz2w4: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duvxw4r: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duvntey: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duuhvp8: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86durt5ed: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86durfm99: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duq4y2y: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:20:2220 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:20:2220 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dupjwxw: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:21:2221 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dunkk92: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:21:2221 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dund0hh: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:21:2221 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dumh0ua: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:21:2221 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dumfqxr: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:21:2221 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dujx5ah: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:21:2221 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dubmrpd: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:21:2221 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duadqwp: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:21:2221 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du6d44q: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:21:2221 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du6d43w: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:21:2221 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du6d423: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:21:2221 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du6d41e: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:21:2221 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du1xf4p: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:21:2221 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du1xf4h: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:21:2221 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dtauzqn: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916848_c90130559766_c90070768101_YTIsbNGg","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916870: 4[39m
+2025-07-15 01:22:21:2221 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:22:2222 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476051: 0[39m
+2025-07-15 01:22:22:2222 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:29:2329 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476054: 0[39m
+2025-07-15 01:23:29:2329 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:23:2223 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476056: 14[39m
+2025-07-15 01:22:23:2223 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:23:2223 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n6et: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:23:2223 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:23:2223 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n67g: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:23:2223 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:23:2223 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n3w7: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916870_c90130559763_c90070768110_PSB5EUgb","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:23:2223 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:23:2223 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n3rb: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:23:2223 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:23:2223 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n3qu: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:23:2223 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:23:2223 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n3mw: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:23:2223 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:23:2223 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n3m7: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:23:2223 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:23:2223 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n3jf: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:23:2223 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:23:2223 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n3ay: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:23:2223 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:23:2223 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n383: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:23:2223 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:23:2223 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n350: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:23:2223 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:23:2223 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n2x1: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:24:2224 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:24:2224 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n274: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:24:2224 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:24:2224 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pa4e: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:24:2224 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:24:2224 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476057: 14[39m
+2025-07-15 01:22:24:2224 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:24:2224 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n4w9: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916870_c90130559763_c90070768110_PSB5EUgb","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:24:2224 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:24:2224 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n4w6: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916870_c90130559763_c90070768110_PSB5EUgb","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:24:2224 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:24:2224 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n4w1: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916870_c90130559763_c90070768110_PSB5EUgb","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:24:2224 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:24:2224 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n4v0: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916870_c90130559763_c90070768110_PSB5EUgb","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:25:2225 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:25:2225 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n4up: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916870_c90130559763_c90070768110_PSB5EUgb","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:25:2225 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:25:2225 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n4pj: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916870_c90130559763_c90070768110_PSB5EUgb","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:25:2225 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:25:2225 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n4mj: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916870_c90130559763_c90070768110_PSB5EUgb","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:25:2225 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:25:2225 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n4ky: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916870_c90130559763_c90070768110_PSB5EUgb","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:25:2225 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:25:2225 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n4j1: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916870_c90130559763_c90070768110_PSB5EUgb","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:25:2225 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:25:2225 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n4hc: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916870_c90130559763_c90070768110_PSB5EUgb","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:25:2225 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:25:2225 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n4g8: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916870_c90130559763_c90070768110_PSB5EUgb","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:25:2225 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:25:2225 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n4g1: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916870_c90130559763_c90070768110_PSB5EUgb","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:25:2225 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:25:2225 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du3n41k: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916870_c90130559763_c90070768110_PSB5EUgb","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:25:2225 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:25:2225 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pbm0: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:25:2225 [32minfo[39m: [32m[ClickUpSync] Upsert space:[39m
+2025-07-15 01:22:26:2226 [32minfo[39m: [32m[ClickUpSync] Folders encontrados para space 90170688124: 3[39m
+2025-07-15 01:22:26:2226 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:26:2226 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916840: 3[39m
+2025-07-15 01:22:26:2226 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:26:2226 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475957: 1[39m
+2025-07-15 01:22:26:2226 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:26:2226 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9p49b: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:26:2226 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:27:2227 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475961: 0[39m
+2025-07-15 01:22:27:2227 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:34:2334 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475965: 0[39m
+2025-07-15 01:23:34:2334 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:23:34:2334 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916846: 4[39m
+2025-07-15 01:23:34:2334 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:28:2228 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901702886414: 0[39m
+2025-07-15 01:22:28:2228 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:28:2228 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475974: 6[39m
+2025-07-15 01:22:28:2228 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:28:2228 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dupjrg3: invalid input value for enum clickup_task_status: "{"status":"oportunidade","id":"c90170916846_j5H7518v","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:28:2228 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:28:2228 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9p0y6: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:29:2229 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:29:2229 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9p0wy: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:29:2229 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:29:2229 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9p0kc: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:29:2229 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:29:2229 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9p0f4: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:29:2229 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:29:2229 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9p0b4: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:29:2229 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:29:2229 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475984: 5[39m
+2025-07-15 01:22:29:2229 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:29:2229 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9p2k1: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:29:2229 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:29:2229 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9p214: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:30:2230 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:30:2230 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9p1f7: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:30:2230 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:30:2230 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9p17g: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:30:2230 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:30:2230 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9p11y: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:30:2230 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:30:2230 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475994: 4[39m
+2025-07-15 01:22:30:2230 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:30:2230 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9p02z: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:31:2231 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:31:2231 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9p01x: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:31:2231 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:31:2231 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nzzt: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:31:2231 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:31:2231 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nzdh: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:31:2231 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:31:2231 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90172308180: 3[39m
+2025-07-15 01:22:31:2231 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:31:2231 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901704467944: 0[39m
+2025-07-15 01:22:31:2231 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:32:2232 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901704467946: 0[39m
+2025-07-15 01:22:32:2232 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:32:2232 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901704467947: 0[39m
+2025-07-15 01:23:39:2339 [32minfo[39m: [32m[ClickUpSync] Upsert space:[39m
+2025-07-15 01:22:33:2233 [32minfo[39m: [32m[ClickUpSync] Folders encontrados para space 90170688121: 3[39m
+2025-07-15 01:22:33:2233 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:33:2233 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916856: 4[39m
+2025-07-15 01:22:33:2233 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:33:2233 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476009: 1[39m
+2025-07-15 01:22:33:2233 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:33:2233 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du92get: invalid input value for enum clickup_task_status: "{"status":"para introduzir","id":"sc901701476009_P3BBKtK6","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:33:2233 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:34:2234 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476012: 1[39m
+2025-07-15 01:22:34:2234 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:34:2234 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du92rq4: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476012_subcat901301186958_sc901301167025_kcIpo27p","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:34:2234 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:35:2235 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476018: 0[39m
+2025-07-15 01:22:35:2235 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:35:2235 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476016: 1[39m
+2025-07-15 01:22:35:2235 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:35:2235 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du92rj5: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476016_subcat901301186957_sc901301167026_PB7GiPlm","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:35:2235 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:35:2235 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916864: 5[39m
+2025-07-15 01:22:35:2235 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:36:2236 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476032: 4[39m
+2025-07-15 01:22:36:2236 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:36:2236 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pj69: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916864_c90130556259_c90130546852_cB8QKZvs","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:36:2236 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:36:2236 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pj60: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916864_c90130556259_c90130546852_cB8QKZvs","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:36:2236 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:36:2236 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pj4h: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916864_c90130556259_c90130546852_cB8QKZvs","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:36:2236 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:36:2236 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pj3y: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"c90170916864_c90130556259_c90130546852_cB8QKZvs","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:36:2236 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:37:2237 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476027: 0[39m
+2025-07-15 01:22:37:2237 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:37:2237 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476037: 0[39m
+2025-07-15 01:23:44:2344 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:38:2238 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476043: 0[39m
+2025-07-15 01:22:38:2238 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:38:2238 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476046: 0[39m
+2025-07-15 01:22:38:2238 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:38:2238 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916852: 3[39m
+2025-07-15 01:22:38:2238 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:38:2238 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475986: 0[39m
+2025-07-15 01:22:38:2238 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:39:2239 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476002: 0[39m
+2025-07-15 01:22:39:2239 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:39:2239 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475995: 0[39m
+2025-07-15 01:22:39:2239 [32minfo[39m: [32m[ClickUpSync] Upsert space:[39m
+2025-07-15 01:22:40:2240 [32minfo[39m: [32m[ClickUpSync] Folders encontrados para space 90170847431: 3[39m
+2025-07-15 01:22:40:2240 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:40:2240 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90171481552: 2[39m
+2025-07-15 01:22:40:2240 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:41:2241 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901702502300: 8[39m
+2025-07-15 01:22:41:2241 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:41:2241 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dx02tqr: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:41:2241 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:41:2241 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dwjpqd1: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:41:2241 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:41:2241 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dwjba7g: invalid input value for enum clickup_task_status: "{"status":"em iniciação","id":"c90171481552_7wQlOFLi","color":"#8a817c","type":"unstarted","orderindex":1}"[39m
+2025-07-15 01:22:41:2241 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:41:2241 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dwjba6w: invalid input value for enum clickup_task_status: "{"status":"em iniciação","id":"c90171481552_7wQlOFLi","color":"#8a817c","type":"unstarted","orderindex":1}"[39m
+2025-07-15 01:22:41:2241 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:41:2241 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dw72kjg: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:41:2241 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:41:2241 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du9hxju: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:41:2241 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:41:2241 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du8a5cj: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:41:2241 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:41:2241 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du7hc96: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:41:2241 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:42:2242 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901702502301: 0[39m
+2025-07-15 01:22:42:2242 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:42:2242 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90171481553: 3[39m
+2025-07-15 01:22:42:2242 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:42:2242 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901702502302: 2[39m
+2025-07-15 01:22:43:2243 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:43:2243 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dwk113m: invalid input value for enum clickup_task_status: "{"status":"backlog","id":"c90171481553_c90131457458_c90131456532_c90131396119_c90130794150_c90130556276_c90130551314_c90130400052_urJhFYcJ","color":"#000000","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:43:2243 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:43:2243 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86du7z06y: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:43:2243 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:43:2243 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901702502303: 2[39m
+2025-07-15 01:22:43:2243 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:43:2243 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dwk114q: invalid input value for enum clickup_task_status: "{"status":"backlog","id":"c90171481553_c90131457458_c90131456532_c90131396119_c90130794150_c90130556276_c90130551314_c90130400052_urJhFYcJ","color":"#000000","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:44:2244 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:44:2244 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah4nt: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:44:2244 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:44:2244 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901702502305: 2[39m
+2025-07-15 01:22:44:2244 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:44:2244 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dwk116y: invalid input value for enum clickup_task_status: "{"status":"backlog","id":"c90171481553_c90131457458_c90131456532_c90131396119_c90130794150_c90130556276_c90130551314_c90130400052_urJhFYcJ","color":"#000000","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:44:2244 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:44:2244 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duah4hw: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:44:2244 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:44:2244 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90172060802: 3[39m
+2025-07-15 01:22:44:2244 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:45:2245 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901703860444: 0[39m
+2025-07-15 01:22:45:2245 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:45:2245 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901703860446: 0[39m
+2025-07-15 01:22:45:2245 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:46:2246 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901703860447: 0[39m
+2025-07-15 01:22:46:2246 [32minfo[39m: [32m[ClickUpSync] Upsert space:[39m
+2025-07-15 01:22:46:2246 [32minfo[39m: [32m[ClickUpSync] Folders encontrados para space 90170688123: 5[39m
+2025-07-15 01:22:46:2246 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:46:2246 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916842: 1[39m
+2025-07-15 01:22:46:2246 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:47:2247 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475963: 5[39m
+2025-07-15 01:22:47:2247 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:47:2247 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9njkt: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:47:2247 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:47:2247 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9njd0: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:47:2247 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:47:2247 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9njak: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:47:2247 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:47:2247 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nj6p: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:47:2247 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:47:2247 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nhrj: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:47:2247 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:47:2247 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916847: 4[39m
+2025-07-15 01:23:54:2354 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:48:2248 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475978: 0[39m
+2025-07-15 01:22:48:2248 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:48:2248 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475999: 4[39m
+2025-07-15 01:22:48:2248 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:48:2248 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nmck: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:48:2248 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:48:2248 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nkp7: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:48:2248 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:48:2248 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nkkn: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:48:2248 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:48:2248 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nkjp: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:48:2248 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:49:2249 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475981: 5[39m
+2025-07-15 01:22:49:2249 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:49:2249 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nn7g: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701475981_subcat901301187088_subcat901301145108_subcat900902493972_sc900902389837_cI6qkjPH","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:49:2249 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:49:2249 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nn4v: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701475981_subcat901301187088_subcat901301145108_subcat900902493972_sc900902389837_cI6qkjPH","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:49:2249 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:49:2249 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nn12: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701475981_subcat901301187088_subcat901301145108_subcat900902493972_sc900902389837_cI6qkjPH","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:49:2249 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:49:2249 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nmt6: invalid input value for enum clickup_priority: "{"color":"#f50000","id":"1","orderindex":"1","priority":"urgent"}"[39m
+2025-07-15 01:22:49:2249 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:49:2249 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nmqj: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:49:2249 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:50:2250 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476004: 2[39m
+2025-07-15 01:22:50:2250 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:50:2250 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nnun: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:50:2250 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:50:2250 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nnqa: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:50:2250 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:50:2250 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916863: 7[39m
+2025-07-15 01:22:50:2250 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:51:2251 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476044: 1[39m
+2025-07-15 01:22:51:2251 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:51:2251 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9npam: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476044_subcat901301187049_subcat901301144351_subcat900902493783_sc150940816_PGxrq4Dx","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:51:2251 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:51:2251 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476042: 0[39m
+2025-07-15 01:22:51:2251 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:52:2252 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901703068313: 1[39m
+2025-07-15 01:22:52:2252 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:52:2252 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duekmt6: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"sc901703068313_wPTW2Nk5","color":"#87909e","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:52:2252 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:53:2253 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476033: 1[39m
+2025-07-15 01:22:53:2253 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:53:2253 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duekmrc: invalid input value for enum clickup_task_status: "{"status":"para testar","id":"sc901701476033_WtFQz0nu","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:53:2253 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:53:2253 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476040: 3[39m
+2025-07-15 01:22:53:2253 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:53:2253 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nukd: invalid input value for enum clickup_task_status: "{"status":"para pagar","id":"subcat901701476040_subcat901301187052_subcat901301144524_subcat900902493768_sc900902354533_9eUhAaEr","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:53:2253 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:53:2253 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nujp: invalid input value for enum clickup_task_status: "{"status":"para pagar","id":"subcat901701476040_subcat901301187052_subcat901301144524_subcat900902493768_sc900902354533_9eUhAaEr","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:54:2254 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:54:2254 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nqcb: invalid input value for enum clickup_task_status: "{"status":"para pagar","id":"subcat901701476040_subcat901301187052_subcat901301144524_subcat900902493768_sc900902354533_9eUhAaEr","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:54:2254 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:54:2254 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901703023682: 0[39m
+2025-07-15 01:22:54:2254 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:55:2255 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476036: 6[39m
+2025-07-15 01:22:55:2255 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:55:2255 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86duekmrt: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476036_subcat901301187053_subcat901301144522_subcat900902493769_sc900902361415_3jwHcK8C","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:55:2255 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:55:2255 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nvrh: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476036_subcat901301187053_subcat901301144522_subcat900902493769_sc900902361415_3jwHcK8C","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:55:2255 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:55:2255 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nvqu: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476036_subcat901301187053_subcat901301144522_subcat900902493769_sc900902361415_3jwHcK8C","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:55:2255 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:55:2255 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nvne: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476036_subcat901301187053_subcat901301144522_subcat900902493769_sc900902361415_3jwHcK8C","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:55:2255 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:55:2255 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nvkz: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476036_subcat901301187053_subcat901301144522_subcat900902493769_sc900902361415_3jwHcK8C","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:55:2255 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:55:2255 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nvja: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476036_subcat901301187053_subcat901301144522_subcat900902493769_sc900902361415_3jwHcK8C","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:55:2255 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:55:2255 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916857: 3[39m
+2025-07-15 01:22:55:2255 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:56:2256 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476015: 5[39m
+2025-07-15 01:22:56:2256 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:56:2256 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nwxg: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476015_subcat901301187083_sc901301144659_eJlkaCJJ","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:56:2256 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:56:2256 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nwvf: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476015_subcat901301187083_sc901301144659_eJlkaCJJ","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:56:2256 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:56:2256 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nwud: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476015_subcat901301187083_sc901301144659_eJlkaCJJ","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:56:2256 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:56:2256 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nwtd: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:56:2256 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:56:2256 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nwra: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:56:2256 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:56:2256 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476010: 5[39m
+2025-07-15 01:22:56:2256 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:56:2256 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nz19: invalid input value for enum clickup_task_status: "{"status":"verificar disponibilidade","id":"subcat901701476010_subcat901301187084_subcat901301144712_subcat900902493878_sc900902390391_cs0vTIlW","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:57:2257 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:57:2257 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nyv6: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:57:2257 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:57:2257 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nyth: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:22:57:2257 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:57:2257 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nyq7: invalid input value for enum clickup_task_status: "{"status":"verificar disponibilidade","id":"subcat901701476010_subcat901301187084_subcat901301144712_subcat900902493878_sc900902390391_cs0vTIlW","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:57:2257 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:57:2257 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nynx: invalid input value for enum clickup_task_status: "{"status":"verificar disponibilidade","id":"subcat901701476010_subcat901301187084_subcat901301144712_subcat900902493878_sc900902390391_cs0vTIlW","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:57:2257 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:24:04:244 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476019: 5[39m
+2025-07-15 01:24:04:244 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:24:04:244 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nx7w: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476019_subcat901301187082_sc901301144700_Ff0bRpgP","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:57:2257 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:57:2257 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nx63: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476019_subcat901301187082_sc901301144700_Ff0bRpgP","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:57:2257 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:57:2257 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nx3u: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476019_subcat901301187082_sc901301144700_Ff0bRpgP","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:57:2257 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:57:2257 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nx1w: invalid input value for enum clickup_priority: "{"color":"#f50000","id":"1","orderindex":"1","priority":"urgent"}"[39m
+2025-07-15 01:22:58:2258 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:58:2258 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nwzw: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:58:2258 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:58:2258 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916869: 2[39m
+2025-07-15 01:22:58:2258 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:58:2258 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476049: 5[39m
+2025-07-15 01:22:58:2258 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:58:2258 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nw7g: invalid input value for enum clickup_priority: "{"color":"#6fddff","id":"3","orderindex":"3","priority":"normal"}"[39m
+2025-07-15 01:22:58:2258 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:58:2258 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nw4g: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476049_subcat901301187047_subcat901301144373_subcat900902493793_sc900902361324_glimq3Gx","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:58:2258 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:58:2258 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nw32: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476049_subcat901301187047_subcat901301144373_subcat900902493793_sc900902361324_glimq3Gx","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:58:2258 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:58:2258 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nw08: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476049_subcat901301187047_subcat901301144373_subcat900902493793_sc900902361324_glimq3Gx","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:58:2258 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:22:58:2258 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9nvze: invalid input value for enum clickup_task_status: "{"status":"para fazer","id":"subcat901701476049_subcat901301187047_subcat901301144373_subcat900902493793_sc900902361324_glimq3Gx","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:22:59:2259 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:22:59:2259 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476055: 0[39m
+2025-07-15 01:22:59:2259 [32minfo[39m: [32m[ClickUpSync] Upsert space:[39m
+2025-07-15 01:22:59:2259 [32minfo[39m: [32m[ClickUpSync] Folders encontrados para space 90170688125: 5[39m
+2025-07-15 01:22:59:2259 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:22:59:2259 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916855: 2[39m
+2025-07-15 01:23:00:230 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:00:230 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476007: 4[39m
+2025-07-15 01:23:00:230 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:00:230 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pfmq: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:00:230 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:00:230 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pfmf: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:00:230 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:00:230 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pfm8: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:00:230 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:00:230 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pfka: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:01:231 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:01:231 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476005: 5[39m
+2025-07-15 01:23:01:231 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:01:231 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pg1x: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:01:231 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:01:231 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pg09: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:01:231 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:01:231 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pfzc: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:01:231 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:01:231 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pfyu: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:01:231 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:01:231 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pfye: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:01:231 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:23:01:231 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916849: 2[39m
+2025-07-15 01:23:01:231 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:02:232 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475975: 1[39m
+2025-07-15 01:23:02:232 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:02:232 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pgbd: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:02:232 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:03:233 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901702894991: 1[39m
+2025-07-15 01:23:03:233 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:03:233 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pgc1: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
+2025-07-15 01:23:03:233 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:23:03:233 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916841: 2[39m
+2025-07-15 01:23:03:233 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:03:233 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475960: 0[39m
+2025-07-15 01:23:03:233 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:04:234 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475956: 0[39m
+2025-07-15 01:23:04:234 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:23:04:234 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916851: 9[39m
+2025-07-15 01:23:04:234 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:04:234 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475998: 0[39m
+2025-07-15 01:23:04:234 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:05:235 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475996: 0[39m
+2025-07-15 01:23:05:235 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:05:235 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701476001: 0[39m
+2025-07-15 01:23:05:235 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:05:235 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475993: 0[39m
+2025-07-15 01:23:06:236 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:06:236 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475991: 0[39m
+2025-07-15 01:23:06:236 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:06:236 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475989: 0[39m
+2025-07-15 01:23:07:237 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:07:237 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475988: 0[39m
+2025-07-15 01:23:07:237 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:24:14:2414 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475985: 0[39m
+2025-07-15 01:23:07:237 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:08:238 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475983: 0[39m
+2025-07-15 01:23:08:238 [32minfo[39m: [32m[ClickUpSync] Upsert folder:[39m
+2025-07-15 01:23:08:238 [32minfo[39m: [32m[ClickUpSync] Lists encontrados para folder 90170916843: 4[39m
+2025-07-15 01:23:08:238 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:08:238 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475972: 0[39m
+2025-07-15 01:23:08:238 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:09:239 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475969: 1[39m
+2025-07-15 01:23:09:239 [32minfo[39m: [32m[ClickUpSync] Upsert task:[39m
+2025-07-15 01:23:09:239 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dta44nn: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916843_c90130556269_c90130546737_ulIYM2Lx","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-15 01:23:09:239 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:10:2310 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475968: 0[39m
+2025-07-15 01:23:10:2310 [32minfo[39m: [32m[ClickUpSync] Upsert list:[39m
+2025-07-15 01:23:10:2310 [32minfo[39m: [32m[ClickUpSync] Tasks encontrados para list 901701475966: 0[39m
+2025-07-15 01:23:10:2310 [32minfo[39m: [32m[ClickUpSync] Sincronização concluída com sucesso para team_id: 9017133982[39m
+2025-07-15 01:23:10:2310 [32minfo[39m: [32m[SYNC] Resultado da sincronização: Sincronização concluída com sucesso[39m
+2025-07-17 20:06:20:620 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-17 20:06:20:620 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-17 20:06:20:620 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-17 20:06:20:620 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
