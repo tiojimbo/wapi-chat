@@ -110,11 +110,125 @@ async function registerClickUpWebhook(team_id, access_token) {
 router.post('/clickup/webhook', async (req, res) => {
   try {
     const event = req.body;
-    // TODO: Processar o evento e atualizar/inserir dados no Supabase conforme o tipo
+    const supabase = require('../services/supabase/SupabaseService').getClient();
     console.log('[ClickUpWebhook] Evento recebido:', event.event, event);
-    // Exemplo: se event.event === 'taskCreated', inserir/atualizar task no Supabase
+
+    // Processamento automático para tasks, lists, folders, spaces
+    if (event.event && event.history_items && event.history_items.length > 0) {
+      const item = event.history_items[0];
+      // TASKS
+      if (event.event.startsWith('task')) {
+        const task = event.task || item.task;
+        if (event.event === 'taskCreated' || event.event === 'taskUpdated') {
+          // Upsert task
+          await supabase.from('clickup_tasks').upsert({
+            task_id: task.id,
+            list_id: task.list && task.list.id ? task.list.id : null,
+            custom_id: task.custom_id,
+            name: task.name,
+            text_content: task.text_content,
+            description: task.description,
+            status: task.status,
+            orderindex: task.orderindex,
+            date_created: task.date_created ? new Date(Number(task.date_created)) : null,
+            date_updated: task.date_updated ? new Date(Number(task.date_updated)) : null,
+            date_closed: task.date_closed ? new Date(Number(task.date_closed)) : null,
+            date_done: task.date_done ? new Date(Number(task.date_done)) : null,
+            archived: task.archived,
+            creator: task.creator,
+            assignees: task.assignees,
+            watchers: task.watchers,
+            checklists: task.checklists,
+            tags: task.tags,
+            parent: task.parent,
+            priority: task.priority,
+            due_date: task.due_date ? new Date(Number(task.due_date)) : null,
+            start_date: task.start_date ? new Date(Number(task.start_date)) : null,
+            points: task.points,
+            time_estimate: task.time_estimate,
+            time_spent: task.time_spent,
+            custom_fields: task.custom_fields,
+            dependencies: task.dependencies,
+            linked_tasks: task.linked_tasks,
+            team_id: task.team_id,
+            url: task.url,
+            permission_level: task.permission_level,
+            attachments: task.attachments,
+            updated_at: new Date().toISOString()
+          }, { onConflict: ['task_id'] });
+        } else if (event.event === 'taskDeleted') {
+          // Remover task
+          await supabase.from('clickup_tasks').delete().eq('task_id', task.id);
+        }
+      }
+      // LISTS
+      if (event.event.startsWith('list')) {
+        const list = event.list || item.list;
+        if (event.event === 'listCreated' || event.event === 'listUpdated') {
+          await supabase.from('clickup_lists').upsert({
+            list_id: list.id,
+            folder_id: list.folder && list.folder.id ? list.folder.id : null,
+            space_id: list.space && list.space.id ? list.space.id : null,
+            name: list.name,
+            orderindex: list.orderindex,
+            status: list.status,
+            priority: list.priority,
+            assignee: list.assignee,
+            due_date_time: list.due_date_time,
+            start_date_time: list.start_date_time,
+            archived: list.archived,
+            override_statuses: list.override_statuses,
+            permission_level: list.permission_level,
+            updated_at: new Date().toISOString()
+          }, { onConflict: ['list_id'] });
+        } else if (event.event === 'listDeleted') {
+          await supabase.from('clickup_lists').delete().eq('list_id', list.id);
+        }
+      }
+      // FOLDERS
+      if (event.event.startsWith('folder')) {
+        const folder = event.folder || item.folder;
+        if (event.event === 'folderCreated' || event.event === 'folderUpdated') {
+          await supabase.from('clickup_folders').upsert({
+            folder_id: folder.id,
+            space_id: folder.space && folder.space.id ? folder.space.id : null,
+            name: folder.name,
+            orderindex: folder.orderindex,
+            override_statuses: folder.override_statuses,
+            hidden: folder.hidden,
+            task_count: folder.task_count,
+            lists: folder.lists,
+            updated_at: new Date().toISOString()
+          }, { onConflict: ['folder_id'] });
+        } else if (event.event === 'folderDeleted') {
+          await supabase.from('clickup_folders').delete().eq('folder_id', folder.id);
+        }
+      }
+      // SPACES
+      if (event.event.startsWith('space')) {
+        const space = event.space || item.space;
+        if (event.event === 'spaceCreated' || event.event === 'spaceUpdated') {
+          await supabase.from('clickup_spaces').upsert({
+            space_id: space.id,
+            workspace_id: space.team_id,
+            name: space.name,
+            color: space.color,
+            private: space.private,
+            avatar: space.avatar,
+            admin_can_manage: space.admin_can_manage,
+            multiple_assignees: space.multiple_assignees,
+            features: space.features,
+            archived: space.archived,
+            updated_at: new Date().toISOString()
+          }, { onConflict: ['space_id'] });
+        } else if (event.event === 'spaceDeleted') {
+          await supabase.from('clickup_spaces').delete().eq('space_id', space.id);
+        }
+      }
+    }
     res.status(200).json({ received: true });
   } catch (err) {
+    console.error('[ClickUpWebhook] Erro ao processar evento:', err);
     res.status(500).json({ error: 'Erro ao processar webhook do ClickUp', details: err.message });
   }
 });
