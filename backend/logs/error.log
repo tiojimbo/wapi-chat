@@ -1803,3 +1803,2825 @@
 2025-07-15 01:23:02:232 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pgbd: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
 2025-07-15 01:23:03:233 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dr9pgc1: invalid input value for enum clickup_priority: "{"color":"#f8ae00","id":"2","orderindex":"2","priority":"high"}"[39m
 2025-07-15 01:23:09:239 [31merror[39m: [31m[ClickUpSync] Erro ao inserir task 86dta44nn: invalid input value for enum clickup_task_status: "{"status":"a conquistar","id":"c90170916843_c90130556269_c90130546737_ulIYM2Lx","color":"#8a817c","type":"open","orderindex":0}"[39m
+2025-07-17 22:39:20:3920 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-17 22:39:34:3934 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A7CC79B7C50797A1F28',[39m
+[31m    participant: '557799313439@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799313439::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-17 23:05:52:552 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:06:00:60 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:06:08:68 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:10:32:1032 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:16:30:1630 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:16:32:1632 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:16:41:1641 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:16:48:1648 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:16:50:1650 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:19:00:190 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:19:12:1912 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:21:35:2135 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:21:37:2137 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:23:19:2319 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-17 23:23:44:2344 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:23:49:2349 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:23:51:2351 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:23:52:2352 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:24:07:247 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:29:01:291 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:45:18:4518 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:45:37:4537 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:45:46:4546 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:46:15:4615 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:50:25:5025 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: column whatsapp_contacts.is_group does not exist[39m
+2025-07-17 23:51:12:5112 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: JSON object requested, multiple (or no) rows returned[39m
+2025-07-17 23:51:26:5126 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: JSON object requested, multiple (or no) rows returned[39m
+2025-07-18 00:05:12:512 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: JSON object requested, multiple (or no) rows returned[39m
+2025-07-18 00:05:34:534 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: JSON object requested, multiple (or no) rows returned[39m
+2025-07-18 00:06:11:611 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: JSON object requested, multiple (or no) rows returned[39m
+2025-07-18 00:06:14:614 [31merror[39m: [31m[ContextLookup] Erro ao buscar conversa: JSON object requested, multiple (or no) rows returned[39m
+2025-07-18 00:14:50:1450 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-18 00:14:50:1450 [31merror[39m: [31m[teste_1752805390957] Conflito de sessão detectado (Stream Errored). Limpando sessão do disco e do Map.[39m
+2025-07-18 00:29:22:2922 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-18 00:57:32:5732 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-18 15:43:33:4333 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A3927A25C55F00E4442-1',[39m
+[31m    participant: '557799409037@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557799409037.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:43:4343 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '12982D124CF797D2695F793A0311FF7F-1',[39m
+[31m    participant: '557798301307@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557798301307.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:48:4348 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A94285822268B21B271',[39m
+[31m    participant: '557799409037@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799409037::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:48:4348 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '12C599FBAF61C92C626FB1FF251A299E',[39m
+[31m    participant: '557798301307@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798301307::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:48:4348 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A69D07C1B4D8F600F7E',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557799045052.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:48:4348 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A69D07C1B4D8F600F7E',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:48:4348 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A09C77C6421FF0EBDCC',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:53:4353 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A70C0A723E3BF36A5A3',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:53:4353 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A47C6D5308E3FD411B5',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557788793031.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:53:4353 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A47C6D5308E3FD411B5',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:53:4353 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A9AB8DF9FB3FD9F0E98',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:53:4353 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A00CDAD61EE2165847A',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:53:4353 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A9D65271A7C9D89B7E7',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:53:4353 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AACAC251E262793A1AD',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:53:4353 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A8F1AA2C3C86FF8BE73',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:53:4353 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A6BDCBC8B28F5952767',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:53:4353 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A2944B6C01ED4B3D32A',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:53:4353 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AFE0175746107678E3C',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:53:4353 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AC8D42F456B699C9496',[39m
+[31m    participant: '557781187278@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557781187278.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:43:53:4353 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AC8D42F456B699C9496',[39m
+[31m    participant: '557781187278@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557781187278::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '059E75502B460FC55F57786283737902',[39m
+[31m    participant: '553488664229@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 553488664229.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '15E9FDF833CD86ACE9EA7AA16846F419',[39m
+[31m    participant: '556792094052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 556792094052.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '75E5D2698D16F12F2E6B405E742C4C86',[39m
+[31m    participant: '5521994422419@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5521994422419.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'A29620FC4DD652161F18C242CA924D0B',[39m
+[31m    participant: '5519997813746@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5519997813746.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '15C6F1E7247FA6FE56AAE2670113E188',[39m
+[31m    participant: '553491952222@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 553491952222.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'B70CE7B55E41A94152717195C8B68D0A',[39m
+[31m    participant: '5516993531150@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5516993531150.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '89012F4224BD5E70C518D9EBC46EF5AE',[39m
+[31m    participant: '554384547618@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 554384547618.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'F382BC32D3068E59577E7D805599D707',[39m
+[31m    participant: '5527998738184@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5527998738184.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3C99E7299526CF0EEE50D0F9BE83DC0D',[39m
+[31m    participant: '559183871326@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 559183871326.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'DB0DC83635D549D927D2B39FE2937B0D',[39m
+[31m    participant: '553193390837@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 553193390837.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'F98B5550B770BD288C40E0167D28CABA',[39m
+[31m    participant: '558196619980@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 558196619980.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '63CD1F2C081B37518AD1B9AA3CDF7F86',[39m
+[31m    participant: '5511999291769@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5511999291769.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'F35D01876DDD3146241EC1492068C5A5',[39m
+[31m    participant: '5516974079186@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5516974079186.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'F8492694CB89B8F65C5493E095D44F4A',[39m
+[31m    participant: '558582025337@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 558582025337.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '9C4523B68BBE54CAC8F4D6DFB82423DC',[39m
+[31m    participant: '556493114950@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 556493114950.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '1C9C71AE655007A41D2DB3AB7A57C142',[39m
+[31m    participant: '5517991522995@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5517991522995.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:03:443 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'EDFD0CD9A4A1EADCD7F42F9FCE40C01D',[39m
+[31m    participant: '558496120619@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 558496120619.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:06:446 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '0B99D35693CDA5C80A273084A2434060',[39m
+[31m    participant: '556194389571@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 556194389571.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:07:447 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'F2B402FDBE4184861E11B717B4518967',[39m
+[31m    participant: '558189214416@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 558189214416.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:13:4413 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '15678A65FADF003D9DE44A8C86E70284',[39m
+[31m    participant: '5512982261216@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5512982261216.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:17:4417 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A6B81CABF878C446812',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:18:4418 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AAAFB4DEE90F2307236',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:18:4418 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A95B5AE8662591C6C63',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:18:4418 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A4075E12B631CBAE8B4',[39m
+[31m    participant: '557798787917@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557798787917.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:18:4418 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A4075E12B631CBAE8B4',[39m
+[31m    participant: '557798787917@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798787917::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:18:4418 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '557799045052@s.whatsapp.net',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AE4FF0570837325E154',[39m
+[31m    participant: undefined[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557799045052.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:23:4423 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '8C1E3B08D4C064BE2C0EBF4BC87C3254',[39m
+[31m    participant: '5511999291769@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5511999291769.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:23:4423 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '8C1E3B08D4C064BE2C0EBF4BC87C3254',[39m
+[31m    participant: '5511999291769@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363037378266315@g.us::5511999291769::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:23:4423 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '33F734E67F6A88BEF1F0530A00AA7388',[39m
+[31m    participant: '5511999291769@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363037378266315@g.us::5511999291769::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:23:4423 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '830FFDBAD0472FBA54B8E55F80D3DD6F',[39m
+[31m    participant: '5511999291769@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363037378266315@g.us::5511999291769::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:25:4425 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '640BCC8C997876510BDBC0AE9CF5FE78',[39m
+[31m    participant: '5511999291769@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5511999291769.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:25:4425 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '640BCC8C997876510BDBC0AE9CF5FE78',[39m
+[31m    participant: '5511999291769@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363037378266315@g.us::5511999291769::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:25:4425 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '762FDDC89C4FA04B6769D6ED431411B7',[39m
+[31m    participant: '5512982261216@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 5512982261216.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:25:4425 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '762FDDC89C4FA04B6769D6ED431411B7',[39m
+[31m    participant: '5512982261216@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363037378266315@g.us::5512982261216::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:25:4425 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '1E0DD18EF1A060829FFF3123BDC1350F',[39m
+[31m    participant: '5512982261216@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363037378266315@g.us::5512982261216::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:25:4425 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '04BC21B18D460FEB6A8871D0015FA87E',[39m
+[31m    participant: '557798301307@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557798301307.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:25:4425 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '04BC21B18D460FEB6A8871D0015FA87E',[39m
+[31m    participant: '557798301307@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798301307::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:25:4425 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'AE9514777066EBE2C783324AB750063E',[39m
+[31m    participant: '5512982261216@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363037378266315@g.us::5512982261216::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:25:4425 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'B098004C02204B03435F3FB5114752B2',[39m
+[31m    participant: '557798301307@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798301307::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:25:4425 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'AA381DAB02D1CA94392FF4ADD094E996',[39m
+[31m    participant: '5512982261216@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363037378266315@g.us::5512982261216::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:30:4430 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'E436F7AC0F0658FF4CA386591F7B7EAE',[39m
+[31m    participant: '5512982261216@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363037378266315@g.us::5512982261216::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:30:4430 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '35054C34AE63CDE55CCAA305CF6D0CFD',[39m
+[31m    participant: '557798301307@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798301307::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:30:4430 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '6B65C25FE59AC56BC523FE453BCF413E',[39m
+[31m    participant: '557798301307@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798301307::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:31:4431 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A4E75284982F509A078',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557799045052.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:31:4431 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A4E75284982F509A078',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:31:4431 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A77DDA7F30FE7EDAB04',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557799045052.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:31:4431 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A77DDA7F30FE7EDAB04',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:31:4431 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A48401CD61772C4DFA2',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:31:4431 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AEBD12A8AD5459A59DA',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:31:4431 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AEFF5A154C35CF8EDAA',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:31:4431 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AEFBEC536348A532DAB',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:31:4431 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A5FCF9BCD1EC48D694B',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:31:4431 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ACDCB081507DB87AB3A',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:31:4431 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AA6C1C4A25D5C186A6E',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:31:4431 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A5151DB48B683439C56',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:32:4432 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A979E3AD398C4237196',[39m
+[31m    participant: '557781187278@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557781187278.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:32:4432 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A979E3AD398C4237196',[39m
+[31m    participant: '557781187278@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557781187278::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:34:4434 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '1733DE3BFDE72D23F6E34FAECE9499F6',[39m
+[31m    participant: '557798301307@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798301307::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:45:4445 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '024375014A3DDA505D5B2955761B1738',[39m
+[31m    participant: '553491952222@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 553491952222.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:45:4445 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363037378266315@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '024375014A3DDA505D5B2955761B1738',[39m
+[31m    participant: '553491952222@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363037378266315@g.us::553491952222::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:51:4451 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ACEAF1EDCEEC5B2C0B6',[39m
+[31m    participant: '557799409037@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557799409037.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:51:4451 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ACEAF1EDCEEC5B2C0B6',[39m
+[31m    participant: '557799409037@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799409037::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:51:4451 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AA4148688039E17979B',[39m
+[31m    participant: '557799409037@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799409037::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:51:4451 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AAE597882D29E7A4675',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:51:4451 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ADB3A37A6D3EFAAD3A8',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:51:4451 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AB85C2CA0F4C613988D',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:51:4451 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A2A950BD036DBDAE1A0',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:52:4452 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A69AA6F7A588841ECC4',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:52:4452 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AC353BE7C541831B4D5',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:52:4452 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AD5DCDA1D4AC259B156',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:52:4452 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A819EAE99921EBBF4F8',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:52:4452 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A07186256669CF678A2',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:52:4452 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ACF727B934A09855F07',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:52:4452 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A249EB49B2C20F5D9AD',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:52:4452 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A0951E24D2053E7A435',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:52:4452 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A3742567AE5A7B5A7B1',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:52:4452 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AA3A72889E353B52319',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A56C4D819743F0803A0',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AE9544AE9168CD1FEE1',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A968523FED9081BDF34',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A5D7271770587E15378',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AA7549170F232BBEDF3',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A5D8F3C217817FA63DD',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A7E834F00CDF60ED091',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AF416BDD5017F4760E0',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A56570B0AABA032DC10',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ABA962FD51E6B3A2206',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A7C2B23BA3AB1ECB448',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A9157A1FDEFD07B4D3C',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ABDDB47144E54AEFC3E',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ADEA290592D4B762770',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A1B56C57510807669FB',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:53:4453 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AAE7AE6450A43936B77',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:54:4454 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A14FB80A4911827A7C4',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:54:4454 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A799E1C84A9C961FB5C',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:54:4454 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AEE9A2F089C1F5DF4D0',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:54:4454 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A02677157C90FB13554',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:54:4454 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ACACE2625B4FC0CA731',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:54:4454 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AA9A2A5E969FCA75157',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:54:4454 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AF065CBBE4C7A65B123',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:54:4454 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ABDDBA4BCE002F422FE',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:54:4454 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A37F2ECA4D7A94D82D5',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:55:4455 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A57E3A8073E62B0AFB0',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:44:55:4455 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AA194B0BB15AD09A316',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:00:450 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A41FB4A6766FB5B30FF',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:07:457 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '557799045052@s.whatsapp.net',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AD20E6E5E3D9F6D22B3',[39m
+[31m    participant: undefined[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557799045052.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:08:458 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A0D9A889574AA4D0F3D',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:08:458 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A83E163BC50F2C1876B',[39m
+[31m    participant: '557798787917@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557798787917.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:08:458 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A83E163BC50F2C1876B',[39m
+[31m    participant: '557798787917@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798787917::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:08:458 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '88A13B33212B42449EFBA447649D39BE',[39m
+[31m    participant: '557798301307@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798301307::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:08:458 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A5B9AC8F13184253DE0',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:13:4513 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A14693719783DD60536',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:14:4514 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AB2416D888166D1F731',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:14:4514 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A707B92093B1725D24D',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:14:4514 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ACA333174526693128A',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:14:4514 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A5AE17EB546E44D6C38',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:14:4514 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AA8BD31EBD3864F7F6E',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:14:4514 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A6E1723B43B43F09CED',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:15:4515 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ABB4E61F214BF618F7A',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:15:4515 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A01886645420F2DE73D',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:15:4515 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AA1824D3233F357C439',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:16:4516 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363401215537431@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AA2EFC98FC127B1102A',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363401215537431@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:16:4516 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A3B2DE54DFB3D0170E6',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:17:4517 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A36B455A692DE5ACAF8',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:17:4517 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A2B65907E7AC20C64BA',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:17:4517 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AF8249EB02CE2BCB263',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:17:4517 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A2C45B54E6C461C0263',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:18:4518 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A87196C653E3FC267FC',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557788793031.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:18:4518 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A87196C653E3FC267FC',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:18:4518 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A789C796965A2C7BACD',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:18:4518 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A272124BEE981BAFB06',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:18:4518 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A8427B8B8D59D25E542',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:18:4518 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A7F97DA8753758350F8',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:18:4518 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A654CC8C20545F7638C',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:18:4518 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AA58388704D695D95AA',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:19:4519 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A8AC0242A7D34201078',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:19:4519 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A57774F24767D031649',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:19:4519 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A26EB770CC932E625F9',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:19:4519 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AB6B507984554E5E2B7',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:19:4519 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A0502DDC876B96F2B2A',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:19:4519 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A22F8A286568F80F4E5',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:19:4519 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AF2B7FE30ECAEA82D66',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:24:4524 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A976B15D78A07FB9544',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:24:4524 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A011B7F53B8AF80E1E6',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:24:4524 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A3648F34B71B73B0C8F',[39m
+[31m    participant: '557798787917@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798787917::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:24:4524 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ABD097939F0F9EAF050',[39m
+[31m    participant: '557798787917@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798787917::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:24:4524 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A84D51798E1C7F86285',[39m
+[31m    participant: '557798787917@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798787917::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:24:4524 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A9219ECEE9046EF93A3',[39m
+[31m    participant: '557798787917@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798787917::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:29:4529 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A98320EAE73C6B9725E',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:34:4534 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'BA3463A068D55CF5C8EDB20A67878B7D',[39m
+[31m    participant: '557798301307@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798301307::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:34:4534 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A461BC1F1DB5A68D438',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:34:4534 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A2A1BECDC2DF123792E',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:34:4534 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AE70B59CC8C5F616EB3',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:34:4534 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ADD3439944F5E39CC3A',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:34:4534 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A38C366FB1867C03137',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:34:4534 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A2EAA23264BFE37EE45',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A1D854D7417F16FE997',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A792E63FB583AE630B9',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AAC3FA2861882F43FF9',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A5EABE5D3D99CFAAAF2',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A7C45CC8D8E7C25800C',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'BF5B2F4D05303C7D2153A0402F0DE7AB',[39m
+[31m    participant: '557798301307@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798301307::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A084227245B82D1F196',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A419C4101884F8233FD',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A1FD0307F370ABC3702',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ABA2515279B7AB58B4C',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A505A73D3397B78E2EE',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A652B9918C7AC9CBB5A',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A41D06A7F35000539C9',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A30E64ED903B3A90C5C',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A4A27F9D05A16D136C2',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A7E0D6792F9BB9DB337',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A5FB041935C17A1CE3E',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A0F2FE4B7B529C05FAE',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A965F0D8B4754EB9A34',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AFD196FF015B9C3318A',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ADDAB4B7325C3561B91',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A0901AC2CBF91E56410',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:35:4535 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'AF7D93ED19858753C8C6AE874340ACB9',[39m
+[31m    participant: '557798301307@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798301307::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:36:4536 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ABA870810FD433882C3',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:36:4536 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: 'ECEC358AA7E7DF374725BB61841A9A9C',[39m
+[31m    participant: '557798301307@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798301307::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:36:4536 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A442BCB324449B3AD5A',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:36:4536 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A8567CBA8877313EEB0',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:36:4536 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A47FCDAE12CD37EC4FD',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:36:4536 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AB4ACCFDFF266B9E95E',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:36:4536 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AE2D0019FD92A8E65CA',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:36:4536 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A140920B5590D5E8A7B',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:36:4536 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A2DE27A8A5CC232EADB',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:36:4536 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A7689799BF132FAAAAC',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:36:4536 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '557799045052@s.whatsapp.net',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A62FEF7FBDE071CC515',[39m
+[31m    participant: undefined[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557799045052.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:37:4537 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AEDF2C1E0756D901CA3',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:37:4537 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A61594099E4F3EB4DF8',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:37:4537 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AC890CF9D67DB9F89DB',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:37:4537 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ADD0E71F29EEFD78F88',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:37:4537 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A39FEE2CCEF7AE83D6F',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:42:4542 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A91674F0DD380C87AE8',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:42:4542 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A6FDB5D14628252A958',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:42:4542 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AB543604AA7707902C3',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:42:4542 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AF08AABBEDECB56A47D',[39m
+[31m    participant: '557798787917@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798787917::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:42:4542 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3ABDB5195A6B6792152D',[39m
+[31m    participant: '557798787917@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557798787917::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:43:4543 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A08D08E47B13DC3F2D7',[39m
+[31m    participant: '557799409037@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557799409037.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:43:4543 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A08D08E47B13DC3F2D7',[39m
+[31m    participant: '557799409037@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799409037::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:43:4543 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A095ADB0858645D2EC3',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:43:4543 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A44581CAA169C8465E7',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:43:4543 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AF94CCAC1DB24C46280',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557788793031::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:44:4544 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A49F749622EC69B87C9',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:50:4550 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '557799045052@s.whatsapp.net',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A391F19A35D08A2934D',[39m
+[31m    participant: undefined[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557799045052.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:50:4550 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '557799045052@s.whatsapp.net',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AD1D20D38784FDAEA7D',[39m
+[31m    participant: undefined[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557799045052.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:51:4551 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A91F6F377FB737AC7E1',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:45:56:4556 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AB21AA5220FF3B00682',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:46:02:462 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A8FA114F3EA18F47B73',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:46:02:462 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A597568C5E846361531',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:46:02:462 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AD69627F0CFC3A7F92C',[39m
+[31m    participant: '557799045052@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: Error: No SenderKeyRecord found for decryption[39m
+[31m      at 120363418928626579@g.us::557799045052::0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\group_cipher.js:49:15)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\@whiskeysockets\baileys\WASignalGroup\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:46:22:4622 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '12C599FBAF61C92C626FB1FF251A299E',[39m
+[31m    participant: '557798301307@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557798301307.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:46:22:4622 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A47C6D5308E3FD411B5',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557788793031.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:46:22:4622 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A9AB8DF9FB3FD9F0E98',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557788793031.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:46:22:4622 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A00CDAD61EE2165847A',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557788793031.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:46:22:4622 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A9D65271A7C9D89B7E7',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557788793031.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:46:22:4622 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AACAC251E262793A1AD',[39m
+[31m    participant: '557788793031@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557788793031.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:46:22:4622 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A94285822268B21B271',[39m
+[31m    participant: '557799409037@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557799409037.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:46:22:4622 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '556198278919@s.whatsapp.net',[39m
+[31m    fromMe: true,[39m
+[31m    id: '2FB06604DBC51DF4B2B3',[39m
+[31m    participant: undefined[39m
+[31m  },[39m
+[31m  err: SessionError: No matching sessions found for message[39m
+[31m      at SessionCipher.decryptWithSessions (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:161:15)[39m
+[31m      at async 556198278919.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:171:28)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:46:22:4622 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3AC8D42F456B699C9496',[39m
+[31m    participant: '557781187278@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557781187278.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:46:22:4622 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '556198278919@s.whatsapp.net',[39m
+[31m    fromMe: true,[39m
+[31m    id: '3A8CCEE7EC241D3BE796',[39m
+[31m    participant: undefined[39m
+[31m  },[39m
+[31m  err: SessionError: No matching sessions found for message[39m
+[31m      at SessionCipher.decryptWithSessions (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:161:15)[39m
+[31m      at async 556198278919.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:171:28)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m
+2025-07-18 15:46:27:4627 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: undefined,[39m
+[31m    id: '',[39m
+[31m    fromMe: true,[39m
+[31m    participant: '556198278919@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  ids: [ '3EB03A594DAC1DB0DB2987' ],[39m
+[31m  trace: "TypeError: Cannot destructure property 'user' of '(0 , WABinary_1.jidDecode)(...)' as it is undefined.\n" +[39m
+[31m    '    at relayMessage (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\messages-send.js:265:17)\n' +[39m
+[31m    '    at sendMessagesAgain (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\messages-recv.js:479:23)\n' +[39m
+[31m    '    at async C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\messages-recv.js:547:37\n' +[39m
+[31m    '    at async C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Utils\\make-mutex.js:19:36\n' +[39m
+[31m    '    at async Promise.all (index 0)\n' +[39m
+[31m    '    at async handleReceipt (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\messages-recv.js:511:13)\n' +[39m
+[31m    '    at async processNodeWithBuffer (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\messages-recv.js:815:9)'[39m
+[31m}[39m
+2025-07-18 15:48:53:4853 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: undefined,[39m
+[31m    id: '',[39m
+[31m    fromMe: true,[39m
+[31m    participant: '556198278919@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  ids: [ '3EB03A594DAC1DB0DB2987' ],[39m
+[31m  trace: "TypeError: Cannot destructure property 'user' of '(0 , WABinary_1.jidDecode)(...)' as it is undefined.\n" +[39m
+[31m    '    at relayMessage (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\messages-send.js:265:17)\n' +[39m
+[31m    '    at sendMessagesAgain (C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\messages-recv.js:479:23)\n' +[39m
+[31m    '    at async C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\messages-recv.js:547:37\n' +[39m
+[31m    '    at async C:\\Users\\samuel\\Documents\\wapi-chat\\backend\\node_modules\\@whiskeysockets\\baileys\\lib\\Utils\\make-mutex.js:19:36'[39m
+[31m}[39m
+2025-07-18 15:51:38:5138 [31merror[39m: [31m{[39m
+[31m  key: {[39m
+[31m    remoteJid: '120363418928626579@g.us',[39m
+[31m    fromMe: false,[39m
+[31m    id: '3A1101BA41A91AA9BF0C-1',[39m
+[31m    participant: '557799409037@s.whatsapp.net'[39m
+[31m  },[39m
+[31m  err: PreKeyError: Invalid PreKey ID[39m
+[31m      at SessionBuilder.initIncoming (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_builder.js:66:19)[39m
+[31m      at async 557799409037.0 [as awaitable] (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\session_cipher.js:205:30)[39m
+[31m      at async _asyncQueueExecutor (C:\Users\samuel\Documents\wapi-chat\backend\node_modules\libsignal\src\queue_job.js:20:29)[39m
+[31m}[39m

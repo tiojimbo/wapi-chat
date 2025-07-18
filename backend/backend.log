@@ -1,0 +1,62 @@
+
+> wapi-chat-backend@1.0.0 start
+> node src/index.js
+
+2025-07-18 00:13:37:1337 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-18 00:13:37:1337 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-18 00:13:37:1337 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-18 00:13:37:1337 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-18 00:13:37:1337 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+2025-07-18 00:13:37:1337 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer ba 88 33 2e 1d 66 f0 b7 b1 37 ef 95 84 36 b8 c8 90 a3 24 81 b3 b2 d1 28 5b 7f 3b d1 c4 6c e1 54>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:13:38:1338 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 92,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:13:38:1338 [32minfo[39m: [32m25 pre-keys found on server[39m
+2025-07-18 00:13:38:1338 [32minfo[39m: [32mhandled 0 offline messages/notifications[39m
+2025-07-18 00:13:38:1338 [32minfo[39m: [32mopened connection to WA[39m
+2025-07-18 00:13:38:1338 [32minfo[39m: [32mSessão teste_1752805390957 conectada com sucesso[39m
+2025-07-18 00:13:38:1338 [32minfo[39m: [32m[teste_1752805390957] Iniciando sincronização automática de contatos após conexão...[39m
+node:internal/fs/promises:639
+  return new FileHandle(await PromisePrototypeThen(
+                        ^
+
+Error: ENOENT: no such file or directory, open 'sessions/teste_1752805390957/creds.json'
+    at async open (node:internal/fs/promises:639:25)
+    at async writeFile (node:internal/fs/promises:1213:14)
+    at async /mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Utils/use-multi-file-auth-state.js:38:17 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'sessions/teste_1752805390957/creds.json'
+}
+
+Node.js v22.17.0

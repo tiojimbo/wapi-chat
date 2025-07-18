@@ -56,27 +56,17 @@ export default function DashboardPage() {
       )}
       <div className="flex-1 min-w-0 h-full flex flex-col">
         {selectedConversation ? (
-          <>
-            <div className="flex items-center gap-3 px-6 py-4 border-b bg-white dark:bg-[#18181B] border-gray-200 dark:border-[#2D2D30]">
-              <div className="w-10 h-10 rounded-full bg-green-200 flex items-center justify-center text-lg font-bold text-green-900">
-                {selectedConversation.whatsapp_contacts?.profile_name 
-                  ? selectedConversation.whatsapp_contacts.profile_name[0].toUpperCase() 
-                  : '?'}
-              </div>
-              <span className="font-semibold text-lg text-gray-900 dark:text-white">
-                {selectedConversation.whatsapp_contacts?.profile_name || selectedConversation.whatsapp_contacts?.wa_id || 'Contato'}
-              </span>
-            </div>
-            <div className="flex-1 min-h-0 h-full">
-              <ChatWindow
-                conversationId={selectedConversation.id}
-                contactName={selectedConversation.whatsapp_contacts?.profile_name || selectedConversation.whatsapp_contacts?.wa_id}
-                sessionId={sessionId}
-              />
-            </div>
-          </>
+          <div className="h-full">
+            <ChatWindow
+              conversationId={selectedConversation.id}
+              contactName={selectedConversation.whatsapp_contacts?.profile_name || selectedConversation.whatsapp_contacts?.wa_id}
+              sessionId={sessionId || ''}
+            />
+          </div>
         ) : (
-          <div className="flex items-center justify-center h-full text-gray-400">Selecione uma conversa</div>
+          <div className="flex items-center justify-center h-full text-gray-400">
+            Selecione uma conversa
+          </div>
         )}
       </div>
     </div>

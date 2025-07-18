@@ -12,6 +12,7 @@ interface Conversation {
   is_contact_only?: boolean; // Flag para contatos sincronizados sem conversa
 }
 
+
 interface ConversationListProps {
   sessionId: string;
   onSelectConversation?: (conv: Conversation) => void;

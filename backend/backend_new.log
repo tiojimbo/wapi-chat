@@ -1,0 +1,1226 @@
+2025-07-18 00:15:31:1531 [32minfo[39m: [32m🚀 Servidor rodando na porta 3001[39m
+2025-07-18 00:15:31:1531 [32minfo[39m: [32m📱 Ambiente: development[39m
+2025-07-18 00:15:31:1531 [32minfo[39m: [32m🔗 Health check: http://localhost:3001/health[39m
+2025-07-18 00:15:31:1531 [32minfo[39m: [32m🔧 Setup API: http://localhost:3001/api/setup/status[39m
+2025-07-18 00:15:31:1531 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+2025-07-18 00:15:31:1531 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 34 8b fa d3 42 83 08 84 5d 4c 5c 4f eb b1 b2 6e 5b 9c 78 3f c5 cb 9b bf 2e 3a 6c 02 d9 44 27 38>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:15:31:1531 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    devicePairingData: DevicePairingRegistrationData {[39m
+[32m      eRegid: [Uint8Array],[39m
+[32m      eKeytype: <Buffer 05>,[39m
+[32m      eIdent: <Buffer 88 d5 69 f1 d9 dc a5 29 71 1e be 61 64 b6 cb 50 ca 39 80 6a b6 c5 be 75 be 9f 03 b1 ef 2c 4a 55>,[39m
+[32m      eSkeyId: [Uint8Array],[39m
+[32m      eSkeyVal: <Buffer 44 b8 0c 46 6b 22 1e 69 04 6c 7a bf 30 9e 67 4b 77 38 38 d7 4b 24 cf b9 ae b5 3f a2 19 72 b5 35>,[39m
+[32m      eSkeySig: <Buffer 01 2a 4d 0f d1 ce 5a aa e4 e4 51 10 21 91 f7 11 e8 35 49 e7 14 2d 9f 23 ff 61 4b 14 ff 4d 82 81 97 e4 64 66 a8 1f 55 d0 42 7e 13 c0 12 b7 06 81 af 8f ... 14 more bytes>,[39m
+[32m      buildHash: <Buffer 73 d9 50 79 43 25 4d da cc ac 88 bf f9 87 0f 88>,[39m
+[32m      deviceProps: <Buffer 0a 08 57 61 70 69 43 68 61 74 18 01 20 00>[39m
+[32m    },[39m
+[32m    pull: false[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:15:32:1532 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:15:34:1534 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:15:39:1539 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:15:44:1544 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:15:49:1549 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:15:54:1554 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:15:59:1559 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:16:04:164 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:16:09:169 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:16:14:1614 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:16:19:1619 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:16:24:1624 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:16:29:1629 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:16:32:1632 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:16:34:1634 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:16:39:1639 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:16:44:1644 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:16:49:1649 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:16:52:1652 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:16:54:1654 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:16:59:1659 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:17:04:174 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:17:09:179 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:17:12:1712 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:17:14:1714 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:17:19:1719 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:17:24:1724 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:17:29:1729 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:17:32:1732 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:17:34:1734 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:17:39:1739 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:17:44:1744 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:17:49:1749 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:17:52:1752 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:17:54:1754 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:17:59:1759 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:18:04:184 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:18:09:189 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:18:12:1812 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: QR refs attempts ended\n' +[39m
+[32m    '    at Timeout.genPairQR [as _onTimeout] (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:485:21)\n' +[39m
+[32m    '    at listOnTimeout (node:internal/timers:588:17)\n' +[39m
+[32m    '    at process.processTimers (node:internal/timers:523:7)'[39m
+[32m}[39m
+2025-07-18 00:18:12:1812 [32minfo[39m: [32mConexão fechada para sessão teste_1752805390957, reconectando: true[39m
+2025-07-18 00:18:14:1814 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:18:17:1817 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+2025-07-18 00:18:17:1817 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 85 c3 00 ba c2 7c d5 20 a1 68 c4 12 e7 a6 8c a9 9f 3f ca 56 52 7a 2a 18 06 3c df 51 45 84 6b 7e>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:18:17:1817 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    devicePairingData: DevicePairingRegistrationData {[39m
+[32m      eRegid: [Uint8Array],[39m
+[32m      eKeytype: <Buffer 05>,[39m
+[32m      eIdent: <Buffer dd b1 57 f7 a8 40 3b 3d e0 5f f8 08 a4 c4 4b 46 60 62 65 de 70 76 fa c0 22 30 c7 f9 6d 96 53 28>,[39m
+[32m      eSkeyId: [Uint8Array],[39m
+[32m      eSkeyVal: <Buffer 29 28 8c e3 eb 94 4b 3e a7 4b 7d e1 b4 e1 e8 56 9c ed 3a 64 14 bc 7c 18 7b 8c 11 b2 cf fd e7 1a>,[39m
+[32m      eSkeySig: <Buffer 18 f7 8b 09 3b b3 05 a3 2b 14 df 43 33 04 f5 13 80 19 83 90 b9 50 76 f2 95 cb 0e 07 0d 7a b7 d5 5a 4c 0b 62 2b 2b eb 11 b0 29 e9 c7 a0 4d 43 10 cb eb ... 14 more bytes>,[39m
+[32m      buildHash: <Buffer 73 d9 50 79 43 25 4d da cc ac 88 bf f9 87 0f 88>,[39m
+[32m      deviceProps: <Buffer 0a 08 57 61 70 69 43 68 61 74 18 01 20 00>[39m
+[32m    },[39m
+[32m    pull: false[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:18:18:1818 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:18:19:1819 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:18:24:1824 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:19:42:1942 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:19:47:1947 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:19:52:1952 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:19:57:1957 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:02:202 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:07:207 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:12:2012 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:17:2017 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:22:2022 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:27:2027 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:19:18:1918 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:20:32:2032 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:37:2037 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:42:2042 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:47:2047 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:19:38:1938 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:20:52:2052 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:57:2057 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:02:212 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:07:217 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:19:58:1958 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:21:12:2112 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:17:2117 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:22:2122 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:14:2014 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:18:2018 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:20:19:2019 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:24:2024 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:29:2029 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:34:2034 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:38:2038 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:20:39:2039 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:44:2044 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:49:2049 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:54:2054 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:20:58:2058 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: QR refs attempts ended\n' +[39m
+[32m    '    at Timeout.genPairQR [as _onTimeout] (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:485:21)\n' +[39m
+[32m    '    at listOnTimeout (node:internal/timers:588:17)\n' +[39m
+[32m    '    at process.processTimers (node:internal/timers:523:7)'[39m
+[32m}[39m
+2025-07-18 00:20:58:2058 [32minfo[39m: [32mConexão fechada para sessão teste_1752805390957, reconectando: true[39m
+2025-07-18 00:20:59:2059 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:03:213 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+2025-07-18 00:21:03:213 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer ef ab a9 10 2f df b9 30 5d 44 5a 78 27 c0 bb f7 80 d1 94 a9 db 4d a6 77 83 26 98 47 6a 7c ce 68>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:21:03:213 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    devicePairingData: DevicePairingRegistrationData {[39m
+[32m      eRegid: [Uint8Array],[39m
+[32m      eKeytype: <Buffer 05>,[39m
+[32m      eIdent: <Buffer 1b 74 86 5c 0d db 5c cc ef a8 23 03 f0 d7 a8 29 62 74 6a 64 17 10 76 d0 54 18 68 94 f1 3f 8a 56>,[39m
+[32m      eSkeyId: [Uint8Array],[39m
+[32m      eSkeyVal: <Buffer 6c e8 ba f5 d6 26 c6 7e 59 2b d8 75 aa b3 26 79 61 e9 6f 26 45 c1 f6 49 b5 df a2 36 aa 81 2d 38>,[39m
+[32m      eSkeySig: <Buffer a1 bd 2f 69 c4 d1 1b 01 64 36 94 70 ac 91 df 4b 69 a9 b1 e3 83 d1 5f 28 74 8a 78 db 99 6f 98 f9 5b c6 cf c2 b8 b9 88 89 5d 2b 21 6f 69 47 e6 05 b2 08 ... 14 more bytes>,[39m
+[32m      buildHash: <Buffer 73 d9 50 79 43 25 4d da cc ac 88 bf f9 87 0f 88>,[39m
+[32m      deviceProps: <Buffer 0a 08 57 61 70 69 43 68 61 74 18 01 20 00>[39m
+[32m    },[39m
+[32m    pull: false[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:21:03:213 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:21:04:214 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:09:219 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:14:2114 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:19:2119 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:24:2124 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:29:2129 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:34:2134 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:39:2139 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:44:2144 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:49:2149 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:54:2154 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:21:59:2159 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:22:03:223 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:22:04:224 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:22:09:229 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:22:14:2214 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:22:19:2219 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:22:23:2223 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:22:24:2224 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:23:42:2342 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:23:46:2346 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: Connection was lost\n' +[39m
+[32m    '    at Timeout._onTimeout (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)\n' +[39m
+[32m    '    at listOnTimeout (node:internal/timers:588:17)\n' +[39m
+[32m    '    at process.processTimers (node:internal/timers:523:7)'[39m
+[32m}[39m
+2025-07-18 00:23:46:2346 [32minfo[39m: [32mConexão fechada para sessão teste_1752805390957, reconectando: true[39m
+2025-07-18 00:23:47:2347 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:23:51:2351 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+2025-07-18 00:23:51:2351 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer b2 5e 9c c6 40 b5 70 4d f8 02 4c 06 52 44 77 bf 90 f7 05 98 62 b7 ae 82 c6 68 6b 31 45 e0 f7 19>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:23:51:2351 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    devicePairingData: DevicePairingRegistrationData {[39m
+[32m      eRegid: [Uint8Array],[39m
+[32m      eKeytype: <Buffer 05>,[39m
+[32m      eIdent: <Buffer bf c6 33 59 72 f0 11 8d 74 43 43 db f3 d6 80 e7 ea 6b f7 1b e9 08 61 66 19 71 ba 71 e8 63 19 7e>,[39m
+[32m      eSkeyId: [Uint8Array],[39m
+[32m      eSkeyVal: <Buffer 6e 00 59 7a 54 3a 25 2e 1d b4 68 4c 82 7e f1 12 4f 8d 23 74 99 97 39 42 08 c2 fe a4 cf 33 81 0c>,[39m
+[32m      eSkeySig: <Buffer e5 d4 b8 80 c5 0f 3a a2 ef 2a 6d 34 0b a9 88 9b e0 1e 25 a1 13 63 63 f2 e9 0f dd c4 e1 33 f5 92 2c a7 33 8b 16 d2 c7 2a 0b df 04 83 2b 92 b7 8e 5c 58 ... 14 more bytes>,[39m
+[32m      buildHash: <Buffer 73 d9 50 79 43 25 4d da cc ac 88 bf f9 87 0f 88>,[39m
+[32m      deviceProps: <Buffer 0a 08 57 61 70 69 43 68 61 74 18 01 20 00>[39m
+[32m    },[39m
+[32m    pull: false[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:23:51:2351 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:23:52:2352 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:22:44:2244 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:22:49:2249 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:22:54:2254 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:22:59:2259 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:23:04:234 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:23:10:2310 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:23:14:2314 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:23:19:2319 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:23:24:2324 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:23:29:2329 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:23:34:2334 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:23:38:2338 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:23:39:2339 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:23:44:2344 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:23:49:2349 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:23:54:2354 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:23:58:2358 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:23:59:2359 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:24:04:244 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:24:09:249 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:24:14:2414 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:24:18:2418 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:24:19:2419 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:24:24:2424 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:24:29:2429 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:24:34:2434 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:24:38:2438 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:24:39:2439 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:24:44:2444 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:24:49:2449 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:24:54:2454 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:24:58:2458 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:24:59:2459 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:25:04:254 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:25:09:259 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:25:14:2514 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:25:18:2518 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: QR refs attempts ended\n' +[39m
+[32m    '    at Timeout.genPairQR [as _onTimeout] (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:485:21)\n' +[39m
+[32m    '    at listOnTimeout (node:internal/timers:588:17)\n' +[39m
+[32m    '    at process.processTimers (node:internal/timers:523:7)'[39m
+[32m}[39m
+2025-07-18 00:25:18:2518 [32minfo[39m: [32mConexão fechada para sessão teste_1752805390957, reconectando: true[39m
+2025-07-18 00:25:19:2519 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:25:23:2523 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+2025-07-18 00:25:24:2524 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 3d 1b cc 5b 89 df ef 99 64 14 96 dc e8 92 70 17 37 5f dc 9a aa c6 5f a0 e4 ac 24 22 3c e7 93 58>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:25:24:2524 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    devicePairingData: DevicePairingRegistrationData {[39m
+[32m      eRegid: [Uint8Array],[39m
+[32m      eKeytype: <Buffer 05>,[39m
+[32m      eIdent: <Buffer e3 8e c6 dd 3b 46 dd a3 9b fe 96 fa 24 b2 08 7f 02 34 29 bb 10 d6 e0 21 b8 9e ba a9 15 24 cc 25>,[39m
+[32m      eSkeyId: [Uint8Array],[39m
+[32m      eSkeyVal: <Buffer b8 17 58 78 2c de d7 da a7 44 66 71 7e 9b cc bf 4b 69 fa 37 7b 12 0f b7 54 a2 19 48 6e cf e7 3b>,[39m
+[32m      eSkeySig: <Buffer 02 94 4a 9f a3 f2 4b e6 cd 53 45 0e 63 20 a4 46 b8 e2 f8 ef 4a 60 f2 c6 92 40 c5 61 d8 95 ab 85 8a 48 44 5a cf d8 8e 8f 66 85 6f 47 1a f3 8d 7b 71 d9 ... 14 more bytes>,[39m
+[32m      buildHash: <Buffer 73 d9 50 79 43 25 4d da cc ac 88 bf f9 87 0f 88>,[39m
+[32m      deviceProps: <Buffer 0a 08 57 61 70 69 43 68 61 74 18 01 20 00>[39m
+[32m    },[39m
+[32m    pull: false[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:25:24:2524 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:25:24:2524 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:25:29:2529 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:25:29:2529 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:25:34:2534 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:25:39:2539 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:25:44:2544 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:25:49:2549 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:25:54:2554 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:25:59:2559 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:26:04:264 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:26:09:269 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:26:14:2614 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:26:19:2619 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:26:24:2624 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:26:24:2624 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:26:25:2625 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:26:25:2625 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:26:25:2625 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:26:30:2630 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:26:35:2635 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:26:40:2640 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:26:44:2644 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:26:45:2645 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:26:50:2650 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:26:55:2655 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:00:270 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:04:274 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:27:05:275 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:10:2710 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:15:2715 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:19:2719 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:19:2719 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:24:2724 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:27:24:2724 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:30:2730 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:34:2734 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:40:2740 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:40:2740 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:27:40:2740 [32minfo[39m: [32m[CONVERSATIONS] Sessão teste_1752805390957 não conectada ainda - retornando lista vazia[39m
+2025-07-18 00:27:40:2740 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:40:2740 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:27:40:2740 [32minfo[39m: [32m[CONVERSATIONS] Sessão teste_1752805390957 não conectada ainda - retornando lista vazia[39m
+2025-07-18 00:27:40:2740 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:40:2740 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:40:2740 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:40:2740 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:40:2740 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:40:2740 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:42:2742 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:42:2742 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:27:42:2742 [32minfo[39m: [32m[CONVERSATIONS] Sessão teste_1752805390957 não conectada ainda - retornando lista vazia[39m
+2025-07-18 00:27:42:2742 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:42:2742 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:27:42:2742 [32minfo[39m: [32m[CONVERSATIONS] Sessão teste_1752805390957 não conectada ainda - retornando lista vazia[39m
+2025-07-18 00:27:42:2742 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:42:2742 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:42:2742 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:42:2742 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:42:2742 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:42:2742 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:44:2744 [32minfo[39m: [32mQR Code gerado para sessão teste_1752805390957 (state: qr_ready)[39m
+2025-07-18 00:27:46:2746 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:46:2746 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:27:46:2746 [32minfo[39m: [32m[CONVERSATIONS] Sessão teste_1752805390957 não conectada ainda - retornando lista vazia[39m
+2025-07-18 00:27:46:2746 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:46:2746 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:27:46:2746 [32minfo[39m: [32m[CONVERSATIONS] Sessão teste_1752805390957 não conectada ainda - retornando lista vazia[39m
+2025-07-18 00:27:46:2746 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:46:2746 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:46:2746 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:46:2746 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:46:2746 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:46:2746 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:48:2748 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:48:2748 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:50:2750 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:50:2750 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:27:52:2752 [32minfo[39m: [32mDELETE /api/whatsapp/sessions/teste_1752805390957 - ::1[39m
+2025-07-18 00:27:52:2752 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: Intentional Logout\n' +[39m
+[32m    '    at Object.logout (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:366:13)\n' +[39m
+[32m    '    at WhatsAppManager.deleteSession (/mnt/c/Users/samuel/Documents/wapi-chat/backend/src/services/baileys/WhatsAppManager.js:307:28)\n' +[39m
+[32m    '    at /mnt/c/Users/samuel/Documents/wapi-chat/backend/src/routes/whatsapp.js:78:43\n' +[39m
+[32m    '    at Layer.handle [as handle_request] (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/express/lib/router/layer.js:95:5)\n' +[39m
+[32m    '    at next (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/express/lib/router/route.js:149:13)\n' +[39m
+[32m    '    at Route.dispatch (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/express/lib/router/route.js:119:3)\n' +[39m
+[32m    '    at Layer.handle [as handle_request] (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/express/lib/router/layer.js:95:5)\n' +[39m
+[32m    '    at /mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/express/lib/router/index.js:284:15\n' +[39m
+[32m    '    at param (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/express/lib/router/index.js:365:14)\n' +[39m
+[32m    '    at param (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/express/lib/router/index.js:376:14)'[39m
+[32m}[39m
+2025-07-18 00:27:52:2752 [32minfo[39m: [32mConexão fechada para sessão teste_1752805390957, reconectando: true[39m
+2025-07-18 00:27:52:2752 [32minfo[39m: [32mSessão teste_1752805390957 removida com sucesso[39m
+2025-07-18 00:27:52:2752 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:08:298 [32minfo[39m: [32mPOST /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:08:298 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+2025-07-18 00:29:08:298 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112/qr - ::1[39m
+2025-07-18 00:29:08:298 [32minfo[39m: [32m[QR ENDPOINT] Sessão: teste_1752809348112, state: connecting, qrCode: false[39m
+2025-07-18 00:29:08:298 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 4c 19 25 a3 f1 3e 91 67 ae 3b f8 4b 60 d8 c9 30 b3 d0 e1 b9 37 43 63 ff 0f 96 40 05 c7 cc 03 74>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:29:08:298 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    devicePairingData: DevicePairingRegistrationData {[39m
+[32m      eRegid: [Uint8Array],[39m
+[32m      eKeytype: <Buffer 05>,[39m
+[32m      eIdent: <Buffer b2 36 c5 6d 39 70 24 12 c1 9c 60 cd 31 a2 3e 4b 44 2f 12 fd a4 05 49 55 03 a6 a3 f2 42 c5 5c 7e>,[39m
+[32m      eSkeyId: [Uint8Array],[39m
+[32m      eSkeyVal: <Buffer d8 ff 49 d4 7c a4 85 2b 45 9e 6f 60 00 83 f7 93 23 82 aa 8a 9f 4b 94 f1 f3 53 2c eb 88 a2 0c 18>,[39m
+[32m      eSkeySig: <Buffer 8f 06 80 25 fd 08 f2 fe 4d 94 eb 19 c3 c4 82 3c 7e ce 09 a6 ba cc d9 00 53 ad 64 ad d7 f4 11 b5 67 9e 24 03 7a ee 0b a1 6c a3 55 91 6c 70 c9 98 87 7a ... 14 more bytes>,[39m
+[32m      buildHash: <Buffer 73 d9 50 79 43 25 4d da cc ac 88 bf f9 87 0f 88>,[39m
+[32m      deviceProps: <Buffer 0a 08 57 61 70 69 43 68 61 74 18 01 20 00>[39m
+[32m    },[39m
+[32m    pull: false[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:29:09:299 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112/qr - ::1[39m
+2025-07-18 00:29:09:299 [32minfo[39m: [32m[QR ENDPOINT] Sessão: teste_1752809348112, state: connecting, qrCode: false[39m
+2025-07-18 00:29:09:299 [32minfo[39m: [32mQR Code gerado para sessão teste_1752809348112 (state: qr_ready)[39m
+2025-07-18 00:29:09:299 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112/qr - ::1[39m
+2025-07-18 00:29:09:299 [32minfo[39m: [32m[QR ENDPOINT] Sessão: teste_1752809348112, state: qr_ready, qrCode: true[39m
+2025-07-18 00:29:09:299 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:11:2911 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:13:2913 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:15:2915 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:17:2917 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:19:2919 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:22:2922 [32minfo[39m: [32m{[39m
+[32m  me: { id: '556198278919:93@s.whatsapp.net', name: undefined },[39m
+[32m  platform: 'iphone'[39m
+[32m}[39m
+2025-07-18 00:29:22:2922 [31merror[39m: [31m{[39m
+[31m  node: { tag: 'stream:error', attrs: { code: '515' }, content: undefined }[39m
+[31m}[39m
+2025-07-18 00:29:22:2922 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: Stream Errored (restart required)\n' +[39m
+[32m    '    at WebSocketClient.<anonymous> (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:524:13)\n' +[39m
+[32m    '    at WebSocketClient.emit (node:events:518:28)\n' +[39m
+[32m    '    at /mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:241:35\n' +[39m
+[32m    '    at Object.decodeFrame (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Utils/noise-handler.js:144:17)\n' +[39m
+[32m    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)'[39m
+[32m}[39m
+2025-07-18 00:29:22:2922 [32minfo[39m: [32mConexão fechada para sessão teste_1752809348112, reconectando: true[39m
+2025-07-18 00:28:11:2811 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:13:2813 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:15:2815 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+2025-07-18 00:29:27:2927 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:27:2927 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer 11 3f df b6 7b ee ec 9b c2 46 78 6e 41 ab fa 8d 59 97 9f bf 76 20 09 e9 59 b3 be 09 de 8a 80 0a>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:28:15:2815 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 93,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:28:16:2816 [32minfo[39m: [32mhandled 0 offline messages/notifications[39m
+2025-07-18 00:28:16:2816 [32minfo[39m: [32m0 pre-keys found on server[39m
+2025-07-18 00:28:16:2816 [32minfo[39m: [32m{ count: 30 }[39m
+2025-07-18 00:28:16:2816 [32minfo[39m: [32m{ count: 30 }[39m
+2025-07-18 00:28:16:2816 [32minfo[39m: [32m{ count: 30 }[39m
+2025-07-18 00:28:16:2816 [32minfo[39m: [32mopened connection to WA[39m
+2025-07-18 00:28:16:2816 [33mwarn[39m: [33mno name present, ignoring presence update request...[39m
+2025-07-18 00:28:16:2816 [32minfo[39m: [32mSessão teste_1752809348112 conectada com sucesso[39m
+2025-07-18 00:28:16:2816 [32minfo[39m: [32m[teste_1752809348112] Iniciando sincronização automática de contatos após conexão...[39m
+2025-07-18 00:28:16:2816 [32minfo[39m: [32m{ count: 30 }[39m
+2025-07-18 00:28:16:2816 [32minfo[39m: [32m{[39m
+[32m  newAppStateSyncKeyId: 'AAAAAGKF',[39m
+[32m  newKeys: [[39m
+[32m    'AAAAAGJ2', 'AAAAAGJp',[39m
+[32m    'AAAAAGJy', 'AAAAAGJ6',[39m
+[32m    'AAAAAGJt', 'AAAAAGKH',[39m
+[32m    'AAAAAGJ+', 'AAAAAGKE',[39m
+[32m    'AAAAAGJv', 'AAAAAGJr',[39m
+[32m    'AAAAAGJ/', 'AAAAAGJ4',[39m
+[32m    'AAAAAGKB', 'AFIAAGJw',[39m
+[32m    'AAAAAGJ8', 'AAAAAGKJ',[39m
+[32m    'AAAAAGJz', 'AAAAAGKC',[39m
+[32m    'AAAAAGJ1', 'AAAAAGKF'[39m
+[32m  ][39m
+[32m}[39m
+2025-07-18 00:28:17:2817 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:19:2819 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] 🔄 Iniciando sincronização automática de contatos...[39m
+2025-07-18 00:28:19:2819 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] Testando fonte: getContacts[39m
+2025-07-18 00:28:19:2819 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] Testando fonte: authState[39m
+2025-07-18 00:28:19:2819 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] Testando fonte: chatHistory[39m
+2025-07-18 00:28:19:2819 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] Testando fonte: forceSync[39m
+2025-07-18 00:28:19:2819 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] Tentando estratégia agressiva de sincronização...[39m
+2025-07-18 00:28:19:2819 [33mwarn[39m: [33mno name present, ignoring presence update request...[39m
+2025-07-18 00:28:20:2820 [33mwarn[39m: [33m[teste_1752809348112] [AUTO_SYNC] ⚠️ Nenhum contato encontrado através das fontes diretas[39m
+2025-07-18 00:28:20:2820 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] Tentando estratégia alternativa...[39m
+2025-07-18 00:28:20:2820 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] Tentando obter nomes para 1 contatos existentes...[39m
+2025-07-18 00:28:21:2821 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] 🎉 Sincronização concluída: 0/0 contatos salvos[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32mdoing initial app state sync[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32m{[39m
+[32m  histNotification: HistorySyncNotification {[39m
+[32m    fileSha256: Uint8Array(32) [[39m
+[32m      198, 230, 150, 224,  84, 238,  32, 194,[39m
+[32m       90,  19,  98,  58,  79, 247,  86,  22,[39m
+[32m      138,  10, 241, 148,  24, 234, 153, 166,[39m
+[32m      158, 178,  71, 131, 110, 209, 211, 216[39m
+[32m    ],[39m
+[32m    fileLength: Long { low: 14555, high: 0, unsigned: true },[39m
+[32m    mediaKey: Uint8Array(32) [[39m
+[32m       31, 146, 139, 128, 242, 153,  21,  28,[39m
+[32m      212,  80,  80, 117, 249, 176,  22, 185,[39m
+[32m      195, 255,   5, 163, 142, 212, 176,   2,[39m
+[32m      252, 162, 105, 191,  81, 236,  90,   4[39m
+[32m    ],[39m
+[32m    fileEncSha256: Uint8Array(32) [[39m
+[32m      238, 87, 151,  80,   1,  66,  48,  72,[39m
+[32m       62, 52,  44, 143, 218,  10,  25,  36,[39m
+[32m      216, 52,  77,  77,   2, 152,  23, 157,[39m
+[32m      132, 93,  94, 222, 214, 235, 150, 195[39m
+[32m    ],[39m
+[32m    directPath: '/v/t62.31111-24/13739802_1769610137238991_8447834926167138803_n.enc?ccb=11-4&oh=01_Q5Aa2AEG5VO2-P-jlbGCs8_00SZlUZ7uCPO5VML5VvRxwuGfXg&oe=68A11843&_nc_sid=5e03e0',[39m
+[32m    syncType: 5,[39m
+[32m    encHandle: 'AQFiSlx49mNN72zqC4DIdzWlGWs1k5nw7F-lsrLzsQImtA-pGg52TJ1Y5d0xpnY0ClXflKG5riwpTv7yu4Xi6svnciHN79kU-zih4KVNYpjhOkwG-14gi58XICaJBT640rT_nGF5CeoU1CYCkuY'[39m
+[32m  },[39m
+[32m  process: false,[39m
+[32m  id: '3AAC34F79CE93C54A9FA',[39m
+[32m  isLatest: true[39m
+[32m}[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32mresyncing critical_block from v0[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32mresyncing critical_unblock_low from v0[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32mresyncing regular_high from v0[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32mresyncing regular_low from v0[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32mresyncing regular from v0[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:25:2825 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32m[CONVERSATIONS] Retornando 3 conversas + 65 contatos = 68 total[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32m[CONVERSATIONS] Retornando 3 conversas + 65 contatos = 68 total[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32mrestored state of regular from snapshot to v25 with mutations[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32msynced regular to v28[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32mrestored state of critical_unblock_low from snapshot to v17 with mutations[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32msynced critical_unblock_low to v19[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32mrestored state of critical_block from snapshot to v13 with mutations[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32msynced critical_block to v15[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32mrestored state of regular_high from snapshot to v12 with mutations[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32msynced regular_high to v14[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32mrestored state of regular_low from snapshot to v23 with mutations[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32msynced regular_low to v25[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32marchive setting updated => 'false'[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32mNova mensagem enviada na sessão teste_1752809348112:[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING_DEBUG] Estrutura completa da mensagem:[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING] [DISPOSITIVO_MÓVEL] Processando mensagem enviada (protocolMessage): [tipo: protocolMessage][39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] Recebidos 66 contatos novos/atualizados[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32mContato upserted: 5511930320306[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 5511930320306 -> Thaise[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32m[teste_1752809348112] Contato destinatário encontrado no banco: 556198278919[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32mContato upserted: 556199886442[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556199886442 -> Valeria[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32mContato upserted: 557199572813[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557199572813 -> Tia Danda[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32mContato upserted: 556195968942[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556195968942 -> Stephany[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32mContato upserted: 557799874754[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557799874754 -> Lurizada[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32mConversa existente atualizada: 24f8ebea-716d-4d43-acdc-ab5a0d51433f <-> 4cde0de9-ce82-4505-87b5-a8ed751995b8[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32mContato upserted: 557799313439[39m
+2025-07-18 00:28:26:2826 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557799313439 -> Ycaro[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 557799944238[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557799944238 -> Paçoca[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING] Debug info: phone_jid=556198278919:93@s.whatsapp.net, wa_id=556198278919, fromNumber=556198278919, toNumber=556198278919[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING] Salvando mensagem enviada no banco:[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 558199615180[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 558199615180 -> Cliente[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mMensagem inserida:[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING] Resultado do insertWhatsappMessage (enviada):[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING] ✅ Mensagem salva com sucesso, ID: 97ef2a81-ce3b-4bf6-93d0-0bf29869dc6d[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 556181238738[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556181238738 -> Gustavo[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 556186233434[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556186233434 -> Tia Leide[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 556181808736[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556181808736 -> Tia Neuci[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 556183770993[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556183770993 -> Mateus [39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 557799636080[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557799636080 -> Jorge Curioso[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 557799274141[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557799274141 -> Felipe Primo[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 556191724173[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556191724173 -> Dentista[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 556199706219[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556199706219 -> Casa[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 555181905580[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 555181905580 -> Ellen[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 556185813726[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556185813726 -> Wesley Macedo[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 556198319696[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556198319696 -> Luiza[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 557798747778[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557798747778 -> Lucas Dias[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 556192515548[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556192515548 -> Nerivam[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 556191341602[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556191341602 -> Jon[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mContato upserted: 556198741420[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556198741420 -> João[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mGET /api/whatsapp/conversations/ce7cce61-3188-4777-becf-56f888ad79be/messages - ::1[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: ce7cce61-3188-4777-becf-56f888ad79be, limit: 50[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mGET /api/whatsapp/conversations/ce7cce61-3188-4777-becf-56f888ad79be - ::1[39m
+2025-07-18 00:28:27:2827 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112 - ::1[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112 - ::1[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mContato upserted: 556191973840[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556191973840 -> Eric[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[MESSAGES] Encontradas 0 mensagens para conversa ce7cce61-3188-4777-becf-56f888ad79be[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mGET /api/whatsapp/conversations/ce7cce61-3188-4777-becf-56f888ad79be/messages - ::1[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: ce7cce61-3188-4777-becf-56f888ad79be, limit: 50[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mGET /api/whatsapp/conversations/ce7cce61-3188-4777-becf-56f888ad79be - ::1[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mContato upserted: 556185863999[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556185863999 -> Junior [39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[MESSAGES] Encontradas 0 mensagens para conversa ce7cce61-3188-4777-becf-56f888ad79be[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mContato upserted: 556199787642[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556199787642 -> Kamila Santos[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mContato upserted: 5511995586534[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 5511995586534 -> Jin[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mContato upserted: 556182076427[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556182076427 -> Bia[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mContato upserted: 556191718261[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556191718261 -> Fahel[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mContato upserted: 557781507262[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557781507262 -> Greg[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mContato upserted: 556182546624[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556182546624 -> Ygor[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mContato upserted: 556198261231[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556198261231 -> Kainã[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mContato upserted: 556183124363[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556183124363 -> Rubson[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mContato upserted: 556185488337[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556185488337 -> Eric[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mContato upserted: 557791019322[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557791019322 -> Amanda[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mContato upserted: 557798331744[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557798331744 -> Chavin[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mContato upserted: 557781187278[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557781187278 -> Gabriel Cordeiro[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32mContato upserted: 556198478122[39m
+2025-07-18 00:28:28:2828 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556198478122 -> Gabriel [39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32mContato upserted: 556196723617[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556196723617 -> Arthur[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32mContato upserted: 557781536050[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557781536050 -> Pikeno[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32mContato upserted: 557798499644[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557798499644 -> Tio Tebinha[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32mContato upserted: 556181764267[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556181764267 -> Tia Gi[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32mContato upserted: 556196722008[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556196722008 -> Ingrind[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32mContato upserted: 557799045052[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557799045052 -> Felepe[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32mContato upserted: 556195246814[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556195246814 -> Blenner[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32mContato upserted: 556199010291[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556199010291 -> Duda[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32mContato upserted: 556199526036[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556199526036 -> Eliane[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32mContato upserted: 556198928320[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556198928320 -> Brenin[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32mContato upserted: 556184970398[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556184970398 -> Renanzin[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32mContato upserted: 5521975295144[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 5521975295144 -> Arthur Tuca[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32mContato upserted: 557798587034[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557798587034 -> Caio[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32mContato upserted: 556184144547[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556184144547 -> Grazielle[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32mContato upserted: 556198161912[39m
+2025-07-18 00:28:29:2829 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556198161912 -> Grazão[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32mContato upserted: 556192994936[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556192994936 -> Emerson[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32mContato upserted: 557788793031[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557788793031 -> Arnica[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32mContato upserted: 556181614355[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556181614355 -> Drogaria Familia CSB 08[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32mContato upserted: 556198777899[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556198777899 -> Eugenio[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32mContato upserted: 557791174898[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557791174898 -> Vó Nemesia[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32mContato upserted: 557781048383[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557781048383 -> Peda[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32mContato upserted: 556199562423[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556199562423 -> Mainha[39m
+2025-07-18 00:29:42:2942 [32minfo[39m: [32mContato upserted: 557781323631[39m
+2025-07-18 00:29:42:2942 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 557781323631 -> ‪+5577981323631‬[39m
+2025-07-18 00:29:43:2943 [32minfo[39m: [32mContato upserted: 556184540519[39m
+2025-07-18 00:29:43:2943 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556184540519 -> Laura[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32mContato upserted: 5521979315751[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 5521979315751 -> Mth[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32mContato upserted: 556186113234[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556186113234 -> Nilmara Sogra[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32mContato upserted: 556199636744[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556199636744 -> Morgana[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32mContato upserted: 556192001972[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] ✅ 556192001972 -> Geni[39m
+2025-07-18 00:28:30:2830 [32minfo[39m: [32m[teste_1752809348112] [CONTACTS_UPSERT] Sincronizados 66/66 contatos[39m
+2025-07-18 00:28:35:2835 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:40:2840 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:45:2845 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:50:2850 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:28:55:2855 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:00:290 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:05:295 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:10:2910 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:30:28:3028 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: Connection was lost\n' +[39m
+[32m    '    at Timeout._onTimeout (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)\n' +[39m
+[32m    '    at listOnTimeout (node:internal/timers:588:17)\n' +[39m
+[32m    '    at process.processTimers (node:internal/timers:523:7)'[39m
+[32m}[39m
+2025-07-18 00:30:28:3028 [32minfo[39m: [32mConexão fechada para sessão teste_1752809348112, reconectando: true[39m
+2025-07-18 00:29:15:2915 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:18:2918 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:18:2918 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:29:18:2918 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:18:2918 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:18:2918 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:18:2918 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:18:2918 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:18:2918 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:18:2918 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:19:2919 [32minfo[39m: [32m[CONVERSATIONS] Retornando 3 conversas + 65 contatos = 68 total[39m
+2025-07-18 00:29:19:2919 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:29:19:2919 [32minfo[39m: [32m[CONVERSATIONS] Retornando 3 conversas + 65 contatos = 68 total[39m
+2025-07-18 00:29:20:2920 [32minfo[39m: [32mBaileys v2.3000.1023223821, latest: true[39m
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+2025-07-18 00:29:21:2921 [32minfo[39m: [32m{[39m
+[32m  browser: [ 'WapiChat', 'Chrome', '1.0.0' ],[39m
+[32m  helloMsg: HandshakeMessage {[39m
+[32m    clientHello: ClientHello {[39m
+[32m      ephemeral: <Buffer f2 26 c4 4e fb fd de 59 91 2e fc 2e b6 34 77 96 87 1b db 6b 23 cd 4e ad fa 21 5e c1 dd da 97 44>[39m
+[32m    }[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32m{[39m
+[32m  node: ClientPayload {[39m
+[32m    shards: [],[39m
+[32m    username: Long { low: -2147469561, high: 129, unsigned: true },[39m
+[32m    passive: false,[39m
+[32m    userAgent: UserAgent {[39m
+[32m      platform: 14,[39m
+[32m      appVersion: [AppVersion],[39m
+[32m      mcc: '000',[39m
+[32m      mnc: '000',[39m
+[32m      osVersion: '0.1',[39m
+[32m      device: 'Desktop',[39m
+[32m      osBuildNumber: '0.1',[39m
+[32m      releaseChannel: 0,[39m
+[32m      localeLanguageIso6391: 'en',[39m
+[32m      localeCountryIso31661Alpha2: 'US'[39m
+[32m    },[39m
+[32m    webInfo: WebInfo { webSubPlatform: 0 },[39m
+[32m    connectType: 1,[39m
+[32m    connectReason: 1,[39m
+[32m    device: 93,[39m
+[32m    pull: true[39m
+[32m  }[39m
+[32m}[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32mGET /api/whatsapp/conversations/6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd/messages - ::1[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: 6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd, limit: 50[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32mGET /api/whatsapp/conversations/6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd - ::1[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112 - ::1[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112 - ::1[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32m[MESSAGES] Encontradas 5 mensagens para conversa 6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32mGET /api/whatsapp/conversations/6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd/messages - ::1[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: 6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd, limit: 50[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32mGET /api/whatsapp/conversations/6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd - ::1[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32m[MESSAGES] Encontradas 5 mensagens para conversa 6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32m{ fromTimestamp: 1752809296 }[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32mhandled 0 offline messages/notifications[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32m30 pre-keys found on server[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32mopened connection to WA[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32mSessão teste_1752809348112 conectada com sucesso[39m
+2025-07-18 00:29:21:2921 [32minfo[39m: [32m[teste_1752809348112] Iniciando sincronização automática de contatos após conexão...[39m
+2025-07-18 00:29:23:2923 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:24:2924 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] 🔄 Iniciando sincronização automática de contatos...[39m
+2025-07-18 00:29:24:2924 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] Testando fonte: getContacts[39m
+2025-07-18 00:29:24:2924 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] Testando fonte: authState[39m
+2025-07-18 00:29:24:2924 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] Testando fonte: chatHistory[39m
+2025-07-18 00:29:24:2924 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] Testando fonte: forceSync[39m
+2025-07-18 00:29:24:2924 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] Tentando estratégia agressiva de sincronização...[39m
+2025-07-18 00:29:25:2925 [33mwarn[39m: [33m[teste_1752809348112] [AUTO_SYNC] ⚠️ Nenhum contato encontrado através das fontes diretas[39m
+2025-07-18 00:29:25:2925 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] Tentando estratégia alternativa...[39m
+2025-07-18 00:29:26:2926 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] Tentando obter nomes para 1 contatos existentes...[39m
+2025-07-18 00:29:26:2926 [32minfo[39m: [32m[teste_1752809348112] [AUTO_SYNC] 🎉 Sincronização concluída: 0/0 contatos salvos[39m
+2025-07-18 00:29:27:2927 [32minfo[39m: [32mGET /api/whatsapp/conversations/ce7cce61-3188-4777-becf-56f888ad79be/messages - ::1[39m
+2025-07-18 00:29:27:2927 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: ce7cce61-3188-4777-becf-56f888ad79be, limit: 50[39m
+2025-07-18 00:29:27:2927 [32minfo[39m: [32mGET /api/whatsapp/conversations/ce7cce61-3188-4777-becf-56f888ad79be - ::1[39m
+2025-07-18 00:29:27:2927 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112 - ::1[39m
+2025-07-18 00:29:27:2927 [32minfo[39m: [32m[MESSAGES] Encontradas 0 mensagens para conversa ce7cce61-3188-4777-becf-56f888ad79be[39m
+2025-07-18 00:29:27:2927 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-18 00:29:29:2929 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:29:2929 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:29:29:2929 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:29:2929 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:29:2929 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:29:2929 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:29:2929 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:29:2929 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:29:2929 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:29:2929 [32minfo[39m: [32m[CONVERSATIONS] Retornando 3 conversas + 65 contatos = 68 total[39m
+2025-07-18 00:29:29:2929 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:29:29:2929 [32minfo[39m: [32m[CONVERSATIONS] Retornando 3 conversas + 65 contatos = 68 total[39m
+2025-07-18 00:29:31:2931 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:31:2931 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:29:31:2931 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:31:2931 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:31:2931 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:31:2931 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:31:2931 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:31:2931 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:31:2931 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:31:2931 [32minfo[39m: [32m[CONVERSATIONS] Retornando 3 conversas + 65 contatos = 68 total[39m
+2025-07-18 00:29:31:2931 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:29:31:2931 [32minfo[39m: [32m[CONVERSATIONS] Retornando 3 conversas + 65 contatos = 68 total[39m
+2025-07-18 00:29:32:2932 [32minfo[39m: [32mGET /api/whatsapp/conversations/ce7cce61-3188-4777-becf-56f888ad79be/messages - ::1[39m
+2025-07-18 00:29:32:2932 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: ce7cce61-3188-4777-becf-56f888ad79be, limit: 50[39m
+2025-07-18 00:29:32:2932 [32minfo[39m: [32mGET /api/whatsapp/conversations/ce7cce61-3188-4777-becf-56f888ad79be - ::1[39m
+2025-07-18 00:29:32:2932 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112 - ::1[39m
+2025-07-18 00:29:32:2932 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112 - ::1[39m
+2025-07-18 00:29:33:2933 [32minfo[39m: [32m[MESSAGES] Encontradas 0 mensagens para conversa ce7cce61-3188-4777-becf-56f888ad79be[39m
+2025-07-18 00:29:33:2933 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-18 00:29:33:2933 [32minfo[39m: [32mGET /api/whatsapp/conversations/ce7cce61-3188-4777-becf-56f888ad79be/messages - ::1[39m
+2025-07-18 00:29:33:2933 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: ce7cce61-3188-4777-becf-56f888ad79be, limit: 50[39m
+2025-07-18 00:29:33:2933 [32minfo[39m: [32m[MESSAGES] Encontradas 0 mensagens para conversa ce7cce61-3188-4777-becf-56f888ad79be[39m
+2025-07-18 00:29:33:2933 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-18 00:29:33:2933 [32minfo[39m: [32mGET /api/whatsapp/conversations/ce7cce61-3188-4777-becf-56f888ad79be - ::1[39m
+2025-07-18 00:29:36:2936 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:41:2941 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:46:2946 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:29:51:2951 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:31:08:318 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:31:13:3113 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:31:18:3118 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:30:11:3011 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:30:16:3016 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:30:21:3021 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:30:26:3026 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:30:31:3031 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:30:36:3036 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:30:41:3041 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:30:46:3046 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:30:51:3051 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:30:56:3056 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:31:01:311 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:31:06:316 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:31:11:3111 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:31:16:3116 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:31:21:3121 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:31:26:3126 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:31:31:3131 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:31:36:3136 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:31:41:3141 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:31:46:3146 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:31:51:3151 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:31:56:3156 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:32:01:321 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:32:06:326 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:32:47:3247 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:33:18:3318 [32minfo[39m: [32m{[39m
+[32m  histNotification: HistorySyncNotification {[39m
+[32m    fileSha256: Uint8Array(32) [[39m
+[32m       99, 222,  7,  97,  48, 165, 218,  83,[39m
+[32m      206, 190, 73,  88,  61, 185, 248, 119,[39m
+[32m      200,  11, 37,  99, 130, 116,  11, 108,[39m
+[32m      237, 190, 61, 116, 152, 200, 150, 190[39m
+[32m    ],[39m
+[32m    fileLength: Long { low: 405973, high: 0, unsigned: true },[39m
+[32m    mediaKey: Uint8Array(32) [[39m
+[32m       49, 183, 171,   2,  54,  73, 255, 43,[39m
+[32m       88,  95,  10,  49, 196, 116,   4, 59,[39m
+[32m       68, 206,  92, 147, 190, 121,  89, 27,[39m
+[32m      252, 230, 110,  68, 236,  48, 248, 70[39m
+[32m    ],[39m
+[32m    fileEncSha256: Uint8Array(32) [[39m
+[32m      157,  18, 217, 133, 146, 182, 244, 132,[39m
+[32m       69,   5,  32, 216,  99, 160, 251, 105,[39m
+[32m      123, 254, 200,  35,  10, 232,  64,  49,[39m
+[32m       52,  35,  64,  73,  51,   5, 193, 101[39m
+[32m    ],[39m
+[32m    directPath: '/v/t62.31111-24/40785864_1465286481287897_5140814945067795454_n.enc?ccb=11-4&oh=01_Q5Aa2AFYpBE39kn0vvOVTi3gDCiRIvpJr0CCFuayuBAGa4CZeA&oe=68A12A50&_nc_sid=5e03e0',[39m
+[32m    syncType: 0,[39m
+[32m    chunkOrder: 1,[39m
+[32m    progress: 100,[39m
+[32m    encHandle: 'AQEeU_mhQvRYFTc0d3Ds-G6C4UzxARs9p3wkXSbp_t4uNkvRDRdqJy2sXDIjFJEd9KkW0BgCGZJBNaWbPQJZSgyGxute-kAulizvOg3p4OJFnouT44AoXfJSQvIajsmaHFJAIiPnd95Lo2sbkpw'[39m
+[32m  },[39m
+[32m  process: true,[39m
+[32m  id: '3AC7222A501B6755A55F',[39m
+[32m  isLatest: true[39m
+[32m}[39m
+2025-07-18 00:33:18:3318 [32minfo[39m: [32mNova mensagem enviada na sessão teste_1752809348112:[39m
+2025-07-18 00:33:18:3318 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING_DEBUG] Estrutura completa da mensagem:[39m
+2025-07-18 00:33:18:3318 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING] [DISPOSITIVO_MÓVEL] Processando mensagem enviada (protocolMessage): [tipo: protocolMessage][39m
+2025-07-18 00:33:18:3318 [32minfo[39m: [32m[teste_1752809348112] Contato destinatário obtido do cache: 556198278919[39m
+2025-07-18 00:33:19:3319 [32minfo[39m: [32mConversa existente atualizada: 24f8ebea-716d-4d43-acdc-ab5a0d51433f <-> 4cde0de9-ce82-4505-87b5-a8ed751995b8[39m
+2025-07-18 00:33:19:3319 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING] Debug info: phone_jid=556198278919:93@s.whatsapp.net, wa_id=556198278919, fromNumber=556198278919, toNumber=556198278919[39m
+2025-07-18 00:33:19:3319 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING] Salvando mensagem enviada no banco:[39m
+2025-07-18 00:33:19:3319 [32minfo[39m: [32mMensagem inserida:[39m
+2025-07-18 00:33:19:3319 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING] Resultado do insertWhatsappMessage (enviada):[39m
+2025-07-18 00:33:19:3319 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING] ✅ Mensagem salva com sucesso, ID: f63d554c-f717-46aa-baf1-0daac1b83e09[39m
+2025-07-18 00:33:20:3320 [32minfo[39m: [32m{[39m
+[32m  histNotification: HistorySyncNotification {[39m
+[32m    fileSha256: Uint8Array(32) [[39m
+[32m       36, 145, 233, 141,  38, 242,  67, 119,[39m
+[32m      181,  29, 101,  14, 104, 101,  39, 103,[39m
+[32m       30, 207, 177,   2, 175,  18, 151, 123,[39m
+[32m      168,  20, 242, 113,  47, 204, 244, 146[39m
+[32m    ],[39m
+[32m    fileLength: Long { low: 9512, high: 0, unsigned: true },[39m
+[32m    mediaKey: Uint8Array(32) [[39m
+[32m       81, 103,   1, 164, 184, 235,  88, 251,[39m
+[32m      186, 237, 205,  70,  35, 162, 143, 119,[39m
+[32m       14,  74, 173,  84, 244,  16, 123, 149,[39m
+[32m      101, 114, 216,  72, 160,  54, 120, 246[39m
+[32m    ],[39m
+[32m    fileEncSha256: Uint8Array(32) [[39m
+[32m        2, 218,  10, 152, 175, 220,  29,  32,[39m
+[32m      132, 135,  62,  31, 235,  83, 227, 211,[39m
+[32m      165, 186,  46, 225,  92, 116, 252, 113,[39m
+[32m      160, 103, 242,   2, 212, 118,  65, 159[39m
+[32m    ],[39m
+[32m    directPath: '/v/t62.31111-24/521780461_1741736573381793_4049104193098923570_n.enc?ccb=11-4&oh=01_Q5Aa2AFQ7geqApzQbbkBEYHRsoTNKlELsZY9x5DltFMLSUKYJA&oe=68A12AB5&_nc_sid=5e03e0',[39m
+[32m    syncType: 1,[39m
+[32m    chunkOrder: 1,[39m
+[32m    progress: 100,[39m
+[32m    encHandle: 'AQFQn-rUTj8GSKrTfiRnFfQZEwT-7kQOg8GMuOsIAaN_Rt_uBUEsos-rn7ZVcvWHVt26vLZqtHQL1PxVUPlEdgsVDFdDDcPlFAQp_OuK_yGw3cb2l8FTWIYLOhzzGW9PpCrD1zz3oJdAsVny970'[39m
+[32m  },[39m
+[32m  process: false,[39m
+[32m  id: '3A3C0F88553B5669E9C2',[39m
+[32m  isLatest: false[39m
+[32m}[39m
+2025-07-18 00:33:20:3320 [32minfo[39m: [32mNova mensagem enviada na sessão teste_1752809348112:[39m
+2025-07-18 00:33:20:3320 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING_DEBUG] Estrutura completa da mensagem:[39m
+2025-07-18 00:33:20:3320 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING] [DISPOSITIVO_MÓVEL] Processando mensagem enviada (protocolMessage): [tipo: protocolMessage][39m
+2025-07-18 00:33:20:3320 [32minfo[39m: [32m[teste_1752809348112] Contato destinatário obtido do cache: 556198278919[39m
+2025-07-18 00:33:20:3320 [32minfo[39m: [32mConversa existente atualizada: 24f8ebea-716d-4d43-acdc-ab5a0d51433f <-> 4cde0de9-ce82-4505-87b5-a8ed751995b8[39m
+2025-07-18 00:33:20:3320 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING] Debug info: phone_jid=556198278919:93@s.whatsapp.net, wa_id=556198278919, fromNumber=556198278919, toNumber=556198278919[39m
+2025-07-18 00:33:20:3320 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING] Salvando mensagem enviada no banco:[39m
+2025-07-18 00:33:20:3320 [32minfo[39m: [32mMensagem inserida:[39m
+2025-07-18 00:33:20:3320 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING] Resultado do insertWhatsappMessage (enviada):[39m
+2025-07-18 00:33:20:3320 [32minfo[39m: [32m[teste_1752809348112] [OUTGOING] ✅ Mensagem salva com sucesso, ID: fb35e584-795c-449c-bece-9b93981448d2[39m
+2025-07-18 00:33:47:3347 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:34:47:3447 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:35:47:3547 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:36:47:3647 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:37:47:3747 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:38:47:3847 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:39:47:3947 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:40:47:4047 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:41:47:4147 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:42:47:4247 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:43:47:4347 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:15:4415 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:16:4416 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:19:4419 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:19:4419 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:44:19:4419 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:19:4419 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:19:4419 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:19:4419 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:19:4419 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:19:4419 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:19:4419 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:19:4419 [32minfo[39m: [32m[CONVERSATIONS] Retornando 3 conversas + 65 contatos = 68 total[39m
+2025-07-18 00:44:19:4419 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:44:19:4419 [32minfo[39m: [32m[CONVERSATIONS] Retornando 3 conversas + 65 contatos = 68 total[39m
+2025-07-18 00:44:21:4421 [32minfo[39m: [32mGET /api/whatsapp/conversations/6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd/messages - ::1[39m
+2025-07-18 00:44:21:4421 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: 6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd, limit: 50[39m
+2025-07-18 00:44:21:4421 [32minfo[39m: [32mGET /api/whatsapp/conversations/6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd - ::1[39m
+2025-07-18 00:44:21:4421 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112 - ::1[39m
+2025-07-18 00:44:21:4421 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112 - ::1[39m
+2025-07-18 00:44:21:4421 [32minfo[39m: [32m[MESSAGES] Encontradas 7 mensagens para conversa 6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd[39m
+2025-07-18 00:44:21:4421 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-18 00:44:21:4421 [32minfo[39m: [32mGET /api/whatsapp/conversations/6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd/messages - ::1[39m
+2025-07-18 00:44:21:4421 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: 6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd, limit: 50[39m
+2025-07-18 00:44:21:4421 [32minfo[39m: [32mGET /api/whatsapp/conversations/6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd - ::1[39m
+2025-07-18 00:44:21:4421 [32minfo[39m: [32m[MESSAGES] Encontradas 7 mensagens para conversa 6ac26c28-d1b3-4a9a-9265-7c88c6bdb8bd[39m
+2025-07-18 00:44:21:4421 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-18 00:44:23:4423 [32minfo[39m: [32mGET /api/whatsapp/conversations/0c1e9d08-bb30-4ae5-bad1-e1762625c66e/messages - ::1[39m
+2025-07-18 00:44:23:4423 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: 0c1e9d08-bb30-4ae5-bad1-e1762625c66e, limit: 50[39m
+2025-07-18 00:44:23:4423 [32minfo[39m: [32mGET /api/whatsapp/conversations/0c1e9d08-bb30-4ae5-bad1-e1762625c66e - ::1[39m
+2025-07-18 00:44:23:4423 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112 - ::1[39m
+2025-07-18 00:44:23:4423 [32minfo[39m: [32m[MESSAGES] Encontradas 1 mensagens para conversa 0c1e9d08-bb30-4ae5-bad1-e1762625c66e[39m
+2025-07-18 00:44:23:4423 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-18 00:44:23:4423 [32minfo[39m: [32mGET /api/whatsapp/conversations/ce7cce61-3188-4777-becf-56f888ad79be/messages - ::1[39m
+2025-07-18 00:44:23:4423 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: ce7cce61-3188-4777-becf-56f888ad79be, limit: 50[39m
+2025-07-18 00:44:23:4423 [32minfo[39m: [32mGET /api/whatsapp/conversations/ce7cce61-3188-4777-becf-56f888ad79be - ::1[39m
+2025-07-18 00:44:23:4423 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112 - ::1[39m
+2025-07-18 00:44:23:4423 [32minfo[39m: [32m[MESSAGES] Encontradas 0 mensagens para conversa ce7cce61-3188-4777-becf-56f888ad79be[39m
+2025-07-18 00:44:23:4423 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-18 00:44:24:4424 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:28:4428 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:28:4428 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:44:28:4428 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:28:4428 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:28:4428 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:28:4428 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:28:4428 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:28:4428 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:28:4428 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:28:4428 [32minfo[39m: [32m[CONVERSATIONS] Retornando 3 conversas + 65 contatos = 68 total[39m
+2025-07-18 00:44:28:4428 [32minfo[39m: [32mGET /api/whatsapp/conversations - ::1[39m
+2025-07-18 00:44:29:4429 [32minfo[39m: [32m[CONVERSATIONS] Retornando 3 conversas + 65 contatos = 68 total[39m
+2025-07-18 00:44:29:4429 [32minfo[39m: [32mGET /api/whatsapp/conversations/0c1e9d08-bb30-4ae5-bad1-e1762625c66e/messages - ::1[39m
+2025-07-18 00:44:29:4429 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: 0c1e9d08-bb30-4ae5-bad1-e1762625c66e, limit: 50[39m
+2025-07-18 00:44:29:4429 [32minfo[39m: [32mGET /api/whatsapp/conversations/0c1e9d08-bb30-4ae5-bad1-e1762625c66e - ::1[39m
+2025-07-18 00:44:29:4429 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112 - ::1[39m
+2025-07-18 00:44:29:4429 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112 - ::1[39m
+2025-07-18 00:44:29:4429 [32minfo[39m: [32m[MESSAGES] Encontradas 1 mensagens para conversa 0c1e9d08-bb30-4ae5-bad1-e1762625c66e[39m
+2025-07-18 00:44:29:4429 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-18 00:44:29:4429 [32minfo[39m: [32mGET /api/whatsapp/conversations/0c1e9d08-bb30-4ae5-bad1-e1762625c66e/messages - ::1[39m
+2025-07-18 00:44:29:4429 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: 0c1e9d08-bb30-4ae5-bad1-e1762625c66e, limit: 50[39m
+2025-07-18 00:44:29:4429 [32minfo[39m: [32mGET /api/whatsapp/conversations/0c1e9d08-bb30-4ae5-bad1-e1762625c66e - ::1[39m
+2025-07-18 00:44:29:4429 [32minfo[39m: [32m[MESSAGES] Encontradas 1 mensagens para conversa 0c1e9d08-bb30-4ae5-bad1-e1762625c66e[39m
+2025-07-18 00:44:29:4429 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-18 00:44:31:4431 [32minfo[39m: [32mGET /api/whatsapp/conversations/ce7cce61-3188-4777-becf-56f888ad79be/messages - ::1[39m
+2025-07-18 00:44:31:4431 [32minfo[39m: [32m[MESSAGES] Buscando mensagens para conversa: ce7cce61-3188-4777-becf-56f888ad79be, limit: 50[39m
+2025-07-18 00:44:31:4431 [32minfo[39m: [32mGET /api/whatsapp/conversations/ce7cce61-3188-4777-becf-56f888ad79be - ::1[39m
+2025-07-18 00:44:31:4431 [32minfo[39m: [32mGET /api/whatsapp/sessions/teste_1752809348112 - ::1[39m
+2025-07-18 00:44:31:4431 [32minfo[39m: [32m[MESSAGES] Encontradas 0 mensagens para conversa ce7cce61-3188-4777-becf-56f888ad79be[39m
+2025-07-18 00:44:31:4431 [32minfo[39m: [32m[MESSAGES] Detalhes das mensagens:[39m
+2025-07-18 00:44:33:4433 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:38:4438 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:44:4444 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:49:4449 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:54:4454 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:44:59:4459 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:45:04:454 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:45:09:459 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:45:14:4514 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:45:19:4519 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:45:24:4524 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:45:29:4529 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:45:34:4534 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:45:39:4539 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:45:47:4547 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:46:47:4647 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:47:47:4747 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:48:47:4847 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:51:00:510 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:52:00:520 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:51:47:5147 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:52:47:5247 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:53:47:5347 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:54:47:5447 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:55:47:5547 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:56:47:5647 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:58:15:5815 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:57:03:573 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:57:08:578 [32minfo[39m: [32mGET /api/whatsapp/sessions - ::1[39m
+2025-07-18 00:57:32:5732 [31merror[39m: [31m{ node: { tag: 'stream:error', attrs: {}, content: [ [Object] ] } }[39m
+2025-07-18 00:57:32:5732 [32minfo[39m: [32m{[39m
+[32m  trace: 'Error: Stream Errored (conflict)\n' +[39m
+[32m    '    at WebSocketClient.<anonymous> (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:524:13)\n' +[39m
+[32m    '    at WebSocketClient.emit (node:events:518:28)\n' +[39m
+[32m    '    at /mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:241:35\n' +[39m
+[32m    '    at Object.decodeFrame (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Utils/noise-handler.js:144:17)\n' +[39m
+[32m    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)'[39m
+[32m}[39m
+2025-07-18 00:57:32:5732 [31merror[39m: [31m[teste_1752809348112] Conflito de sessão detectado (Stream Errored). Limpando sessão do disco e do Map.[39m
+node:fs:1201
+  binding.rmdir(path);
+          ^
+
+Error: ENOTEMPTY: directory not empty, rmdir 'sessions/teste_1752809348112'
+    at Object.rmdirSync (node:fs:1201:11)
+    at _rmdirSync (node:internal/fs/rimraf:261:21)
+    at rimrafSync (node:internal/fs/rimraf:194:7)
+    at Object.rmSync (node:fs:1247:10)
+    at EventEmitter.<anonymous> (/mnt/c/Users/samuel/Documents/wapi-chat/backend/src/services/baileys/WhatsAppManager.js:134:16)
+    at EventEmitter.emit (node:events:530:35)
+    at EventEmitter.<anonymous> (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Utils/event-buffer.js:40:16)
+    at EventEmitter.emit (node:events:518:28)
+    at Object.emit (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Utils/event-buffer.js:94:23)
+    at end (/mnt/c/Users/samuel/Documents/wapi-chat/backend/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:267:12) {
+  errno: -39,
+  code: 'ENOTEMPTY',
+  syscall: 'rmdir',
+  path: 'sessions/teste_1752809348112'
+}
+
+Node.js v22.17.0

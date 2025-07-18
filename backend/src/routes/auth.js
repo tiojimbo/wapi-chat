@@ -4,6 +4,7 @@ const logger = require('../utils/logger');
 const ClickUpService = require('../services/clickup/ClickUpService');
 const SupabaseService = require('../services/supabase/SupabaseService');
 const ClickUpSyncService = require('../services/clickup/ClickUpSyncService');
+const axios = require('axios');
 
 // Login (placeholder - será implementado com Supabase Auth)
 router.post('/login', async (req, res) => {
@@ -82,6 +83,42 @@ router.get('/clickup/login', (req, res) => {
   res.redirect(url);
 });
 
+// Função para registrar webhook no ClickUp
+async function registerClickUpWebhook(team_id, access_token) {
+  const webhookUrl = process.env.CLICKUP_WEBHOOK_URL || 'https://wapi-chat.onrender.com/api/auth/clickup/webhook';
+  const events = [
+    'taskCreated', 'taskUpdated', 'taskDeleted',
+    'listCreated', 'listUpdated', 'listDeleted',
+    'folderCreated', 'folderUpdated', 'folderDeleted',
+    'spaceCreated', 'spaceUpdated', 'spaceDeleted'
+  ];
+  const response = await axios.post(
+    `https://api.clickup.com/api/v2/team/${team_id}/webhook`,
+    {
+      endpoint: webhookUrl,
+      events,
+      // Você pode adicionar um secret para validação extra se desejar
+    },
+    {
+      headers: { Authorization: access_token }
+    }
+  );
+  return response.data;
+}
+
+// Endpoint para receber webhooks do ClickUp
+router.post('/clickup/webhook', async (req, res) => {
+  try {
+    const event = req.body;
+    // TODO: Processar o evento e atualizar/inserir dados no Supabase conforme o tipo
+    console.log('[ClickUpWebhook] Evento recebido:', event.event, event);
+    // Exemplo: se event.event === 'taskCreated', inserir/atualizar task no Supabase
+    res.status(200).json({ received: true });
+  } catch (err) {
+    res.status(500).json({ error: 'Erro ao processar webhook do ClickUp', details: err.message });
+  }
+});
+
 // Callback do ClickUp OAuth2
 router.get('/clickup/callback', async (req, res) => {
   const { code, state } = req.query;
@@ -100,17 +137,6 @@ router.get('/clickup/callback', async (req, res) => {
 
     // Upsert no Supabase
     const supabase = SupabaseService.getClient();
-    // Log do payload antes do upsert
-    console.log('Payload para upsert:', {
-      team_id: team.id,
-      name: team.name,
-      color: team.color,
-      avatar: team.avatar,
-      members: team.members,
-      access_token: tokenData.access_token,
-      updated_at: new Date().toISOString()
-    });
-
     const { data, error } = await supabase
       .from('clickup_workspaces')
       .upsert({
@@ -123,11 +149,21 @@ router.get('/clickup/callback', async (req, res) => {
         updated_at: new Date().toISOString()
       }, { onConflict: ['team_id'] });
 
-    // Log do resultado do upsert
-    console.log('Resultado do upsert:', { data, error });
-
     if (error) {
       return res.status(500).json({ error: 'Erro ao salvar workspace no banco', details: error.message });
+    }
+
+    // Sincronizar todos os dados do ClickUp automaticamente após login
+    console.log('[DEBUG] Iniciando sincronização do ClickUp...');
+    await ClickUpSyncService.syncAllFromWorkspace(team.id);
+    console.log('[DEBUG] Sincronização do ClickUp finalizada.');
+
+    // Registrar webhook automaticamente
+    try {
+      const webhookResult = await registerClickUpWebhook(team.id, tokenData.access_token);
+      console.log('[ClickUpWebhook] Webhook registrado:', webhookResult);
+    } catch (webhookErr) {
+      console.error('[ClickUpWebhook] Erro ao registrar webhook:', webhookErr.message);
     }
 
     res.json({ token: tokenData, user: userData, workspace: team, state });

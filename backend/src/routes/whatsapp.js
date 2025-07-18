@@ -518,4 +518,10 @@ router.get('/conversations/:conversationId', async (req, res) => {
   }
 });
 
+// Importar rota de busca contextual
+const contextLookupRouter = require('./context-lookup');
+
+// Adicionar rota de busca contextual
+router.use('/', contextLookupRouter);
+
 module.exports = router; 
